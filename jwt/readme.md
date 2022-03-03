@@ -33,4 +33,26 @@ Your json should look like this:
   }
 ```
 
+E.g. https://jwt.io will try to get signing info from /.well-known/openid-configuration,
+so add this file with this info:
+
+````json
+{
+   "issuer": "https://www.tcpr.link/",
+   "authorization_endpoint": "https://www.tcpr.link/",
+   "jwks_uri":"https://www.tcpr.link/.well-known/jwks.json",
+   "response_types_supported": [
+     "code", "token"
+   ],
+   "subject_types_supported": [
+     "public", "pairwise"
+   ],
+   "id_token_encryption_alg_values_supported": [
+     "RSA-OAEP", "RSA1_5", "RSA-OAEP-256"
+   ],
+   "token_endpoint": "https://www.tcpr.link/token",
+   "introspection_endpoint": "https://www.tcpr.link/token",
+   "revocation_endpoint": "https://www.tcpr.link/token",
+}
+```
 

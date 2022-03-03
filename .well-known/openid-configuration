@@ -1,6 +1,6 @@
 {
   "issuer": "https://www.tcpr.link/",
-  "authorization_endpoint": "https://www.tcpr.link/",
+  "authorization_endpoint": "https://www.tcpr.link/jwt/auth",
   "jwks_uri":"https://www.tcpr.link/.well-known/jwks.json",
   "response_types_supported": [
     "code", "token"
@@ -11,7 +11,7 @@
   "id_token_encryption_alg_values_supported": [
     "RSA-OAEP", "RSA1_5", "RSA-OAEP-256"
   ],
-  "token_endpoint": "https://www.tcpr.link/token",
-  "introspection_endpoint": "https://www.tcpr.link/token",
-  "revocation_endpoint": "https://www.tcpr.link/token",
+  "token_endpoint": "https://www.tcpr.link/jwt/token",
+  "introspection_endpoint": "https://www.tcpr.link/jwt/introspection",
+  "revocation_endpoint": "https://www.tcpr.link/jwt/revocation"
 }
