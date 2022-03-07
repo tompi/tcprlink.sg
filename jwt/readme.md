@@ -242,8 +242,6 @@ to get all urls correctly changed...).
 To do it in code, run this snippet:
 
 ```csharp
-// See https://aka.ms/new-console-template for more information
-
 using System.IdentityModel.Tokens.Jwt;
 using Microsoft.IdentityModel.Tokens;
 
