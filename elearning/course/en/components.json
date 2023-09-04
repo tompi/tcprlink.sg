@@ -1,0 +1,4793 @@
+[
+  {
+    "_component": "laerdal-media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>[Tonje &amp; Marzie will update the video and replace it. Tonje will look at the text]</p>",
+    "_id": "61654b0be0cba43896ebd8c1",
+    "_parentId": "61654b0be0cba43896ebd899",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "Please watch this short presentation of TCPR Link",
+    "_media": {
+      "title": "Media title",
+      "mp4": "course/en/assets/b3974fe8e72677b507f9f7a617ec7c350fd0f870.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/3d6e52833fdc2706a78a84b385428403d2ead3bc.png",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_debug": false,
+    "_loop": false,
+    "_resetOnEnd": false,
+    "_pauseWhenOffScreen": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "inlineTranscriptTitle": "Transcript",
+      "inlineTranscriptBody": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "laerdal-iframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Feedback and suggestions",
+    "displayTitle": "Feedback and suggestions",
+    "body": "",
+    "_id": "61654b0be0cba43896ebd8c2",
+    "_parentId": "61654b0be0cba43896ebd89a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_headingSettings": {
+        "_headerType": "none"
+      },
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_complexImage": {
+        "_buttonText": "Image description",
+        "_complexDescriptionTitle": "Image description",
+        "_complexDescription": ""
+      },
+      "_questionSettings": {
+        "_overrideQuestionButtonsInFooter": false
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "_source": "https://forms.office.com/Pages/ResponsePage.aspx?id=hO8jsjfr4ESO-WtmajW9zmfcakSY2ExDlnNkCKi-2MxUMThWN1BIQlhWQzBHVTFBME9KWkRHM1NYUC4u",
+    "_courseAsset": "",
+    "_scrolling": "no",
+    "_width": {
+      "_small": 0,
+      "_medium": 0,
+      "_large": 0
+    },
+    "_height": {
+      "_small": 0,
+      "_medium": 0,
+      "_large": 0
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61654b0be0cba43896ebd8c3",
+    "_parentId": "61654b0be0cba43896ebd89b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_headingSettings": {
+        "_headerType": "none"
+      },
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_complexImage": {
+        "_buttonText": "Image description",
+        "_complexDescriptionTitle": "Image description",
+        "_complexDescription": ""
+      },
+      "_questionSettings": {
+        "_overrideQuestionButtonsInFooter": false
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_References": {
+          "_buttonText": "References",
+          "_ReferencesDescriptionTitle": "References",
+          "_ReferencesDescription": ""
+        },
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/66777e0031a5f4b8de6352cfee3c10343b7ae3c9.jpg",
+      "small": "course/en/assets/6125772b24259cce6c8e89e875fb1db188472cb7.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "How bystanders can perform high quality CPR, using the TCPR link",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61654b0be0cba43896ebd8c4",
+    "_parentId": "61654b0be0cba43896ebd8a2",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_duration": 1,
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "References",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0eb5df7f357c3249ac3334aebbad6780750ef8b6.png",
+      "small": "course/en/assets/0eb5df7f357c3249ac3334aebbad6780750ef8b6.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "How high quality CPR can drastically increase the chance of survival from cardiac arrest",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61654b0be0cba43896ebd8c5",
+    "_parentId": "61654b0be0cba43896ebd89d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_headingSettings": {
+        "_headerType": "none"
+      },
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_complexImage": {
+        "_buttonText": "Image description",
+        "_complexDescriptionTitle": "Image description",
+        "_complexDescription": ""
+      },
+      "_questionSettings": {
+        "_overrideQuestionButtonsInFooter": false
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_References": {
+          "_buttonText": "References",
+          "_ReferencesDescriptionTitle": "References",
+          "_ReferencesDescription": ""
+        },
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3fc0a570401fdbbfa480fc4d92b9804585d2b998.png",
+      "small": "course/en/assets/3fc0a570401fdbbfa480fc4d92b9804585d2b998.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p style=\"text-align:right\">Created by Laerdal Medical 2020</p>",
+    "_id": "61654b0be0cba43896ebd8c6",
+    "_parentId": "61654b0be0cba43896ebd8a1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_headingSettings": {
+        "_headerType": "none"
+      },
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_complexImage": {
+        "_buttonText": "Image description",
+        "_complexDescriptionTitle": "Image description",
+        "_complexDescription": ""
+      },
+      "_questionSettings": {
+        "_overrideQuestionButtonsInFooter": false
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_References": {
+          "_buttonText": "References",
+          "_ReferencesDescriptionTitle": "References",
+          "_ReferencesDescription": ""
+        },
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "icon": "none",
+    "isAttention": false
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The importance of CPR",
+    "displayTitle": "",
+    "body": "<p>The odds of surviving from sudden out-of-hospital cardiac arrest is only about 10 percent.<br /><br />However, if high quality CPR is delivered immidiately after cardiac arrest the chances of survival increases to 45 percent.<br />&nbsp;</p><p><a href=\"https://cpr.heart.org/en/resources/cpr-facts-and-stats\">https://cpr.heart.org/en/resources/cpr-facts-and-stats</a></p>",
+    "_id": "61654b0be0cba43896ebd8c7",
+    "_parentId": "61654b0be0cba43896ebd89d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_headingSettings": {
+        "_headerType": "none"
+      },
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_complexImage": {
+        "_buttonText": "Image description",
+        "_complexDescriptionTitle": "Image description",
+        "_complexDescription": ""
+      },
+      "_questionSettings": {
+        "_overrideQuestionButtonsInFooter": false
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_inPracticeMode": false,
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "Reference description",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "icon": "none",
+    "isAttention": false
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>TCPR link connects bystanders of cardiac arrest with emergency telephone operators.<br /><br />By transmitting live data of the CPR performance from the bystander, the dispatcher&nbsp;is able to provide&nbsp;critical telephone support, to optimize&nbsp;quality of CPR delivered before the ambulance personnel&nbsp;arrives and takes over.</p>",
+    "_id": "61654b0be0cba43896ebd8c8",
+    "_parentId": "61654b0be0cba43896ebd8a2",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_headingSettings": {
+        "_headerType": "none"
+      },
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_complexImage": {
+        "_buttonText": "Image description",
+        "_complexDescriptionTitle": "Image description",
+        "_complexDescription": ""
+      },
+      "_questionSettings": {
+        "_overrideQuestionButtonsInFooter": false
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_inPracticeMode": false,
+        "_diveDeeperMode": false,
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "Reference description",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "A card and an app",
+    "displayTitle": "A card and an app",
+    "body": "<p>TCPR link is comprised of a CPR Card and a Smartphone App.&nbsp;</p><p><strong>The CPR card</strong>&nbsp;is connected to your smartphone. It should be placed on the chest of the patient to measure the rate and depth of your compressions and provide continuous&nbsp;visual feedback.</p><p><strong>The smartphone app</strong>&nbsp;also provides visual feedback and streams your performance data in real time to the dispatcher, who is a skilled CPR coach&nbsp;that will guide and encourage you to perform quality CPR until the ambulance arrives and takes over.&nbsp;&nbsp;</p>",
+    "_id": "61654b0be0cba43896ebd8c9",
+    "_parentId": "61654b0be0cba43896ebd89e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_headingSettings": {
+        "_headerType": "none"
+      },
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_complexImage": {
+        "_buttonText": "Image description",
+        "_complexDescriptionTitle": "Image description",
+        "_complexDescription": ""
+      },
+      "_questionSettings": {
+        "_overrideQuestionButtonsInFooter": false
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_inPracticeMode": false,
+        "_diveDeeperMode": false,
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "References",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61654b0be0cba43896ebd8ca",
+    "_parentId": "61654b0be0cba43896ebd89e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a919e74fdb5b82bb6ff7a778f4692a446ba4ff03.png",
+      "small": "course/en/assets/a919e74fdb5b82bb6ff7a778f4692a446ba4ff03.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61654b0be0cba43896ebd8cb",
+    "_parentId": "61654b0be0cba43896ebd8a3",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_duration": 1,
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "References",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5fd0a148352d86b2f53bf4a706b2b58aecd5eec2.png",
+      "small": "course/en/assets/5fd0a148352d86b2f53bf4a706b2b58aecd5eec2.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Step 3/7: Turn on CPR Card",
+    "displayTitle": "Step 3/7: Turn on CPR Card",
+    "body": "<p>Press the power button to turn on the CPR card.</p><p><em>It will now automatically connect to your phone through Bluetooth.</em></p>",
+    "_id": "61654b0be0cba43896ebd8cc",
+    "_parentId": "61654b0be0cba43896ebd8a3",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_duration": 1,
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "References",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61654b0be0cba43896ebd8cd",
+    "_parentId": "61654b0be0cba43896ebd8a7",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_duration": 1,
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "References",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/63ec0bf3d40f5602c039f3d885f9891f5340116f.png",
+      "small": "course/en/assets/63ec0bf3d40f5602c039f3d885f9891f5340116f.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Step 5/7: Phone placement",
+    "displayTitle": "Step 5/7: Phone placement",
+    "body": "<p>Place your phone face-up beside the patient's head and kneel down by the patient's shoulder opposite your phone and prepare to give CPR.</p><p>&nbsp;</p><p>[placeholder] add H5P activity to place the phone correct [paceholder]</p>",
+    "_id": "61654b0be0cba43896ebd8ce",
+    "_parentId": "61654b0be0cba43896ebd8a7",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61654b0be0cba43896ebd8cf",
+    "_parentId": "61654b0be0cba43896ebd8aa",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_duration": 1,
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "References",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/987c9c7e1492e8e48f11e416eea351cc563a2642.png",
+      "small": "course/en/assets/987c9c7e1492e8e48f11e416eea351cc563a2642.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Step 7/7: Begin CPR",
+    "displayTitle": "Step 7/7: Begin CPR",
+    "body": "<p>You are now ready to begin giving chest compressions.</p><p>You will receive continuous visual feedback on both your compression depth and rate on the screen of your phone.&nbsp;</p>",
+    "_id": "61654b0be0cba43896ebd8d0",
+    "_parentId": "61654b0be0cba43896ebd8ab",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_duration": 1,
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "References",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>[MARZIE will update images]</p>",
+    "_id": "61654b0be0cba43896ebd8d1",
+    "_parentId": "61654b0be0cba43896ebd8a4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7dad690ee7f29fc7d03a52398dbb6c058b42647e.png",
+      "small": "course/en/assets/7dad690ee7f29fc7d03a52398dbb6c058b42647e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61654b0be0cba43896ebd8d2",
+    "_parentId": "61654b0be0cba43896ebd89f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/fdc1b5bcad2e38e3b05178b3c915678fb98b263e.png",
+      "small": "course/en/assets/fdc1b5bcad2e38e3b05178b3c915678fb98b263e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "Step 1/7: MyResponder App",
+    "body": "<p>The scenario begins when you receive an alert&nbsp;of a nearby emergency in your MyResponder app.<br />If you accept this alert, you will run to the scene of the emergency and tap the screen when you arrive. The myResponder app will automatically open TCPR Link app.</p>",
+    "_id": "61654b0be0cba43896ebd8d3",
+    "_parentId": "61654b0be0cba43896ebd89f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_duration": 1,
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "References",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61654b0be0cba43896ebd8d4",
+    "_parentId": "61654b0be0cba43896ebd8ac",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 30
+    },
+    "_lifeHelper": {
+      "_duration": 1,
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "References",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0eb5df7f357c3249ac3334aebbad6780750ef8b6.png",
+      "small": "course/en/assets/0eb5df7f357c3249ac3334aebbad6780750ef8b6.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "component",
+    "displayTitle": "",
+    "body": "<ul><li>How TCPR link can be used to improve the collaboration&nbsp;between&nbsp;CPR volunteers and emergency&nbsp;telephone operators to increase the odds of surviving from a cardiac arrest.<br />&nbsp;</li><li>How to set up and use TCPR Link together with CPR Card, enabling you to perform quality CPR in collaboration with a&nbsp;dispatcher.</li></ul><p>[placeholder] Update learning objectives to reflect the new LO's MARZIE and TONJE[placeholder]</p>",
+    "_id": "61654b0be0cba43896ebd8d5",
+    "_parentId": "61654b0be0cba43896ebd8a0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": 0,
+      "_paddingBottom": null
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Accept an alert from myResponder",
+    "displayTitle": "Accept an alert from myResponder",
+    "body": "<p>Remember to tap&nbsp;\"Tap when arrived\" when you arrive at the scene</p>",
+    "_id": "61654b0be0cba43896ebd8d6",
+    "_parentId": "61654b0be0cba43896ebd8a5",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_headingSettings": {
+        "_headerType": "none"
+      },
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_complexImage": {
+        "_buttonText": "Image description",
+        "_complexDescriptionTitle": "Image description",
+        "_complexDescription": ""
+      },
+      "_questionSettings": {
+        "_overrideQuestionButtonsInFooter": false
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_inPracticeMode": false,
+        "_diveDeeperMode": false,
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "References",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61654b0be0cba43896ebd8d7",
+    "_parentId": "61654b0be0cba43896ebd8a5",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_duration": 1,
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "References",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2d215d5644ac52ec8e5dde93f4657aa8e3d29bf9.png",
+      "small": "course/en/assets/2d215d5644ac52ec8e5dde93f4657aa8e3d29bf9.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Turn on CPR card",
+    "displayTitle": "Turn on CPR card",
+    "body": "<p>Turn on CPR card by pinching the card for a while when you arrive at the scene</p>",
+    "_id": "61654b0be0cba43896ebd8d8",
+    "_parentId": "61654b0be0cba43896ebd8a8",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_headingSettings": {
+        "_headerType": "none"
+      },
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_complexImage": {
+        "_buttonText": "Image description",
+        "_complexDescriptionTitle": "Image description",
+        "_complexDescription": ""
+      },
+      "_questionSettings": {
+        "_overrideQuestionButtonsInFooter": false
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_inPracticeMode": false,
+        "_diveDeeperMode": false,
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "References",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61654b0be0cba43896ebd8d9",
+    "_parentId": "61654b0be0cba43896ebd8a8",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_duration": 1,
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "References",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/dff55050ee2a51d1212b3e43de5a6748668359b5.png",
+      "small": "course/en/assets/dff55050ee2a51d1212b3e43de5a6748668359b5.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Do CPR",
+    "displayTitle": "Do CPR",
+    "body": "<p>Remember to place the CPRcard on the patient's chest and place the phone beside the patient. Follow the dispatcher's instructions. He or she&nbsp;will help you with this.&nbsp;</p>",
+    "_id": "61654b0be0cba43896ebd8da",
+    "_parentId": "61654b0be0cba43896ebd8a9",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_headingSettings": {
+        "_headerType": "none"
+      },
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_complexImage": {
+        "_buttonText": "Image description",
+        "_complexDescriptionTitle": "Image description",
+        "_complexDescription": ""
+      },
+      "_questionSettings": {
+        "_overrideQuestionButtonsInFooter": false
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_inPracticeMode": false,
+        "_diveDeeperMode": false,
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "References",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61654b0be0cba43896ebd8db",
+    "_parentId": "61654b0be0cba43896ebd8a9",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_duration": 1,
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "References",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f2bef783fe3e50de30f09d858fc13a323d546c64.png",
+      "small": "course/en/assets/f2bef783fe3e50de30f09d858fc13a323d546c64.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61654b0be0cba43896ebd8dc",
+    "_parentId": "61654b0be0cba43896ebd8a6",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/98e5bdd34ffae2fd5cac863d48d656b7c54e0d95.png",
+      "small": "course/en/assets/98e5bdd34ffae2fd5cac863d48d656b7c54e0d95.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Step 4/7: Card placement",
+    "displayTitle": "Step 4/7: Card placement",
+    "body": "<p>The&nbsp;card should be placed in the center of the patient's chest.</p><p>[MARZIE will update the images with the card]</p><p>&nbsp;</p><p>[placeholder] add H5P activity to practice placing the card correct on the chest [placeholder]</p>",
+    "_id": "61654b0be0cba43896ebd8dd",
+    "_parentId": "61654b0be0cba43896ebd8a6",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Step 6/7: Communicate with dispatcher",
+    "displayTitle": "Step 6/7: Communicate with dispatcher",
+    "body": "<p>The dispatcher will be able to communicate with you using the caller's phone. Make sure the caller's phone is close to&nbsp;you so you can clearly hear what the dispatcher is saying.</p>",
+    "_id": "61654b0be0cba43896ebd8de",
+    "_parentId": "61654b0be0cba43896ebd8aa",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_duration": 1,
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "References",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61654b0be0cba43896ebd8df",
+    "_parentId": "61654b0be0cba43896ebd8ab",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_duration": 1,
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "References",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0563868f99c00cd3dab9d220ced3b607d913d17d.png",
+      "small": "course/en/assets/0563868f99c00cd3dab9d220ced3b607d913d17d.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Dispatcher's role",
+    "displayTitle": "Dispatcher's role",
+    "body": "<p>The app streams CPR data to the dispatcher, who use this to coach you.</p>",
+    "_id": "61654b0be0cba43896ebd8e0",
+    "_parentId": "61654b0be0cba43896ebd8ad",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61654b0be0cba43896ebd8e1",
+    "_parentId": "61654b0be0cba43896ebd8ad",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_duration": 1,
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "References",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/00f60840ada7ee7ba612b3cc0dcf85e19ab1c1fe.png",
+      "small": "course/en/assets/00f60840ada7ee7ba612b3cc0dcf85e19ab1c1fe.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "laerdal-media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>[MArzie and Tonje will shoot a new video]</p>",
+    "_id": "61654b0be0cba43896ebd8e2",
+    "_parentId": "61654b0be0cba43896ebd8ae",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "_media": {
+      "title": "Media title",
+      "mp4": "course/en/assets/de27c50066024ff545d5613e80364735c12e3d02.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/cdafc5967659ac7e2489a586199e4257671f6ab2.jpg",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_debug": false,
+    "_loop": false,
+    "_resetOnEnd": false,
+    "_pauseWhenOffScreen": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "inlineTranscriptTitle": "Transcript",
+      "inlineTranscriptBody": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "laerdal-media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>[MARZIE and TONJE will make a new video]</p>",
+    "_id": "61654b0be0cba43896ebd8e3",
+    "_parentId": "61654b0be0cba43896ebd8af",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "Watch this video or follow the chain of events below",
+    "_media": {
+      "title": "Media title",
+      "mp4": "course/en/assets/9f08401db45382d12f9e74dda90489a413c0a454.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/db1be64ef55ef76a652784870ca583021d6803df.jpg",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_debug": false,
+    "_loop": false,
+    "_resetOnEnd": false,
+    "_pauseWhenOffScreen": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "inlineTranscriptTitle": "Transcript",
+      "inlineTranscriptBody": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "CPR feedback indicators",
+    "displayTitle": "CPR feedback indicators",
+    "body": "<p>&lt; Simon, can you make sure the illustrations are aligned with the text?<br />Also, can you remove the text to the furtherst right? - Correct depth and rate etc....<br />Make a new page for TCPRLink feedback description following the principle as the card:<br />- Correct depth and rate<br />- Too shallow and too fast<br />- Too deep and too slow</p><p><strong>Correct depth and rate</strong></p><p>The green light in the rate indicator lights up when a rate of 100 - 120 compressions per minute is reached.</p><p>Compression target for patient on a firm surface.&nbsp; A steady green light will light up when you reach the target.</p><p>&nbsp;</p><p><strong>Too shallow and too fast</strong></p><p>A steady yellow light will light up in the arrow or first bar if compressions are too shallow. Press deeper to achieve your depth target.</p><p>The left light in the rate indicator lights up yellow&nbsp;if the compression rate is too low</p><p>&nbsp;</p><p><strong>Too deep and too slow</strong></p><p>A steady yellow light will light up in the arrow or third bar if compressions are too deep. Release pressure to achieve your depth target.</p><p>The right light in the rate indicator lights up yellow if the compression rate is too high.</p>",
+    "_id": "61654b0be0cba43896ebd8e4",
+    "_parentId": "61654b0be0cba43896ebd8b0",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61654b0be0cba43896ebd8e5",
+    "_parentId": "61654b0be0cba43896ebd8b0",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_duration": 1,
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "References",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1d2999948d042ce468c701e97ba5d7abba5864a3.png",
+      "small": "course/en/assets/020f44b03f28ecae34f1ff8e3b093eac667226b3.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "How to use CPRcard",
+    "displayTitle": "How to use CPRcard",
+    "body": "<p>Turn the CPRcard on by pinching and holding the&nbsp;On/Off button.&nbsp;Two yellow lights will start flashing indicating that the device is on and ready for use.&nbsp;</p><p>Take off the liner&nbsp;<strong>only</strong>&nbsp;when using the CPRcard on a patient. Place the card with the placement line in the center of the chest. The feedback panel shall face towards the head&nbsp;of the patient.&nbsp;If needed wipe fluids off the chest.</p><p>Do <strong>not</strong>&nbsp;remove&nbsp;the liner if you only practice CPR with CPRcard on a manikin.&nbsp;</p><p>Use standard CPR hand placement technique.&nbsp;When the hands are placed correctly on the&nbsp;CPRcard, the feedback panel should be visible.</p><p>&nbsp;</p>",
+    "_id": "61654b0be0cba43896ebd8e6",
+    "_parentId": "61654b0be0cba43896ebd8b1",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_duration": 1,
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "References",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61654b0be0cba43896ebd8e7",
+    "_parentId": "61654b0be0cba43896ebd8b1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e9726a882da78dc447da8a9b44a7ccb6e0a6989d.png",
+      "small": "course/en/assets/e9726a882da78dc447da8a9b44a7ccb6e0a6989d.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61654b0be0cba43896ebd8e8",
+    "_parentId": "61654b0be0cba43896ebd8b2",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_duration": 1,
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "References",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ccb3b19ce7f2498736694955efe63e9a6bb3ef89.gif",
+      "small": "course/en/assets/ccb3b19ce7f2498736694955efe63e9a6bb3ef89.gif",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "icon-cpr",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "Chest compressions leaning...let's sleep on it...",
+    "body": "<p><em>Remember to release completely between each compression to allow the chest to recoil and the blood to return to the heart as seen here.<br />This will also help you achieve your target depth.</em></p>",
+    "_id": "61654b0be0cba43896ebd8e9",
+    "_parentId": "61654b0be0cba43896ebd8b2",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61654b0be0cba43896ebd8ea",
+    "_parentId": "61654b0be0cba43896ebd8b3",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_lifeHelper": {
+      "_duration": 1,
+      "_algoPart": {
+        "_learningObjective": "learning-objective-1",
+        "_selector": "",
+        "_showparts": "",
+        "_feedback": {
+          "_firstAttempt": "",
+          "_multipleAttempts": ""
+        }
+      },
+      "_stateGraphic": {
+        "_isEnabled": false,
+        "defaultAlt": "",
+        "default": "",
+        "correctAlt": "",
+        "correct": "",
+        "incorrectAlt": "",
+        "incorrect": ""
+      },
+      "_mediaSettings": {
+        "_mediaTitle": "Component media title",
+        "mp3": "",
+        "_transcript": {
+          "inlineTranscriptBody": ""
+        },
+        "_reference": {
+          "_buttonText": "References",
+          "_ReferenceDescriptionTitle": "References",
+          "referenceBody": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ba47f9770d2044f4e63b98dba2e9cbef70f89dce.jpg",
+      "small": "course/en/assets/ba47f9770d2044f4e63b98dba2e9cbef70f89dce.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Step 2/7: Remove clothes to bare the chest",
+    "displayTitle": "Step 2/7: Remove clothes to bare the chest",
+    "body": "<p>When you reach the patient, remove clothes to bare the chest,&nbsp;</p><p><em>The CPR card should be placed on the patient's bare skin.</em></p><p>&nbsp;</p><p>[placeholder] include an explanation for why it is important and necessay to remore the clothes [placeholder]</p>",
+    "_id": "61654b0be0cba43896ebd8eb",
+    "_parentId": "61654b0be0cba43896ebd8b3",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "_life": {
+      "_paddingTop": null,
+      "_paddingBottom": null
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "laerdal-text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "[placeholder] add text and illustrations for feedback indicators from Link App MARZIE and TONJE [placeholder]",
+    "displayTitle": "[placeholder] add text and illustrations for feedback indicators from Link App MARZIE and TONJE [placeholder]",
+    "body": "<table border=\"1\"><tbody><tr><td><p>10.&nbsp;Upon completion of this e-learning course&nbsp;</p></td><td><p>the&nbsp;MyResponder&nbsp;is able to&nbsp;</p></td><td><p>recall&nbsp;the&nbsp;meaning of the&nbsp;feedback indicators from the TCPR Link App&nbsp;</p></td><td><p>by&nbsp;matching the feedback indicators with the correct statements.&nbsp;</p></td></tr></tbody></table>",
+    "_id": "61654b0be0cba43896ebd8ec",
+    "_parentId": "61654b0be0cba43896ebd8b4",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "subtitle": ""
+  },
+  {
+    "_component": "laerdal-text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "[placeholder] Add instructions to download and open app and pair the app+card and add a button that the user needs to press to be allowed to continue once the learners completes the instructions [placeholder]",
+    "displayTitle": "[placeholder] Add instructions to download and open app and pair the app+card and add a button that the user needs to press to be allowed to continue once the learners completes the instructions [placeholder]",
+    "body": "<table border=\"1\"><tbody><tr><td><p>1.&nbsp;During&nbsp;this e-learning course&nbsp;</p></td><td><p>the&nbsp;MyResponder&nbsp;is able to&nbsp;</p></td><td><p>open&nbsp;the TCPR link app&nbsp;on&nbsp;their&nbsp;smartphone&nbsp;</p></td><td><p>by&nbsp;downloading and installing the app from&nbsp;Appstore or Google Play&nbsp;</p></td></tr><tr><td><p>2.&nbsp;Upon completion of this e-learning course&nbsp;</p></td><td><p>the&nbsp;MyResponder&nbsp;is able to&nbsp;</p></td><td><p>turn on the CPR card&nbsp;(preparation)&nbsp;</p></td><td><p>by locating and pressing the ON button&nbsp;&nbsp;</p></td></tr><tr><td><p>3. Upon completion of this e-learning course&nbsp;</p></td><td><p>the&nbsp;MyResponder&nbsp;is able to&nbsp;</p></td><td><p>pair the CPR card and the&nbsp;TCPR link&nbsp;app&nbsp;</p></td><td><p>by&nbsp;creating a Bluetooth connection between the devices.&nbsp;</p></td></tr></tbody></table><p>&nbsp;</p><p>[SIMON will add a button &amp; text that you press to indicate you did this before continuing]</p><p>[Split this content into 2 pages. 1) download, 2) paring</p>",
+    "_id": "61654b0be0cba43896ebd8ed",
+    "_parentId": "61654b0be0cba43896ebd8b5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "subtitle": ""
+  },
+  {
+    "_component": "laerdal-text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "[placeholder] sortable activity",
+    "displayTitle": "[placeholder] sortable activity",
+    "body": "<p>activity deleted due to non-support in adapt v. 5.0.<br /><br />We will need to replace the activity using another adapt/h5p&nbsp;component</p>",
+    "_id": "61654b0be0cba43896ebd8ee",
+    "_parentId": "61654b0be0cba43896ebd89c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "subtitle": ""
+  },
+  {
+    "_component": "laerdal-text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "[placeholder] dispatcher's role",
+    "displayTitle": "[placeholder] dispatcher's role",
+    "body": "<p>[placeholder] add additional information about the dispatcher's role. How data is being transmitted to her through the card + app, and how uses that data stream to provide coaching for the MyResponder. This could be a video of a simulated OCHA case featuring both the patient, MyResponder(s) and dispatcher MARZIE and TONJE will create a qucik and dirty first version&nbsp;[placeholder]<br /><br />[placeholder] add an activity to to indicate how data flows to the dispatcher. Could be a 'H5P image sequencing' activity [placeholder]</p>",
+    "_id": "61654b0be0cba43896ebd8ef",
+    "_parentId": "61654b0be0cba43896ebd8b6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "subtitle": ""
+  },
+  {
+    "_component": "laerdal-text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "[placeholder] Send the user to complete the app-activity [placeholder]",
+    "displayTitle": "[placeholder] Send the user to complete the app-activity [placeholder]",
+    "body": "<p>Introduce the learner to the training session in the app. [simulation mode]</p><p>Add a 'button of trust' where the user declares that she has completed the app exercise before she can move on in the eLearning.</p><p>&nbsp;</p>",
+    "_id": "61654b0ce0cba43896ebd8f0",
+    "_parentId": "61654b0be0cba43896ebd8b7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "subtitle": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "[placeholder] Replace this old sortabel activity [placeholder]",
+    "displayTitle": "[placeholder] Replace this old sortabel activity [placeholder]",
+    "body": "",
+    "_id": "61654b0ce0cba43896ebd8f1",
+    "_parentId": "61654b0be0cba43896ebd8b8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/cd775cb1190716380ccf817f0c31fec5b54ec758.jpg",
+      "small": "course/en/assets/cd775cb1190716380ccf817f0c31fec5b54ec758.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "laerdal-text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "[placeholder] Add final 'test'. Could be multiple choice type questions [placeholder]",
+    "displayTitle": "[placeholder] Add final 'test'. Could be multiple choice type questions [placeholder]",
+    "body": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:954px\"><tbody><tr><td style=\"width:159px\"><p>1. Upon completion of this e-learning course</p></td><td style=\"width:125px\"><p>the MyResponder is able to</p></td><td style=\"width:359px\"><p>describe the importance of quality CPR in the case of cardiac arrest, &nbsp;</p></td><td style=\"width:312px\"><p>by indicating how high quality CPR improves the chance of survival.&nbsp;&nbsp;</p></td></tr><tr><td style=\"width:159px\"><p>2. Upon completion of this e-learning course</p></td><td style=\"width:125px\"><p>the MyResponder is able to</p></td><td style=\"width:359px\"><p>list the components of quality CPR, (e.g. banner notifications of what’s quality CPR, at regular intervals)</p></td><td style=\"width:312px\"><p>by correctly identifying all the components (/minimum 80% of the components)</p></td></tr></tbody></table><p>&nbsp;</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:954px\"><tbody><tr><td style=\"width:159px\"><p>4. Upon completion of this e-learning course</p></td><td style=\"width:125px\"><p>the MyResponder is able to</p></td><td style=\"width:359px\"><p>recall the importance of placing the patient on the floor before CPR,</p></td><td style=\"width:312px\"><p>by selecting the correct statements about how patient placement influences CPR quality.</p></td></tr></tbody></table><p>&nbsp;</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:954px\"><tbody><tr><td style=\"width:159px\"><p>6. Upon completion of this e-learning course</p></td><td style=\"width:125px\"><p>the MyResponder is able to</p></td><td style=\"width:359px\"><p>recall the purpose of the CPR card,</p></td><td style=\"width:312px\"><p>by selecting all the correct statements about the functions of the CPR card. (/minimum 80% of the functions)</p></td></tr><tr><td style=\"height:26px; width:159px\"><p>7. Upon completion of this e-learning course</p></td><td style=\"height:26px; width:125px\"><p>the MyResponder is able to</p></td><td style=\"height:26px; width:359px\"><p>recall the purpose of the TCPR Link App</p></td><td style=\"height:26px; width:312px\"><p>by selecting all the correct statements about the functions of the CPR card. (/minimum 80% of the functions)</p></td></tr></tbody></table><p>&nbsp;</p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:954px\"><tbody><tr><td style=\"width:159px\"><p>9. Upon completion of this e-learning course</p></td><td style=\"width:125px\"><p>the MyResponder is able to</p></td><td style=\"width:359px\"><p>recall the meaning of the feedback indicators on the CPR card</p></td><td style=\"width:312px\"><p>by matching the feedback indicators with the correct statements.</p></td></tr><tr><td style=\"width:159px\"><p>10. Upon completion of this e-learning course</p></td><td style=\"width:125px\"><p>the MyResponder is able to</p></td><td style=\"width:359px\"><p>recall the meaning of the feedback indicators from the TCPR Link App</p></td><td style=\"width:312px\"><p>by matching the feedback indicators with the correct statements.</p></td></tr><tr><td style=\"width:159px\"><p>11. Upon completion of this e-learning course</p></td><td style=\"width:125px\"><p>the MyResponder is able to</p></td><td style=\"width:359px\"><p>recall the dispatcher’s role of monitoring live data from TCPR link</p></td><td style=\"width:312px\"><p>by selecting the correct statement</p></td></tr><tr><td style=\"width:159px\"><p>12. Upon completion of this e-learning course</p></td><td style=\"width:125px\"><p>the MyResponder is able to</p></td><td style=\"width:359px\"><p>recall the dispatcher’s role of coaching the MyResponder during a cardiac arrest incident</p></td><td style=\"width:312px\"><p>by matching examples of coaching to the role of the dispatcher. &nbsp;&nbsp;&nbsp;</p></td></tr><tr><td style=\"width:159px\"><p>13. Upon completion of this e-learning course</p></td><td style=\"width:125px\"><p>the MyResponder is able to</p></td><td style=\"width:359px\"><p>Infer the meaning of the instructions from the dispatcher</p></td><td style=\"width:312px\"><p>by correctly matching minimum 80% the examples of actual dispatcher instructions to their paraphrased versions.</p></td></tr></tbody></table>",
+    "_id": "61654b0ce0cba43896ebd8f2",
+    "_parentId": "61654b0be0cba43896ebd8b9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "subtitle": ""
+  },
+  {
+    "_component": "laerdal-text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "[placeholder] Update summary to reflect new inclusions [placeholder]",
+    "displayTitle": "[placeholder] Update summary to reflect new inclusions [placeholder]",
+    "body": "",
+    "_id": "61654b0ce0cba43896ebd8f3",
+    "_parentId": "61654b0be0cba43896ebd8ba",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "subtitle": ""
+  },
+  {
+    "_component": "laerdal-text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "[placeholder] Add a survey to gauge confidence and WTA [placeholder]",
+    "displayTitle": "[placeholder] Add a survey to gauge confidence and WTA [placeholder]",
+    "body": "<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:954px\"><tbody><tr><td style=\"width:159px\"><p>1. Upon completion of this combined learning experiencee-learning</p></td><td style=\"width:125px\"><p>the MyResponder is able to</p></td><td style=\"width:359px\"><p>express confidence in own ability to perform CPR</p></td><td style=\"width:312px\"><p>By selecting ‘high’ or ‘very high’ in the post-learning survey question</p></td></tr><tr><td style=\"width:159px\"><p>2. Upon completion of this e-learningcombined learning experience</p></td><td style=\"width:125px\"><p>the MyResponder is able to</p></td><td style=\"width:359px\"><p>express willingness to engage in teamwork with dispatcher and follow instructions (DA-CPR)</p></td><td style=\"width:312px\"><p>By selecting ‘high’ or ‘very high’ in the post-learning survey question</p></td></tr><tr><td style=\"width:159px\"><p>3. Upon completion of this e-learningcombined learning experience</p></td><td style=\"width:125px\"><p>the MyResponder is able to</p></td><td style=\"width:359px\"><p>express willingness to perform CPR in an actual OHCA situation</p></td><td style=\"width:312px\"><p>By selecting ‘high’ or ‘very high’ in the post-learning survey question</p></td></tr><tr><td style=\"width:159px\"><p>4. Upon completion of this e-learning combined learning experience</p></td><td style=\"width:125px\"><p>the MyResponder is able to</p></td><td style=\"width:359px\"><p>express confidence in own ability to use TCPR-link system</p></td><td style=\"width:312px\"><p>By selecting ‘high’ or ‘very high’ in the post-learning survey question</p></td></tr><tr><td style=\"width:159px\"><p>5. Upon completion of this e-learningcombined learning experience</p></td><td style=\"width:125px\"><p>the MyResponder is able to</p></td><td style=\"width:359px\"><p>express confidence in the CPR feedback from TCPR link system</p></td><td style=\"width:312px\"><p>By selecting ‘high’ or ‘very high’ in the post-learning survey question</p></td></tr><tr><td style=\"width:159px\"><p>6. Upon completion of this e-learningcombined learning experience</p></td><td style=\"width:125px\"><p>the MyResponder is able to</p></td><td style=\"width:359px\"><p>Express willingness to use TCPR link system when responding to OHCA</p></td><td style=\"width:312px\"><p>By selecting ‘high’ or ‘very high’ in the post-learning survey question</p></td></tr></tbody></table>",
+    "_id": "61654b0ce0cba43896ebd8f4",
+    "_parentId": "61654b0be0cba43896ebd8bb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "subtitle": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61654b0ce0cba43896ebd8f5",
+    "_parentId": "61654b0be0cba43896ebd8bc",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/10549512e17b5ce94a42be9864af447752ee3064.png",
+      "small": "course/en/assets/3bbd82f5aaf591ed9c49bdad5b16a9e81169276e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "laerdal-text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>To begin using the TCPR link you need to download the app to your smartphone and pair it with the CPR card.</p><p>Use your phone to scan the QR to the right or click the link below to download the TCPR Link app to your device.</p><p style=\"text-align:center\"><strong><a href=\"https://www.tcpr.link/\">TCPR link app</a></strong></p>",
+    "_id": "61654b0ce0cba43896ebd8f6",
+    "_parentId": "61654b0be0cba43896ebd8bc",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "subtitle": ""
+  },
+  {
+    "_component": "laerdal-h5p",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "[H5P EXAMPLE] phone placement activity for step 4 & 5 [H5P EXAMPLE] ",
+    "displayTitle": "[H5P EXAMPLE] phone placement activity for step 4 & 5 [H5P EXAMPLE] ",
+    "body": "",
+    "_id": "61654b0ce0cba43896ebd8f7",
+    "_parentId": "61654b0be0cba43896ebd8bd",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "h5pAsset": "course/en/assets/3c1262ff61f79dc9eb596ac840bf5058dd33dcd1.h5p",
+    "_isQuestionType": false,
+    "_debug": false
+  },
+  {
+    "_component": "laerdal-h5p",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "[H5P example] data flow from card to dispatcher [H5P example]",
+    "displayTitle": "[H5P example] data flow from card to dispatcher [H5P example]",
+    "body": "",
+    "_id": "61654b0ce0cba43896ebd8f8",
+    "_parentId": "61654b0be0cba43896ebd8be",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "h5pAsset": "course/en/assets/483caa6e25fe3b1eeebd6193b160fdcbf51747b2.h5p",
+    "_isQuestionType": false,
+    "_debug": false
+  },
+  {
+    "_component": "laerdal-h5p",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "[H5P replacement EXAMPLE] Sort the actions in the correct order of events [H5P replacement EXAMPLE] ",
+    "displayTitle": "[H5P replacement EXAMPLE] Sort the actions in the correct order of events [H5P replacement EXAMPLE] ",
+    "body": "",
+    "_id": "61654b0ce0cba43896ebd8f9",
+    "_parentId": "61654b0be0cba43896ebd8bf",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "h5pAsset": "course/en/assets/7687d62801252c7776f7f8f273e2dc29eaa76380.h5p",
+    "_isQuestionType": false,
+    "_debug": false
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "[Multiple choice content PLACEHOLDER] What can you do to help, if you encounter a person in cardiac arrest?",
+    "displayTitle": "[Multiple choice content PLACEHOLDER] What can you do to help, if you encounter a person in cardiac arrest?",
+    "body": "",
+    "_id": "61654b0ce0cba43896ebd8fa",
+    "_parentId": "61654b0be0cba43896ebd8c0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_button": {
+        "iconOnly": false,
+        "text": "",
+        "ariaLabel": "",
+        "iconClassName": "",
+        "className": ""
+      },
+      "_id": "",
+      "_simpleView": {
+        "title": "",
+        "body": ""
+      },
+      "_items": []
+    },
+    "_complexGraphicBackup": {
+      "_isEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Place them in recovery position until the feel better",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Call a taxi to take her to the hospital",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Call the emergency center and start performing quality CPR",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  }
+]

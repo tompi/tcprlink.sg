@@ -1,0 +1,141 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_fixes": {
+    "_imgLazyLoad": true
+  },
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "_disableAnimationFor": [],
+  "_id": "61654b0ce0cba43896ebd8fb",
+  "_courseId": "61654b0be0cba43896ebd880",
+  "_drawer": {
+    "_showEasing": "easeOutQuart",
+    "_hideEasing": "easeInQuart",
+    "_duration": 400,
+    "_position": "auto"
+  },
+  "_accessibility": {
+    "_isEnabled": false,
+    "_isSkipNavigationEnabled": true,
+    "_ariaLevels": {
+      "_menu": "1",
+      "_menuGroup": "@menu+1",
+      "_menuItem": "2",
+      "_page": "1",
+      "_article": "2",
+      "_block": "3",
+      "_component": "4",
+      "_componentItem": "5",
+      "_notify": "1"
+    }
+  },
+  "__v": 0,
+  "_completionCriteria": {
+    "_requireContentCompleted": true,
+    "_requireAssessmentCompleted": false,
+    "_submitOnEveryAssessmentAttempt": false,
+    "_shouldSubmitScore": false
+  },
+  "_logging": {
+    "_isEnabled": true,
+    "_level": "info",
+    "_console": true,
+    "_warnFirstOnly": true
+  },
+  "_scrollingContainer": {
+    "_isEnabled": false,
+    "_limitToSelector": ""
+  },
+  "screenSize": {
+    "small": 519,
+    "medium": 759,
+    "large": 1024,
+    "xlarge": 1280
+  },
+  "_trickle": {
+    "_isEnabled": true,
+    "_logState": false,
+    "_completionAttribute": "_isComplete"
+  },
+  "_eventStoreAnalytics": {
+    "_isEnabled": true,
+    "_isDebugMode": false,
+    "_projectTag": "",
+    "_items": [
+      {
+        "_deploymentURL": "https://www.tcpr.link/",
+        "_region": "EU",
+        "_environment": "TESTING"
+      }
+    ],
+    "_itemsECL": []
+  },
+  "_additionalMaterial": {
+    "_isEnabled": true
+  },
+  "_inlineFeedback": {
+    "_isEnabled": true,
+    "_useSemanticColors": true
+  },
+  "_navigationFooter": {
+    "_isEnabled": true
+  },
+  "_courseMenu": {
+    "_isEnabled": true,
+    "_pinnedMenu": {
+      "_isEnabled": false
+    }
+  },
+  "_analytics": {
+    "_isEnabled": true
+  },
+  "_imageEnlarge": {
+    "_isEnabled": true
+  },
+  "_articleReveal": {
+    "_isEnabled": true
+  },
+  "_laerdalMediaLibrary": {
+    "_isEnabled": true
+  },
+  "_cdnConfig": {
+    "_isEnabled": true,
+    "_cdnType": "course",
+    "_courseDeployment": {
+      "cdnid": "cdn-esim",
+      "groupid": "default-project",
+      "courseid": "tcpr link 2",
+      "version": "0.0.2"
+    },
+    "_manifestDeployment": {
+      "cdnid": "cdn-esim",
+      "groupid": "default-project",
+      "version": "0.0"
+    }
+  },
+  "pluginsIncluded": [
+    "adapt-lifeMenu",
+    "61e54514c6d6605e8f28494c",
+    "adapt-laerdal-media",
+    "adapt-laerdal-media-library",
+    "adapt-laerdal-iframe",
+    "adapt-contrib-graphic",
+    "adapt-contrib-text",
+    "adapt-laerdal-text",
+    "adapt-laerdal-h5p",
+    "adapt-contrib-mcq",
+    "adapt-article-reveal",
+    "adapt-cdn-config",
+    "adapt-contrib-trickle",
+    "adapt-inline-feedback",
+    "adapt-course-menu",
+    "adapt-navigation-footer",
+    "adapt-contrib-pageLevelProgress",
+    "adapt-additional-material",
+    "adapt-image-enlarge",
+    "adapt-analytics",
+    "adapt-event-store-analytics"
+  ]
+}
