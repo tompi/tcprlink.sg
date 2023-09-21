@@ -1122,36 +1122,43 @@ this["Handlebars"]["templates"]["article-reveal"] = Handlebars.template({"1":fun
     + "</span>\n    <span class=\"icon icon-controls-up\"></span>\n    <span class=\"icon icon-controls-down\"></span>\n  </button>\n\n</div>";
 },"useData":true});
 
-this["Handlebars"]["templates"]["version"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
-    var helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=container.hooks.helperMissing, alias3="function", alias4=container.escapeExpression, lookupProperty = container.lookupProperty || function(parent, propertyName) {
+this["Handlebars"]["templates"]["versionInfo"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
+    var lookupProperty = container.lookupProperty || function(parent, propertyName) {
         if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
           return parent[propertyName];
         }
         return undefined
     };
 
-  return "        "
-    + alias4(((helper = (helper = lookupProperty(helpers,"name") || (depth0 != null ? lookupProperty(depth0,"name") : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"name","hash":{},"data":data,"loc":{"start":{"line":8,"column":8},"end":{"line":8,"column":16}}}) : helper)))
-    + ", "
-    + alias4(((helper = (helper = lookupProperty(helpers,"version") || (depth0 != null ? lookupProperty(depth0,"version") : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"version","hash":{},"data":data,"loc":{"start":{"line":8,"column":18},"end":{"line":8,"column":29}}}) : helper)))
+  return "    "
+    + container.escapeExpression((lookupProperty(helpers,"plugin_info")||(depth0 && lookupProperty(depth0,"plugin_info"))||container.hooks.helperMissing).call(depth0 != null ? depth0 : (container.nullContext || {}),depth0,{"name":"plugin_info","hash":{},"data":data,"loc":{"start":{"line":8,"column":4},"end":{"line":8,"column":24}}}))
     + "\n";
 },"compiler":[8,">= 4.3.0"],"main":function(container,depth0,helpers,partials,data) {
-    var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=container.lambda, alias3=container.escapeExpression, lookupProperty = container.lookupProperty || function(parent, propertyName) {
+    var stack1, alias1=container.lambda, alias2=container.escapeExpression, alias3=depth0 != null ? depth0 : (container.nullContext || {}), lookupProperty = container.lookupProperty || function(parent, propertyName) {
         if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
           return parent[propertyName];
         }
         return undefined
     };
 
-  return "<div class=\"cdn-config__version\" role=\"button\" tabindex=\"0\" data-title=\"Copy version information to clipboard\" data-rel=\"tooltip\" onmouseenter=\"tooltip.call(this)\">"
-    + ((stack1 = ((helper = (helper = lookupProperty(helpers,"versionInfo") || (depth0 != null ? lookupProperty(depth0,"versionInfo") : depth0)) != null ? helper : container.hooks.helperMissing),(typeof helper === "function" ? helper.call(alias1,{"name":"versionInfo","hash":{},"data":data,"loc":{"start":{"line":1,"column":164},"end":{"line":1,"column":181}}}) : helper))) != null ? stack1 : "")
-    + "</div>\n<div class=\"cdn-config__full-details\">\n    <textarea id=\"cdn-config__js-clipboard-textarea\" aria-hidden=\"true\" tabindex=\"-1\" cols=\"35\" rows=\"4\">\n    "
-    + alias3(alias2(((stack1 = (depth0 != null ? lookupProperty(depth0,"versionData") : depth0)) != null ? lookupProperty(stack1,"fullVersion") : stack1), depth0))
-    + "\n    "
-    + alias3(alias2(((stack1 = (depth0 != null ? lookupProperty(depth0,"versionData") : depth0)) != null ? lookupProperty(stack1,"timestampPretty") : stack1), depth0))
-    + "\n\n"
-    + ((stack1 = lookupProperty(helpers,"each").call(alias1,(depth0 != null ? lookupProperty(depth0,"pluginInfoData") : depth0),{"name":"each","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":7,"column":4},"end":{"line":9,"column":13}}})) != null ? stack1 : "")
-    + "    </textarea>\n</div>";
+  return "Course version: "
+    + alias2(alias1(((stack1 = (depth0 != null ? lookupProperty(depth0,"cdnVersion") : depth0)) != null ? lookupProperty(stack1,"fullVersion") : stack1), depth0))
+    + "\nDeployment timestamp: "
+    + alias2(alias1(((stack1 = (depth0 != null ? lookupProperty(depth0,"cdnVersion") : depth0)) != null ? lookupProperty(stack1,"timestampPretty") : stack1), depth0))
+    + "\n\nAdapt Framework v"
+    + alias2(alias1(((stack1 = (depth0 != null ? lookupProperty(depth0,"package") : depth0)) != null ? lookupProperty(stack1,"version") : stack1), depth0))
+    + "\n\nComponents ("
+    + alias2(alias1(((stack1 = (depth0 != null ? lookupProperty(depth0,"components") : depth0)) != null ? lookupProperty(stack1,"length") : stack1), depth0))
+    + "):\n"
+    + ((stack1 = lookupProperty(helpers,"each").call(alias3,(depth0 != null ? lookupProperty(depth0,"components") : depth0),{"name":"each","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":7,"column":0},"end":{"line":9,"column":9}}})) != null ? stack1 : "")
+    + "\nExtensions ("
+    + alias2(alias1(((stack1 = (depth0 != null ? lookupProperty(depth0,"extensions") : depth0)) != null ? lookupProperty(stack1,"length") : stack1), depth0))
+    + "):\n"
+    + ((stack1 = lookupProperty(helpers,"each").call(alias3,(depth0 != null ? lookupProperty(depth0,"extensions") : depth0),{"name":"each","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":12,"column":0},"end":{"line":14,"column":9}}})) != null ? stack1 : "")
+    + "\nMenu:\n"
+    + ((stack1 = lookupProperty(helpers,"each").call(alias3,(depth0 != null ? lookupProperty(depth0,"menu") : depth0),{"name":"each","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":17,"column":0},"end":{"line":19,"column":9}}})) != null ? stack1 : "")
+    + "\nTheme:\n"
+    + ((stack1 = lookupProperty(helpers,"each").call(alias3,(depth0 != null ? lookupProperty(depth0,"theme") : depth0),{"name":"each","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":22,"column":0},"end":{"line":24,"column":9}}})) != null ? stack1 : "");
 },"useData":true});
 
 this["Handlebars"]["templates"]["pageLevelProgressIndicator"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {

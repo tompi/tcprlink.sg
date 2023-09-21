@@ -241,6 +241,10 @@
         "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
         "optionalContent": "Optional content",
         "_navOrder": 90,
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "Page progress"
+        },
         "_showLabel": true,
         "navLabel": "Page progress",
         "_drawerPosition": "auto"
@@ -268,6 +272,9 @@
             "_navOrder": 0
           }
         ]
+      },
+      "_cdnConfig": {
+        "_navOrder": 100
       }
     },
     "_menu": {

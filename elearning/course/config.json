@@ -59,6 +59,40 @@
     "_logState": false,
     "_completionAttribute": "_isComplete"
   },
+  "_cdnConfig": {
+    "_isEnabled": true,
+    "_courseDeployment": {
+      "cdnid": "cdn-esim",
+      "groupid": "default-project",
+      "courseid": "tcpr link 2",
+      "version": "0.0.3"
+    }
+  },
+  "_additionalMaterial": {
+    "_isEnabled": true
+  },
+  "_articleReveal": {
+    "_isEnabled": true
+  },
+  "_inlineFeedback": {
+    "_isEnabled": true,
+    "_useSemanticColors": true
+  },
+  "_imageEnlarge": {
+    "_isEnabled": true
+  },
+  "_analytics": {
+    "_isEnabled": true
+  },
+  "_navigationFooter": {
+    "_isEnabled": true
+  },
+  "_courseMenu": {
+    "_isEnabled": true,
+    "_pinnedMenu": {
+      "_isEnabled": false
+    }
+  },
   "_eventStoreAnalytics": {
     "_isEnabled": true,
     "_isDebugMode": false,
@@ -72,48 +106,8 @@
     ],
     "_itemsECL": []
   },
-  "_additionalMaterial": {
-    "_isEnabled": true
-  },
-  "_inlineFeedback": {
-    "_isEnabled": true,
-    "_useSemanticColors": true
-  },
-  "_navigationFooter": {
-    "_isEnabled": true
-  },
-  "_courseMenu": {
-    "_isEnabled": true,
-    "_pinnedMenu": {
-      "_isEnabled": false
-    }
-  },
-  "_analytics": {
-    "_isEnabled": true
-  },
-  "_imageEnlarge": {
-    "_isEnabled": true
-  },
-  "_articleReveal": {
-    "_isEnabled": true
-  },
   "_laerdalMediaLibrary": {
     "_isEnabled": true
-  },
-  "_cdnConfig": {
-    "_isEnabled": true,
-    "_cdnType": "course",
-    "_courseDeployment": {
-      "cdnid": "cdn-esim",
-      "groupid": "default-project",
-      "courseid": "tcpr link 2",
-      "version": "0.0.2"
-    },
-    "_manifestDeployment": {
-      "cdnid": "cdn-esim",
-      "groupid": "default-project",
-      "version": "0.0"
-    }
   },
   "pluginsIncluded": [
     "adapt-lifeMenu",
