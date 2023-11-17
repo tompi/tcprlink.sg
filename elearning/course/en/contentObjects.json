@@ -1,7 +1,7 @@
 [
   {
-    "title": "TCPR Link",
-    "displayTitle": "TCPR Link",
+    "title": "Chapter 1: introduction",
+    "displayTitle": "Chapter 1: introduction",
     "body": "",
     "_classes": "",
     "subtitle": "",
@@ -9,7 +9,7 @@
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "5-7 minutes",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -17,33 +17,24 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "61654b0be0cba43896ebd881",
+    "_ariaLevel": null,
+    "_id": "654df7d977c9ad1f96c18e8d",
     "_parentId": "course",
-    "_type": "page",
+    "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": ""
+      "src": "course/en/assets/381ee2cbaf964941c27b73b2e9feeef633eb7bd6.jpg"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_lifeHelper": {
-      "_pageLayout": {
-        "_fixPageFooter": "fixed"
-      },
-      "_footerText": "",
-      "_addContinue": true,
-      "_continueText": "Continue",
-      "_addContinueOnCompletion": false,
-      "_enableContinueOnCompletion": false,
-      "_isHyperContinue": false,
-      "_isHyperComplete": false,
-      "_navOnCompletion": false,
-      "_addPopup": false,
-      "_popupText": "Popup button label"
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_navigationFooter": {
       "_enableOverride": "",
@@ -69,16 +60,16 @@
         "_close": {
           "_enableOverride": "",
           "btnText": ""
+        },
+        "_custom": {
+          "_enableOverride": "",
+          "btnText": "",
+          "_id": ""
         }
       }
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_lifeMenu": {
+    "_overviewMenu": {
+      "_renderAsGroup": false,
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -90,6 +81,657 @@
         "_backgroundPosition": null
       },
       "_menuHeader": {
+        "_displayAboveHeader": false,
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    },
+    "_life": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "TCPR Link",
+    "displayTitle": "TCPR Link",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "654df7d977c9ad1f96c18e90",
+    "_parentId": "654df7d977c9ad1f96c18e8d",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_navigationFooter": {
+      "_enableOverride": "",
+      "_footerText": {
+        "text": ""
+      },
+      "_buttons": {
+        "_home": {
+          "_enableOverride": ""
+        },
+        "_up": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_previous": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_next": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_close": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_custom": {
+          "_enableOverride": "",
+          "btnText": "",
+          "_id": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_lifeMenu": {
+      "_renderAsGroup": false,
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_menuHeader": {
+        "_displayAboveHeader": false,
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    },
+    "_life": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Are you ready to start using TCPR Link?",
+    "displayTitle": "Are you ready to start using TCPR Link?",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Please use the information from this course to answer the following questions.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "654df7d977c9ad1f96c18e95",
+    "_parentId": "654df7d977c9ad1f96c18e8c",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_navigationFooter": {
+      "_enableOverride": "",
+      "_footerText": {
+        "text": ""
+      },
+      "_buttons": {
+        "_home": {
+          "_enableOverride": ""
+        },
+        "_up": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_previous": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_next": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_close": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_custom": {
+          "_enableOverride": "",
+          "btnText": "",
+          "_id": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_lifeMenu": {
+      "_renderAsGroup": false,
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_menuHeader": {
+        "_displayAboveHeader": false,
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    },
+    "_life": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "CPR feedback",
+    "displayTitle": "CPR feedback",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "654df7d977c9ad1f96c18e98",
+    "_parentId": "654df7d977c9ad1f96c18e8f",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_navigationFooter": {
+      "_enableOverride": "",
+      "_footerText": {
+        "text": ""
+      },
+      "_buttons": {
+        "_home": {
+          "_enableOverride": ""
+        },
+        "_up": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_previous": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_next": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_close": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_custom": {
+          "_enableOverride": "",
+          "btnText": "",
+          "_id": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_lifeMenu": {
+      "_renderAsGroup": false,
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "repeat",
+        "_backgroundSize": "auto",
+        "_backgroundPosition": "left top"
+      },
+      "_menuHeader": {
+        "_displayAboveHeader": false,
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "repeat",
+          "_backgroundSize": "auto",
+          "_backgroundPosition": "left top"
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    },
+    "_life": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "repeat",
+        "_backgroundSize": "auto",
+        "_backgroundPosition": "left top"
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "repeat",
+          "_backgroundSize": "auto",
+          "_backgroundPosition": "left top"
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Download TCPR Link app",
+    "displayTitle": "Download TCPR Link app",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "654df7d977c9ad1f96c18e9b",
+    "_parentId": "654df7d977c9ad1f96c18e8e",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_navigationFooter": {
+      "_enableOverride": "",
+      "_footerText": {
+        "text": ""
+      },
+      "_buttons": {
+        "_home": {
+          "_enableOverride": ""
+        },
+        "_up": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_previous": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_next": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_close": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_custom": {
+          "_enableOverride": "",
+          "btnText": "",
+          "_id": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_lifeMenu": {
+      "_renderAsGroup": false,
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_menuHeader": {
+        "_displayAboveHeader": false,
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    },
+    "_life": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Chapter 2: Time to get started",
+    "displayTitle": "Chapter 2: Time to get started",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "3-5 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "654df7d977c9ad1f96c18e8e",
+    "_parentId": "course",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/ec158aef285ff5ddda5bcdb3ce093ef8fe080949.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_navigationFooter": {
+      "_enableOverride": "",
+      "_footerText": {
+        "text": ""
+      },
+      "_buttons": {
+        "_home": {
+          "_enableOverride": ""
+        },
+        "_up": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_previous": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_next": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_close": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_custom": {
+          "_enableOverride": "",
+          "btnText": "",
+          "_id": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_overviewMenu": {
+      "_renderAsGroup": false,
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_menuHeader": {
+        "_displayAboveHeader": false,
         "_backgroundImage": {
           "_large": "",
           "_medium": "",
@@ -155,9 +797,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "61654b0be0cba43896ebd882",
-    "_parentId": "course",
+    "_ariaLevel": 1,
+    "_id": "654df7d977c9ad1f96c18e91",
+    "_parentId": "654df7d977c9ad1f96c18e8d",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -168,20 +810,152 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_lifeHelper": {
-      "_pageLayout": {
-        "_fixPageFooter": "fixed"
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_navigationFooter": {
+      "_enableOverride": "",
+      "_footerText": {
+        "text": ""
       },
-      "_footerText": "",
-      "_addContinue": true,
-      "_continueText": "Continue",
-      "_addContinueOnCompletion": false,
-      "_enableContinueOnCompletion": false,
-      "_isHyperContinue": false,
-      "_isHyperComplete": false,
-      "_navOnCompletion": false,
-      "_addPopup": false,
-      "_popupText": "Popup button label"
+      "_buttons": {
+        "_home": {
+          "_enableOverride": ""
+        },
+        "_up": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_previous": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_next": {
+          "_enableOverride": "enable",
+          "btnText": ""
+        },
+        "_close": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_custom": {
+          "_enableOverride": "",
+          "btnText": "",
+          "_id": ""
+        }
+      }
+    },
+    "_overviewMenu": {
+      "_renderAsGroup": false,
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_menuHeader": {
+        "_displayAboveHeader": false,
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    },
+    "_life": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Pairing TCPR Link app with CPRcard",
+    "displayTitle": "Pairing TCPR Link app with CPRcard",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "654df7d977c9ad1f96c18e93",
+    "_parentId": "654df7d977c9ad1f96c18e8e",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
     },
     "_navigationFooter": {
       "_enableOverride": "",
@@ -207,6 +981,11 @@
         "_close": {
           "_enableOverride": "",
           "btnText": ""
+        },
+        "_custom": {
+          "_enableOverride": "",
+          "btnText": "",
+          "_id": ""
         }
       }
     },
@@ -217,6 +996,7 @@
       "_excludeAssessments": false
     },
     "_lifeMenu": {
+      "_renderAsGroup": false,
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -228,6 +1008,284 @@
         "_backgroundPosition": null
       },
       "_menuHeader": {
+        "_displayAboveHeader": false,
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    },
+    "_life": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Teamwork with the dispatcher",
+    "displayTitle": "Teamwork with the dispatcher",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "654df7d977c9ad1f96c18e99",
+    "_parentId": "654df7d977c9ad1f96c18e8f",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_navigationFooter": {
+      "_enableOverride": "",
+      "_footerText": {
+        "text": ""
+      },
+      "_buttons": {
+        "_home": {
+          "_enableOverride": ""
+        },
+        "_up": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_previous": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_next": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_close": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_custom": {
+          "_enableOverride": "",
+          "btnText": "",
+          "_id": ""
+        }
+      }
+    },
+    "_overviewMenu": {
+      "_renderAsGroup": false,
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_menuHeader": {
+        "_displayAboveHeader": false,
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    },
+    "_life": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Chapter 3: Time to practice",
+    "displayTitle": "Chapter 3: Time to practice",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "5-10 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "654df7d977c9ad1f96c18e8f",
+    "_parentId": "course",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/6ec89052f0b2ffdadcf1331d45de1bceba84e348.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_navigationFooter": {
+      "_enableOverride": "",
+      "_footerText": {
+        "text": ""
+      },
+      "_buttons": {
+        "_home": {
+          "_enableOverride": ""
+        },
+        "_up": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_previous": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_next": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_close": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_custom": {
+          "_enableOverride": "",
+          "btnText": "",
+          "_id": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_overviewMenu": {
+      "_renderAsGroup": false,
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_menuHeader": {
+        "_displayAboveHeader": false,
         "_backgroundImage": {
           "_large": "",
           "_medium": "",
@@ -293,9 +1351,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "61654b0be0cba43896ebd883",
-    "_parentId": "course",
+    "_ariaLevel": null,
+    "_id": "654df7d977c9ad1f96c18e92",
+    "_parentId": "654df7d977c9ad1f96c18e8d",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -305,21 +1363,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_lifeHelper": {
-      "_pageLayout": {
-        "_fixPageFooter": "fixed"
-      },
-      "_footerText": "",
-      "_addContinue": true,
-      "_continueText": "Continue",
-      "_addContinueOnCompletion": false,
-      "_enableContinueOnCompletion": false,
-      "_isHyperContinue": false,
-      "_isHyperComplete": false,
-      "_navOnCompletion": false,
-      "_addPopup": false,
-      "_popupText": "Popup button label"
     },
     "_navigationFooter": {
       "_enableOverride": "",
@@ -345,6 +1388,11 @@
         "_close": {
           "_enableOverride": "",
           "btnText": ""
+        },
+        "_custom": {
+          "_enableOverride": "",
+          "btnText": "",
+          "_id": ""
         }
       }
     },
@@ -353,543 +1401,6 @@
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
-    },
-    "_lifeMenu": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_menuHeader": {
-        "_backgroundImage": {
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    },
-    "_life": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_pageHeader": {
-        "_backgroundImage": {
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "CPRcard User Guide",
-    "displayTitle": "CPRcard User Guide",
-    "body": "",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "61654b0be0cba43896ebd889",
-    "_parentId": "course",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": ""
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_lifeHelper": {
-      "_pageLayout": {
-        "_fixPageFooter": "fixed"
-      },
-      "_footerText": "",
-      "_addContinue": true,
-      "_continueText": "Continue",
-      "_addContinueOnCompletion": false,
-      "_enableContinueOnCompletion": false,
-      "_isHyperContinue": false,
-      "_isHyperComplete": false,
-      "_navOnCompletion": false,
-      "_addPopup": false,
-      "_popupText": "Popup button label"
-    },
-    "_navigationFooter": {
-      "_enableOverride": "",
-      "_footerText": {
-        "text": ""
-      },
-      "_buttons": {
-        "_home": {
-          "_enableOverride": ""
-        },
-        "_up": {
-          "_enableOverride": "",
-          "btnText": ""
-        },
-        "_previous": {
-          "_enableOverride": "",
-          "btnText": ""
-        },
-        "_next": {
-          "_enableOverride": "",
-          "btnText": ""
-        },
-        "_close": {
-          "_enableOverride": "",
-          "btnText": ""
-        }
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_lifeMenu": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "repeat",
-        "_backgroundSize": "auto",
-        "_backgroundPosition": "left top"
-      },
-      "_menuHeader": {
-        "_backgroundImage": {
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "repeat",
-          "_backgroundSize": "auto",
-          "_backgroundPosition": "left top"
-        },
-        "_minimumHeights": {
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    },
-    "_life": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "repeat",
-        "_backgroundSize": "auto",
-        "_backgroundPosition": "left top"
-      },
-      "_pageHeader": {
-        "_backgroundImage": {
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "repeat",
-          "_backgroundSize": "auto",
-          "_backgroundPosition": "left top"
-        },
-        "_minimumHeights": {
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Start using the TCPR link",
-    "displayTitle": "Start using the TCPR link",
-    "body": "",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "61654b0be0cba43896ebd884",
-    "_parentId": "course",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": ""
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_lifeHelper": {
-      "_pageLayout": {
-        "_fixPageFooter": "fixed"
-      },
-      "_footerText": "",
-      "_addContinue": true,
-      "_continueText": "Continue",
-      "_addContinueOnCompletion": false,
-      "_enableContinueOnCompletion": false,
-      "_isHyperContinue": false,
-      "_isHyperComplete": false,
-      "_navOnCompletion": false,
-      "_addPopup": false,
-      "_popupText": "Popup button label"
-    },
-    "_navigationFooter": {
-      "_enableOverride": "",
-      "_footerText": {
-        "text": ""
-      },
-      "_buttons": {
-        "_home": {
-          "_enableOverride": ""
-        },
-        "_up": {
-          "_enableOverride": "",
-          "btnText": ""
-        },
-        "_previous": {
-          "_enableOverride": "",
-          "btnText": ""
-        },
-        "_next": {
-          "_enableOverride": "",
-          "btnText": ""
-        },
-        "_close": {
-          "_enableOverride": "",
-          "btnText": ""
-        }
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_lifeMenu": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_menuHeader": {
-        "_backgroundImage": {
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    },
-    "_life": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_pageHeader": {
-        "_backgroundImage": {
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "How to use the TCPR link app",
-    "displayTitle": "How to use the TCPR link app",
-    "body": "",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "61654b0be0cba43896ebd885",
-    "_parentId": "course",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": ""
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_lifeHelper": {
-      "_pageLayout": {
-        "_fixPageFooter": "fixed"
-      },
-      "_footerText": "",
-      "_addContinue": true,
-      "_continueText": "Continue",
-      "_addContinueOnCompletion": false,
-      "_enableContinueOnCompletion": false,
-      "_isHyperContinue": false,
-      "_isHyperComplete": false,
-      "_navOnCompletion": false,
-      "_addPopup": false,
-      "_popupText": "Popup button label"
-    },
-    "_navigationFooter": {
-      "_enableOverride": "",
-      "_footerText": {
-        "text": ""
-      },
-      "_buttons": {
-        "_home": {
-          "_enableOverride": ""
-        },
-        "_up": {
-          "_enableOverride": "",
-          "btnText": ""
-        },
-        "_previous": {
-          "_enableOverride": "",
-          "btnText": ""
-        },
-        "_next": {
-          "_enableOverride": "",
-          "btnText": ""
-        },
-        "_close": {
-          "_enableOverride": "",
-          "btnText": ""
-        }
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_lifeMenu": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_menuHeader": {
-        "_backgroundImage": {
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    },
-    "_life": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_pageHeader": {
-        "_backgroundImage": {
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "[new] Collaboration with the dispatcher [new]",
-    "displayTitle": "[new] Collaboration with the dispatcher [new]",
-    "body": "",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "61654b0be0cba43896ebd88a",
-    "_parentId": "course",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": ""
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_navigationFooter": {
-      "_enableOverride": "",
-      "_footerText": {
-        "text": ""
-      },
-      "_buttons": {
-        "_home": {
-          "_enableOverride": ""
-        },
-        "_up": {
-          "_enableOverride": "",
-          "btnText": ""
-        },
-        "_previous": {
-          "_enableOverride": "",
-          "btnText": ""
-        },
-        "_next": {
-          "_enableOverride": "",
-          "btnText": ""
-        },
-        "_close": {
-          "_enableOverride": "",
-          "btnText": ""
-        }
-      }
     },
     "_lifeMenu": {
       "_renderAsGroup": false,
@@ -953,8 +1464,8 @@
     }
   },
   {
-    "title": "Are you ready to start using TCPR link?",
-    "displayTitle": "Are you ready to start using TCPR link?",
+    "title": "How to use TCPR Link ",
+    "displayTitle": "How to use TCPR Link ",
     "body": "",
     "_classes": "",
     "subtitle": "",
@@ -970,9 +1481,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "61654b0be0cba43896ebd886",
-    "_parentId": "course",
+    "_ariaLevel": null,
+    "_id": "654df7d977c9ad1f96c18e94",
+    "_parentId": "654df7d977c9ad1f96c18e8e",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -982,21 +1493,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_lifeHelper": {
-      "_pageLayout": {
-        "_fixPageFooter": "fixed"
-      },
-      "_footerText": "",
-      "_addContinue": true,
-      "_continueText": "Continue",
-      "_addContinueOnCompletion": false,
-      "_enableContinueOnCompletion": false,
-      "_isHyperContinue": false,
-      "_isHyperComplete": false,
-      "_navOnCompletion": true,
-      "_addPopup": false,
-      "_popupText": "Popup button label"
     },
     "_navigationFooter": {
       "_enableOverride": "",
@@ -1022,6 +1518,11 @@
         "_close": {
           "_enableOverride": "",
           "btnText": ""
+        },
+        "_custom": {
+          "_enableOverride": "",
+          "btnText": "",
+          "_id": ""
         }
       }
     },
@@ -1032,6 +1533,7 @@
       "_excludeAssessments": false
     },
     "_lifeMenu": {
+      "_renderAsGroup": false,
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -1043,6 +1545,7 @@
         "_backgroundPosition": null
       },
       "_menuHeader": {
+        "_displayAboveHeader": false,
         "_backgroundImage": {
           "_large": "",
           "_medium": "",
@@ -1108,9 +1611,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "61654b0be0cba43896ebd887",
-    "_parentId": "course",
+    "_ariaLevel": null,
+    "_id": "654df7d977c9ad1f96c18e96",
+    "_parentId": "654df7d977c9ad1f96c18e8c",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1120,21 +1623,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_lifeHelper": {
-      "_pageLayout": {
-        "_fixPageFooter": "none"
-      },
-      "_footerText": "",
-      "_addContinue": true,
-      "_continueText": "End course",
-      "_addContinueOnCompletion": false,
-      "_enableContinueOnCompletion": false,
-      "_isHyperContinue": false,
-      "_isHyperComplete": false,
-      "_navOnCompletion": false,
-      "_addPopup": false,
-      "_popupText": "Popup button label"
     },
     "_navigationFooter": {
       "_enableOverride": "",
@@ -1160,6 +1648,11 @@
         "_close": {
           "_enableOverride": "",
           "btnText": ""
+        },
+        "_custom": {
+          "_enableOverride": "",
+          "btnText": "",
+          "_id": ""
         }
       }
     },
@@ -1170,6 +1663,7 @@
       "_excludeAssessments": false
     },
     "_lifeMenu": {
+      "_renderAsGroup": false,
       "_backgroundImage": {
         "_large": "",
         "_medium": "",
@@ -1181,6 +1675,7 @@
         "_backgroundPosition": null
       },
       "_menuHeader": {
+        "_displayAboveHeader": false,
         "_backgroundImage": {
           "_large": "",
           "_medium": "",
@@ -1229,8 +1724,8 @@
     }
   },
   {
-    "title": "[new] 'Confidence survey' [new]",
-    "displayTitle": "[new] 'Confidence survey' [new]",
+    "title": "Try CPR feedback in TCPR Link app",
+    "displayTitle": "Try CPR feedback in TCPR Link app",
     "body": "",
     "_classes": "",
     "subtitle": "",
@@ -1246,9 +1741,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "61654b0be0cba43896ebd88b",
-    "_parentId": "course",
+    "_ariaLevel": null,
+    "_id": "654df7d977c9ad1f96c18e9d",
+    "_parentId": "654df7d977c9ad1f96c18e8f",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1289,8 +1784,437 @@
         "_close": {
           "_enableOverride": "",
           "btnText": ""
+        },
+        "_custom": {
+          "_enableOverride": "",
+          "btnText": "",
+          "_id": ""
         }
       }
+    },
+    "_overviewMenu": {
+      "_renderAsGroup": false,
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_menuHeader": {
+        "_displayAboveHeader": false,
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    },
+    "_life": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Chapter 4: Knowledge check",
+    "displayTitle": "Chapter 4: Knowledge check",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "5-7 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "654df7d977c9ad1f96c18e8c",
+    "_parentId": "course",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/2487b15f6abe8ff0f7af5e66c81c44387fbc9fa5.gif"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_navigationFooter": {
+      "_enableOverride": "",
+      "_footerText": {
+        "text": ""
+      },
+      "_buttons": {
+        "_home": {
+          "_enableOverride": ""
+        },
+        "_up": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_previous": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_next": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_close": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_custom": {
+          "_enableOverride": "",
+          "btnText": "",
+          "_id": ""
+        }
+      }
+    },
+    "_overviewMenu": {
+      "_renderAsGroup": false,
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_menuHeader": {
+        "_displayAboveHeader": false,
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    },
+    "_life": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Confidence",
+    "displayTitle": "Confidence",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>During this course you have acquired new competencies that will enable you to use the TCPR link system to increase the CPR quality and thereby improve the chance of survival for people suffering a cardiac arrest.</p><p>As a conclusion for this e-learning course, please complete the following survey to indicate your own perceived confidence levels.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "654df7d977c9ad1f96c18e9a",
+    "_parentId": "654df7d977c9ad1f96c18e8c",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_navigationFooter": {
+      "_enableOverride": "",
+      "_footerText": {
+        "text": ""
+      },
+      "_buttons": {
+        "_home": {
+          "_enableOverride": ""
+        },
+        "_up": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_previous": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_next": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_close": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_custom": {
+          "_enableOverride": "",
+          "btnText": "",
+          "_id": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_lifeMenu": {
+      "_renderAsGroup": false,
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_menuHeader": {
+        "_displayAboveHeader": false,
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    },
+    "_life": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "CPRcard user guide",
+    "displayTitle": "CPRcard user guide",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": null,
+    "_id": "654df7d977c9ad1f96c18e9c",
+    "_parentId": "654df7d977c9ad1f96c18e8e",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_navigationFooter": {
+      "_enableOverride": "",
+      "_footerText": {
+        "text": ""
+      },
+      "_buttons": {
+        "_home": {
+          "_enableOverride": ""
+        },
+        "_up": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_previous": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_next": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_close": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_custom": {
+          "_enableOverride": "",
+          "btnText": "",
+          "_id": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_lifeMenu": {
       "_renderAsGroup": false,
@@ -1371,9 +2295,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "61654b0be0cba43896ebd888",
-    "_parentId": "course",
+    "_ariaLevel": null,
+    "_id": "654df7d977c9ad1f96c18e97",
+    "_parentId": "654df7d977c9ad1f96c18e8c",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1397,29 +2321,35 @@
       },
       "_buttons": {
         "_home": {
-          "_enableOverride": ""
+          "_enableOverride": "enable"
         },
         "_up": {
           "_enableOverride": "",
           "btnText": ""
         },
         "_previous": {
-          "_enableOverride": "",
+          "_enableOverride": "disable",
           "btnText": ""
         },
         "_next": {
-          "_enableOverride": "",
+          "_enableOverride": "disable",
           "btnText": ""
         },
         "_close": {
           "_enableOverride": "",
           "btnText": ""
+        },
+        "_custom": {
+          "_enableOverride": "",
+          "btnText": "",
+          "_id": ""
         }
       }
     },
-    "_lifeMenu": {
+    "_overviewMenu": {
       "_renderAsGroup": false,
       "_backgroundImage": {
+        "_xlarge": "",
         "_large": "",
         "_medium": "",
         "_small": ""
@@ -1432,6 +2362,7 @@
       "_menuHeader": {
         "_displayAboveHeader": false,
         "_backgroundImage": {
+          "_xlarge": "",
           "_large": "",
           "_medium": "",
           "_small": ""
@@ -1442,6 +2373,7 @@
           "_backgroundPosition": null
         },
         "_minimumHeights": {
+          "_xlarge": null,
           "_large": null,
           "_medium": null,
           "_small": null
@@ -1450,6 +2382,7 @@
     },
     "_life": {
       "_backgroundImage": {
+        "_xlarge": "",
         "_large": "",
         "_medium": "",
         "_small": ""
@@ -1459,8 +2392,20 @@
         "_backgroundSize": null,
         "_backgroundPosition": null
       },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
       "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
         "_backgroundImage": {
+          "_xlarge": "",
           "_large": "",
           "_medium": "",
           "_small": ""
@@ -1471,6 +2416,7 @@
           "_backgroundPosition": null
         },
         "_minimumHeights": {
+          "_xlarge": null,
           "_large": null,
           "_medium": null,
           "_small": null

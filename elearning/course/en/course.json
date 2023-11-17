@@ -1,20 +1,20 @@
 {
-  "title": "[BACKUP] TCPR Link for MyResponders",
-  "displayTitle": "TCPR Link",
-  "body": "<p>In this course you will learn how the use of novel technology and real time feedback can help CPR volunteers save lives by performing high quality CPR</p><ul></ul>",
+  "title": "MyResponder TCPR Link MASTER_TSB",
+  "displayTitle": "MyResponder eLearning Fall 2023",
+  "body": "<p>In this course you will learn how the use of an app called TCPR Link and a CPR measurement device called CPRcard can help CPR volunteers save lives by performing quality CPR</p><p><strong>CHAPTERS:</strong><br />&nbsp;</p><ul></ul>",
   "subtitle": "",
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 40,
+  "_latestTrackingId": 65,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
       "ariaLabel": "Submit"
     },
     "_reset": {
-      "buttonText": "Reset",
-      "ariaLabel": "Reset"
+      "buttonText": "Retry",
+      "ariaLabel": "Retry"
     },
     "_showCorrectAnswer": {
       "buttonText": "Correct answer",
@@ -38,13 +38,7 @@
   "_id": "course",
   "_start": {
     "_isEnabled": false,
-    "_startIds": [
-      {
-        "_id": "5f69d039a022023e7069309e",
-        "_skipIfComplete": false,
-        "_className": ""
-      }
-    ],
+    "_startIds": [],
     "_force": false,
     "_isMenuDisabled": false
   },
@@ -74,162 +68,6 @@
         "visited": "Visited"
       }
     },
-    "_components": {
-      "_adaptAnimationFrame": {
-        "ariaRegion": ""
-      },
-      "_laerdal-feedback": {
-        "ariaRegion": ""
-      },
-      "_textarea": {
-        "ariaRegion": "<p>Text input. Type your answer and then submit.</p>"
-      },
-      "_text-subhead": {
-        "ariaRegion": ""
-      },
-      "_overview-page": {
-        "ariaRegion": ""
-      },
-      "_user-input-feedback-form": {
-        "ariaRegion": "Matching. Select from lists and then submit."
-      },
-      "_laerdal-score": {
-        "ariaRegion": ""
-      },
-      "_interactive-algorithm": {
-        "ariaRegion": ""
-      },
-      "_laerdal-results-algorithm": {
-        "ariaRegion": ""
-      },
-      "_narrative-switch": {
-        "ariaRegion": "Slide show. Select the next button to progress."
-      },
-      "_laerdal-results-overview": {
-        "ariaRegion": ""
-      },
-      "_documentation-component": {
-        "ariaRegion": ""
-      },
-      "_documentation-extension": {
-        "ariaRegion": ""
-      },
-      "_narrative": {
-        "ariaRegion": "Slide show. Select the next button to progress.",
-        "previous": "{{#if title}}Back to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
-        "next": "{{#if title}}Forward to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}"
-      },
-      "_media": {
-        "ariaRegion": "Media player{{#any _transcript._inlineTranscript _transcript._externalTranscript}} and transcript{{/any}}.",
-        "skipToTranscript": "Skip to transcript"
-      },
-      "_hotgraphic": {
-        "ariaRegion": "Image with selectable areas. Select each button to show more information.",
-        "popupPagination": "{{itemNumber}} / {{totalItems}}"
-      },
-      "_matching": {
-        "ariaRegion": "Matching. Select from lists and then submit.",
-        "ariaCorrectAnswer": "The correct answer for {{{itemText}}} is {{{correctAnswer}}}",
-        "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}"
-      },
-      "_textinput": {
-        "ariaRegion": "Text input. Type your answer and then submit."
-      },
-      "_slider": {
-        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
-        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
-        "ariaCorrectAnswerRange": "The correct answer is any value from {{{bottom}}} to {{{top}}}",
-        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
-        "labelStart": "Start of the scale",
-        "labelEnd": "End of the scale"
-      },
-      "_text": {
-        "ariaRegion": ""
-      },
-      "_assessmentResults": {
-        "ariaRegion": "Assessment results."
-      },
-      "_graphic": {
-        "ariaRegion": "",
-        "scrollAriaLabel": "Use the scrollbar to pan the image left and right. {{#if _graphic.alt}}{{_graphic.alt}}{{/if}}"
-      },
-      "_mcq": {
-        "ariaRegion": "Multiple choice question. Select your option and then submit.",
-        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
-        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
-        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
-        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
-      },
-      "_gmcq": {
-        "ariaRegion": "Multiple choice question. Select your option and then submit.",
-        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
-        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
-        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
-        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
-      },
-      "_accordion": {
-        "ariaRegion": "Accordion. Select each button to expand the content."
-      },
-      "_laerdal-media": {
-        "ariaRegion": "Media player{{#any _transcript._inlineTranscript _transcript._externalTranscript}} and transcript{{/any}}."
-      },
-      "_plugin-documentation": {
-        "ariaRegion": ""
-      },
-      "_hotgrid": {
-        "ariaRegion": "Selectable image component. Select each item to show more information.",
-        "popupPagination": "{{itemNumber}} / {{totalItems}}"
-      },
-      "_laerdal-imageSlider": {
-        "ariaRegion": "Slide show. Select the next button to progress.",
-        "previous": "{{#if title}}Back to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
-        "next": "{{#if title}}Forward to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}"
-      },
-      "_laerdal-text": {
-        "ariaRegion": ""
-      },
-      "_laerdal-narrative": {
-        "ariaRegion": "Slide show. Select the next button to progress.",
-        "previous": "{{#if title}}Back to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
-        "next": "{{#if title}}Forward to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}"
-      },
-      "_laerdal-media-playlist": {
-        "ariaRegion": "Media player{{#any _transcript._inlineTranscript _transcript._externalTranscript}} and transcript{{/any}}."
-      },
-      "_laerdal-results": {
-        "ariaRegion": ""
-      },
-      "_laerdal-checklist": {
-        "ariaRegion": "Multiple choice question"
-      },
-      "_laerdal-h5p": {
-        "ariaRegion": ""
-      },
-      "_manifest": {
-        "ariaRegion": ""
-      },
-      "_laerdal-hotgraphic": {
-        "ariaRegion": "Image with selectable areas. Select each button to show more information.",
-        "popupPagination": "{{itemNumber}} / {{totalItems}}"
-      },
-      "_laerdal-user-feedback": {
-        "ariaRegion": "Type your input and select submit",
-        "submitButton": "Submit"
-      },
-      "_animation-frame": {
-        "ariaRegion": ""
-      },
-      "_assessmentResultsTotal": {
-        "ariaRegion": "Assessment results."
-      },
-      "_preassessment": {
-        "ariaRegion": "Multiple choice question",
-        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
-        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
-        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
-        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
-      }
-    },
     "_extensions": {
       "_trickle": {
         "incompleteContent": "There is incomplete content above. You must complete this before you can proceed through the course."
@@ -238,9 +76,8 @@
         "pageLevelProgress": "Page sections",
         "pageLevelProgressIndicatorBar": "Page progress. Use this to listen to the list of regions in this topic and whether they're completed. You can jump directly to any that are incomplete or which sound particularly interesting. {{percentageComplete}}%",
         "pageLevelProgressMenuBar": "Page completion {{percentageComplete}}%",
-        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
         "optionalContent": "Optional content",
-        "_navOrder": 90,
+        "_navOrder": "90",
         "_navTooltip": {
           "_isEnabled": true,
           "text": "Page progress"
@@ -277,52 +114,319 @@
         "_navOrder": 100
       }
     },
+    "_components": {
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_accordion": {
+        "ariaRegion": "Accordion. Select each button to expand the content."
+      },
+      "_graphic": {
+        "ariaRegion": "",
+        "scrollAriaLabel": "Use the scrollbar to pan the image left and right. {{#if _graphic.alt}}{{_graphic.alt}}{{/if}}"
+      },
+      "_textinput": {
+        "ariaRegion": "Text input. Type your answer and then submit."
+      },
+      "_matching": {
+        "ariaRegion": "Matching. Select from lists and then submit.",
+        "ariaCorrectAnswer": "The correct answer for {{{itemText}}} is {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}"
+      },
+      "_mcq": {
+        "ariaRegion": "Multiple choice question. Select your option and then submit.",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_assessmentResults": {
+        "ariaRegion": "Assessment results.",
+        "retryText": "Retry"
+      },
+      "_slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswerRange": "The correct answer is any value from {{{bottom}}} to {{{top}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
+      },
+      "_gmcq": {
+        "ariaRegion": "Multiple choice question. Select your option and then submit.",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_hotgraphic": {
+        "ariaRegion": "Image with selectable areas. Select each button to show more information.",
+        "item": "Item {{{itemNumber}}} of {{{totalItems}}}",
+        "previous": "{{#if title}}Back to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
+        "next": "{{#if title}}Forward to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}",
+        "popupPagination": "{{itemNumber}} / {{totalItems}}"
+      },
+      "_narrative": {
+        "ariaRegion": "Slide show. Select the next button to progress.",
+        "previous": "{{#if title}}Back to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
+        "next": "{{#if title}}Forward to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}"
+      },
+      "_media": {
+        "ariaRegion": "Media player{{#any _transcript._inlineTranscript _transcript._externalTranscript}} and transcript{{/any}}.",
+        "skipToTranscript": "Skip to transcript",
+        "playText": "Play",
+        "pauseText": "Pause",
+        "stopText": "Stop",
+        "audioPlayerText": "Audio Player",
+        "videoPlayerText": "Video Player",
+        "tracksText": "Captions/Subtitles",
+        "timeSliderText": "Time Slider",
+        "muteText": "Mute Toggle",
+        "unmuteStatusText": "Unmute",
+        "muteStatusText": "Mute",
+        "volumeSliderText": "Volume Slider",
+        "fullscreenText": "Fullscreen",
+        "goFullscreenText": "Go Fullscreen",
+        "turnOffFullscreenText": "Turn off Fullscreen",
+        "noneText": "None",
+        "skipBackText": "Skip back %1 seconds",
+        "allyVolumeControlText": "Use Up/Down Arrow keys to increase or decrease volume.",
+        "progessHelpText": "Use Left/Right Arrow keys to advance one second, Up/Down arrows to advance ten seconds."
+      },
+      "_actionplan": {
+        "ariaRegion": "Action plan. Text inputs to enter your plan. Select the download button to export as PDF."
+      },
+      "_laerdal-hotgraphic": {
+        "ariaRegion": "Image with selectable areas. Select each button to show more information.",
+        "popupPagination": "{{itemNumber}} / {{totalItems}}"
+      },
+      "_laerdal-h5p": {
+        "ariaRegion": ""
+      },
+      "_laerdal-checklist": {
+        "ariaRegion": "Multiple choice question"
+      },
+      "_plugin-documentation": {
+        "ariaRegion": ""
+      },
+      "_DragAndDropzone": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      },
+      "_laerdal-imageSlider": {
+        "ariaRegion": "Slide show. Select the next button to progress.",
+        "previous": "{{#if title}}Back to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
+        "next": "{{#if title}}Forward to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}"
+      },
+      "_manifest": {
+        "ariaRegion": ""
+      },
+      "_talk": {
+        "ariaRegion": "This component is a talk."
+      },
+      "_laerdal-media-playlist": {
+        "ariaRegion": "Media player{{#any _transcript._inlineTranscript _transcript._externalTranscript}} and transcript{{/any}}."
+      },
+      "_laerdal-media": {
+        "ariaRegion": "Media player{{#any _transcript._inlineTranscript _transcript._externalTranscript}} and transcript{{/any}}."
+      },
+      "_laerdal-user-feedback": {
+        "ariaRegion": "Type your input and select submit",
+        "submitButton": "Submit"
+      },
+      "_laerdal-text": {
+        "ariaRegion": ""
+      },
+      "_laerdal-narrative": {
+        "ariaRegion": "Slide show. Select the next button to progress.",
+        "previous": "{{#if title}}Back to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
+        "next": "{{#if title}}Forward to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}"
+      },
+      "_animation-frame": {
+        "ariaRegion": ""
+      },
+      "_preassessment": {
+        "ariaRegion": "Multiple choice question",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_assessmentResultsTotal": {
+        "ariaRegion": "Assessment results."
+      },
+      "_laerdal-slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswerRange": "The correct answer is any value from {{{bottom}}} to {{{top}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
+      },
+      "_hotgrid": {
+        "ariaRegion": "Selectable image component. Select each item to show more information.",
+        "item": "Item",
+        "previous": "{{#if title}}Back to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
+        "next": "{{#if title}}Forward to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}",
+        "popupPagination": "{{itemNumber}} / {{totalItems}}"
+      }
+    },
     "_menu": {
-      "_lifeMenu": {
+      "_overviewMenu": {
         "durationLabel": "Duration:"
       }
     }
   },
   "_type": "course",
   "themeVariables": {
-    "_colors": {
-      "primary-color": "#078292",
-      "primary-color-inverted": "#ffffff",
-      "secondary-color": "#4b4e4f",
-      "secondary-color-inverted": "#ffffff",
-      "tertiary-color": "#ffffff",
-      "tertiary-color-inverted": "#4b4e4f",
-      "quaternary-color": "#37474f",
-      "quaternary-color-inverted": "#ffffff",
-      "foreground-color": "#4b4e4f",
-      "background-color": "#ffffff",
-      "foreground-color-inverted": "#ffffff",
-      "background-color-inverted": "#546e7a",
-      "validation-error": "#f26c4f",
+    "_course": {
+      "_svgSpriteSheets": [],
+      "_singleIcons": []
+    },
+    "_blocks": {
+      "_paddingTop": "",
+      "_paddingBottom": ""
+    },
+    "_components": {
+      "_canShowFinalMarking": false
+    },
+    "_global": {
+      "font-color": "#1f1f1f",
+      "font-color-inverted": "#ffffff",
+      "link": "",
+      "link-inverted": "",
+      "link-hover": "",
+      "link-inverted-hover": "",
+      "heading-color": "#333333",
+      "heading-color-inverted": "#ffffff"
+    },
+    "_blockStyles": {
+      "block-bg-color": ""
+    },
+    "_items": {
+      "component-bg-color": "",
+      "item-color": "#edfcfb",
+      "item-color-inverted": "#23716d",
+      "item-color-hover": "",
+      "item-color-inverted-hover": "",
+      "item-color-selected": "",
+      "item-color-inverted-selected": "",
+      "visited": "",
+      "visited-inverted": ""
+    },
+    "_buttons": {
+      "btn-color": "#2e7fa1",
+      "btn-color-inverted": "#ffffff",
+      "btn-color-hover": "",
+      "btn-color-inverted-hover": "",
+      "disabled": "#dddddd",
+      "disabled-inverted": "#000000"
+    },
+    "_validation": {
       "validation-success": "#82ca9c",
-      "disabled-color": "#727272",
-      "disabled-color-inverted": "#cccccc"
+      "validation-success-inverted": "#ffffff",
+      "validation-error": "#f26c4f",
+      "validation-error-inverted": "#ffffff"
+    },
+    "_progress": {
+      "progress": "#2e7fa1",
+      "progress-inverted": "#e5e5e5",
+      "progress-border": "rgba(0, 0, 0, 0)"
+    },
+    "_menu": {
+      "menu-header-background-color": "",
+      "menu-header-title-color": "",
+      "menu-header-body-color": "",
+      "menu-header-instruction-color": "",
+      "menu-item": "",
+      "menu-item-inverted": "",
+      "menu-item-border-color": "",
+      "menu-item-progress": "",
+      "menu-item-progress-inverted": "",
+      "menu-item-progress-border": "",
+      "menu-item-btn-color": "",
+      "menu-item-btn-color-inverted": "",
+      "menu-item-btn-color-hover": "",
+      "menu-item-btn-color-inverted-hover": ""
+    },
+    "_nav": {
+      "nav": "#ffffff",
+      "nav-inverted": "#9096a0",
+      "nav-icon": "",
+      "nav-icon-inverted": "",
+      "nav-icon-hover": "",
+      "nav-icon-inverted-hover": "",
+      "nav-progress": "",
+      "nav-progress-inverted": "",
+      "nav-progress-border": "",
+      "nav-progress-hover": "",
+      "nav-progress-inverted-hover": "",
+      "nav-progress-border-hover": ""
+    },
+    "_notify": {
+      "notify": "#ffffff",
+      "notify-inverted": "#333333",
+      "notify-link": "",
+      "notify-link-hover": "",
+      "notify-btn": "",
+      "notify-btn-inverted": "",
+      "notify-btn-hover": "",
+      "notify-btn-inverted-hover": "",
+      "notify-icon": "",
+      "notify-icon-inverted": "",
+      "notify-icon-hover": "",
+      "notify-icon-inverted-hover": ""
+    },
+    "_drawer": {
+      "drawer": "#ffffff",
+      "drawer-inverted": "#333333",
+      "drawer-link": "",
+      "drawer-link-hover": "",
+      "drawer-icon": "",
+      "drawer-icon-inverted": "",
+      "drawer-icon-hover": "",
+      "drawer-icon-inverted-hover": "",
+      "drawer-item": "",
+      "drawer-item-inverted": "",
+      "drawer-item-hover": "",
+      "drawer-item-inverted-hover": "",
+      "drawer-item-selected": "",
+      "drawer-item-inverted-selected": "",
+      "drawer-progress": "",
+      "drawer-progress-inverted": "",
+      "drawer-progress-border": "",
+      "drawer-progress-hover": "",
+      "drawer-progress-inverted-hover": "",
+      "drawer-progress-border-hover": ""
+    },
+    "_misc": {
+      "background": "#000000",
+      "background-inverted": "#ffffff",
+      "shadow": "#000000",
+      "shadow-inverted": "#ffffff"
     }
   },
-  "_progressionBar": {
-    "_isEnabled": true,
-    "_progressionType": "pages",
-    "_questionProgress": {
-      "_progressionTitle": "Questions"
-    },
-    "_pageProgress": {
-      "_progressionTitle": "Pages"
-    }
+  "_navigation": {
+    "_isDefaultNavigationDisabled": false,
+    "_navigationAlignment": "top",
+    "_isBottomOnTouchDevices": false,
+    "_showLabel": false,
+    "_showLabelAtWidth": "medium",
+    "_labelPosition": "auto"
+  },
+  "_tooltips": {
+    "_isEnabled": true
   },
   "_pageLevelProgress": {
     "_isEnabled": true,
     "_showPageCompletion": true,
     "_isCompletionIndicatorEnabled": false,
-    "_isShownInNavigationBar": true
+    "_isShownInNavigationBar": false,
+    "_showAtCourseLevel": false
   },
   "_navigationFooter": {
     "_footerText": {
-      "text": ""
+      "text": "",
+      "_btnNotifyPopupText": "Need to complete current page"
     },
     "_buttons": {
       "_home": {
@@ -330,7 +434,7 @@
         "_classes": ""
       },
       "_up": {
-        "_isEnabled": true,
+        "_isEnabled": false,
         "btnText": "Up",
         "_classes": "btn-secondary"
       },
@@ -356,48 +460,74 @@
       }
     }
   },
+  "_additionalMaterial": {
+    "_button": {
+      "text": "Additional Material",
+      "ariaLabel": "",
+      "iconClassName": "",
+      "_btnType": "primary"
+    }
+  },
+  "_progressionIndicator": {
+    "_progressionLabel": "Pages",
+    "_progressionAriaLabel": "Progression bar",
+    "_progressionType": "pages",
+    "_progressionFormat": "bar"
+  },
+  "_cdnConfig": {
+    "_notifyText": "Version information copied to clipboard",
+    "_btnAriaLabel": "Copy version information to clipboard",
+    "_btnTooltipText": "Copy version information to clipboard"
+  },
+  "_imageEnlarge": {
+    "_imageTextBtn": {
+      "text": "Image Text"
+    },
+    "_dropDownAriaLabelForZoom": {
+      "text": "Image enlarge Zoom dropdown"
+    }
+  },
+  "_hyper": {
+    "_messages": ""
+  },
   "_articleReveal": {
     "_classes": "",
-    "_iconClassName": "",
+    "_iconClassName": "icon-Learner",
     "_text": "Additional Learning",
     "_ariaLabels": {
       "openArticle": "Open Article. Select here to reveal article content.",
       "closeArticle": "Close Article"
     }
   },
-  "_additionalMaterial": {
-    "_button": {
-      "text": "Additional Material",
-      "ariaLabel": "",
-      "iconClassName": "",
-      "className": "",
-      "_btnType": "primary"
-    }
-  },
-  "_lifeMenu": {
+  "_overviewMenu": {
+    "_skipSubmenuView": false,
+    "lockedNotification": "This module is not accessible. Choose one of the active modules.",
     "_backgroundImage": {
+      "_xlarge": "",
       "_large": "",
       "_medium": "",
       "_small": ""
     },
     "_backgroundStyles": {
-      "_backgroundRepeat": null,
-      "_backgroundSize": null,
-      "_backgroundPosition": null
+      "_backgroundRepeat": "repeat",
+      "_backgroundSize": "auto",
+      "_backgroundPosition": "left top"
     },
     "_menuHeader": {
       "_displayAboveHeader": false,
       "_backgroundImage": {
+        "_xlarge": "",
         "_large": "",
         "_medium": "",
         "_small": ""
       },
       "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
+        "_backgroundRepeat": "repeat",
+        "_backgroundSize": "auto",
+        "_backgroundPosition": "left top"
       },
       "_minimumHeights": {
+        "_xlarge": null,
         "_large": null,
         "_medium": null,
         "_small": null
@@ -405,12 +535,8 @@
     }
   },
   "_life": {
-    "_isPresentationView": false,
-    "_allPageHeaders": {
-      "_pageHeaderType": "none"
-    },
-    "_articlePadding": 40,
-    "_blockPadding": 20,
-    "_componentPadding": 10
+    "_favIcon": {
+      "_src": ""
+    }
   }
 }

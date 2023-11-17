@@ -24,69 +24,13 @@
     "description": "TCPR",
     "tags": []
   },
-  "de27c50066024ff545d5613e80364735c12e3d02.mp4": {
-    "title": "01_Onboarding & Pairing with voice over.mp4",
-    "description": "TCPR link",
-    "tags": []
-  },
-  "cdafc5967659ac7e2489a586199e4257671f6ab2.jpg": {
-    "title": "pairing video.jpg",
-    "description": "TCPR link",
-    "tags": []
-  },
-  "020f44b03f28ecae34f1ff8e3b093eac667226b3.png": {
-    "title": "CPRcard Feedback indicators small.png",
-    "description": "CPRcard feedback indicators small",
-    "tags": [
-      {
-        "title": "CPRcard",
-        "_id": "5fb6840227034267cd4d8326"
-      },
-      {
-        "title": "TCPR Link",
-        "_id": "5f6a013ba022023e70693637"
-      },
-      {
-        "title": "diodes",
-        "_id": "5fb792e027034267cd4d83d9"
-      }
-    ]
-  },
-  "1d2999948d042ce468c701e97ba5d7abba5864a3.png": {
-    "title": "CPRcard Feedback indicators large.png",
-    "description": "CPRcard Feedback indicators large",
-    "tags": [
-      {
-        "title": "CPRcard",
-        "_id": "5fb6840227034267cd4d8326"
-      },
-      {
-        "title": "TCPR Link",
-        "_id": "5f6a013ba022023e70693637"
-      },
-      {
-        "title": "diodes",
-        "_id": "5fb792e027034267cd4d83d9"
-      }
-    ]
-  },
-  "ccb3b19ce7f2498736694955efe63e9a6bb3ef89.gif": {
-    "title": "cc.gif",
-    "description": "cc",
+  "381ee2cbaf964941c27b73b2e9feeef633eb7bd6.jpg": {
+    "title": "TCPR Link Summary.jpg",
+    "description": "TCPR Link Summary Overview with text",
     "tags": []
   },
   "ba47f9770d2044f4e63b98dba2e9cbef70f89dce.jpg": {
     "title": "open shirt.jpg",
-    "description": "TCPR link",
-    "tags": []
-  },
-  "9f08401db45382d12f9e74dda90489a413c0a454.mp4": {
-    "title": "MyResponder scenario v2.mp4",
-    "description": "TCPR link",
-    "tags": []
-  },
-  "db1be64ef55ef76a652784870ca583021d6803df.jpg": {
-    "title": "Screenshot 2021-04-21 183552.jpg",
     "description": "TCPR link",
     "tags": []
   },
@@ -95,23 +39,8 @@
     "description": "TCPR link",
     "tags": []
   },
-  "987c9c7e1492e8e48f11e416eea351cc563a2642.png": {
-    "title": "Page 6 - Step 6.png",
-    "description": "TCPR link",
-    "tags": []
-  },
-  "2d215d5644ac52ec8e5dde93f4657aa8e3d29bf9.png": {
-    "title": "Page 8 - Step 1.png",
-    "description": "TCPR link",
-    "tags": []
-  },
   "dff55050ee2a51d1212b3e43de5a6748668359b5.png": {
     "title": "Page 8 - Step 2.png",
-    "description": "TCPR link",
-    "tags": []
-  },
-  "0eb5df7f357c3249ac3334aebbad6780750ef8b6.png": {
-    "title": "TCPR Link cover.png",
     "description": "TCPR link",
     "tags": []
   },
@@ -125,21 +54,6 @@
     "description": "TCPR link",
     "tags": []
   },
-  "0563868f99c00cd3dab9d220ced3b607d913d17d.png": {
-    "title": "Page 6 - Step 7.png",
-    "description": "TCPR link",
-    "tags": []
-  },
-  "f2bef783fe3e50de30f09d858fc13a323d546c64.png": {
-    "title": "Page 8 - Step 3.png",
-    "description": "TCPR link",
-    "tags": []
-  },
-  "cd775cb1190716380ccf817f0c31fec5b54ec758.jpg": {
-    "title": "Screenshot 2021-06-23 124413.jpg",
-    "description": "TCPR link",
-    "tags": []
-  },
   "3bbd82f5aaf591ed9c49bdad5b16a9e81169276e.png": {
     "title": "qr-code (1).png",
     "description": "TCPR link",
@@ -150,44 +64,214 @@
     "description": "TCPR link",
     "tags": []
   },
-  "a919e74fdb5b82bb6ff7a778f4692a446ba4ff03.png": {
-    "title": "sizetest.png",
-    "description": "TCPR link",
-    "tags": []
-  },
   "e9726a882da78dc447da8a9b44a7ccb6e0a6989d.png": {
     "title": "V2. Page 4.png",
     "description": "TCPR link",
     "tags": []
   },
-  "7dad690ee7f29fc7d03a52398dbb6c058b42647e.png": {
-    "title": "TCPR.png",
+  "ec158aef285ff5ddda5bcdb3ce093ef8fe080949.png": {
+    "title": "Video 2. Front pic. Pairing TCPR Link with CPRcard.png",
     "description": "TCPR link",
     "tags": []
   },
-  "fdc1b5bcad2e38e3b05178b3c915678fb98b263e.png": {
-    "title": "V2. Page 6 - Step 1.png",
+  "49245270f9320c1c749d4e6e036749337e51a45b.png": {
+    "title": "Frame 16.png",
     "description": "TCPR link",
     "tags": []
   },
-  "98e5bdd34ffae2fd5cac863d48d656b7c54e0d95.png": {
+  "040d5375280cb0d6a053f8dfb031cd6f19eada3c.png": {
+    "title": "Frame 18.png",
+    "description": "TCPR link",
+    "tags": []
+  },
+  "bb9ea67bbcf20490e162681ec2800a931de21ad4.png": {
+    "title": "Frame 19.png",
+    "description": "TCPR Link",
+    "tags": []
+  },
+  "5b682f1f8d85a09f937d32985b6051bfc0af31fa.png": {
     "title": "V2. Page 6- Step 4.png",
+    "description": "TCPR Link",
+    "tags": []
+  },
+  "f107c8a9fc1c6d4a51f4be130c1c29bb7f4c8408.h5p": {
+    "title": "place-the-cprcard-on-the-patient-1291457274201033717 (1).h5p",
+    "description": "TCPR Link",
+    "tags": []
+  },
+  "1f12689ff0c58a6aed9a0b0f18e939edbe693be2.png": {
+    "title": "TCPR Link Dispatcher.png",
+    "description": "TCPR Link Dispatcher.png",
+    "tags": []
+  },
+  "44c9f3c861ee2f1d8deda78f6618c51a34d3e115.png": {
+    "title": "TCPR Link Pairing card and app.png",
+    "description": "TCPR Link Pairing card and app",
+    "tags": []
+  },
+  "6ec89052f0b2ffdadcf1331d45de1bceba84e348.png": {
+    "title": "TCPR Link Hand placement_2 (big)",
+    "description": "TCPR Link Hand placement_2 (big)",
+    "tags": []
+  },
+  "e4e069d051dbd441e29d3f617bb64fdbab5c9918.png": {
+    "title": "TCPR Link. Too shallow and too fast_2",
+    "description": "TCPR Link. Too shallow and too fast_2",
+    "tags": []
+  },
+  "1567f88b2f269b07a369bc0adf314bfc8478e0d2.png": {
+    "title": "TCPR Link Good depth_3",
+    "description": "TCPR Link Good depth_3",
+    "tags": []
+  },
+  "caa23f6c36af2aacc6bd82aa178ab12a77353172.png": {
+    "title": "TCPR Link Good rate_ver 2",
+    "description": "TCPR Link Good rate_ver 2",
+    "tags": []
+  },
+  "508af438f589d1a3cb34f668f2eb5633ccca60a3.png": {
+    "title": "TCPR Link smallCard2 - ver 3",
+    "description": "TCPR Link smallCard2 - ver 3",
+    "tags": []
+  },
+  "2659b56ca5fcba140934ffd5ebf16ac9d43d1b7b.png": {
+    "title": "TCPR Link card Too slow and too fast_ ver3",
+    "description": "TCPR Link card Too slow and too fast_ ver3",
+    "tags": []
+  },
+  "2487b15f6abe8ff0f7af5e66c81c44387fbc9fa5.gif": {
+    "title": "No leaning.gif",
     "description": "TCPR link",
     "tags": []
   },
-  "3c1262ff61f79dc9eb596ac840bf5058dd33dcd1.h5p": {
-    "title": "phone-placement-1291437588870378597.h5p",
+  "8fe0573fc50eddc57b3eb4dae3fd46e61d527f88.gif": {
+    "title": "Leaning.gif",
     "description": "TCPR link",
     "tags": []
   },
-  "483caa6e25fe3b1eeebd6193b160fdcbf51747b2.h5p": {
-    "title": "image-sequencing-1291437603540695077.h5p",
+  "d058e8e7a9a1e2075f30f9f3a0717ad59a7fa1e1.gif": {
+    "title": "compLoop-A_fcfr_icon_small.gif",
     "description": "TCPR link",
     "tags": []
   },
-  "7687d62801252c7776f7f8f273e2dc29eaa76380.h5p": {
-    "title": "clone-of-image-sequencing-1291438461792198907.h5p",
+  "e8b789628d3fd81c974b2c2fc30de7d06f630a37.gif": {
+    "title": "Good speed and recoil - bad depth.gif",
     "description": "TCPR link",
+    "tags": []
+  },
+  "483ba5c2c85c65b469c92458e56d23c777530a05.h5p": {
+    "title": "clone-of-myresponder-sequence-1292110516463831257 (1).h5p",
+    "description": "H5P_ver 2",
+    "tags": []
+  },
+  "fc5f00f051047ef7cb7de3500613700be9375ce7.png": {
+    "title": "TCPRLink step1_OpenApp.png",
+    "description": "TCPRLink step1_OpenApp",
+    "tags": []
+  },
+  "603ecdbf1d4340b745a481841a28a4092da784b0.png": {
+    "title": "TCPRLink step6_TalkToCoordinator.png",
+    "description": "TCPRLink step6_TalkToCoordinator",
+    "tags": []
+  },
+  "4c7cb35d1105f57e6ee6c0c91037413c7a8072ee.png": {
+    "title": "TCPRLink step7_DoCPR.png",
+    "description": "TCPRLink step7_DoCPR",
+    "tags": []
+  },
+  "c9f922cfea98124bfd0ae62838000d8774289957.png": {
+    "title": "CPR feedback GoodCPR.png",
+    "description": "CPR feedback GoodCPR",
+    "tags": []
+  },
+  "2197a1d1351a0b5ed822c3d4a0155588275272b3.png": {
+    "title": "CPR feedback toodeepslow.png",
+    "description": "CPR feedback toodeepslow.png",
+    "tags": []
+  },
+  "81e0cc41c740de7c40386eed8e22ed1c77fdf0e0.png": {
+    "title": "CPR feedback shallowtoofast.png",
+    "description": "CPR feedback shallowtoofast",
+    "tags": []
+  },
+  "afe2006c2c33aec12097e13c4680c992225a51f3.png": {
+    "title": "TCPR Link overview.png",
+    "description": "TCPR Link overview",
+    "tags": []
+  },
+  "c0a78a2cee4b17584e5866e7e333ab85457f5cf3.png": {
+    "title": "phone_14_01.png",
+    "description": "iphone",
+    "tags": []
+  },
+  "ce1d5c6b99ee8a3d9743c1f78be9bfb005e6d91c.png": {
+    "title": "TCPR Link. Try CPR Start.png",
+    "description": "TCPR Link. Try CPR Start",
+    "tags": []
+  },
+  "2c0141438c9ab8831acc4e49178ca7ea8233e0ce.png": {
+    "title": "TCPR Link. Try CPR Message.png",
+    "description": "TCPR Link. Try CPR Message.png",
+    "tags": []
+  },
+  "02999dffad6e9fbf3825362466b4ccb54759181a.png": {
+    "title": "TCPR Link. Try CPR.Turn on card.png",
+    "description": "TCPR Link. Try CPR.Turn on card",
+    "tags": []
+  },
+  "774fcde77da80f3ef6cc83b0667b947829ac0d3e.png": {
+    "title": "TCPR Link.Try CPR CPR Feedback.png",
+    "description": "TCPR Link.Try CPR CPR Feedback.png",
+    "tags": []
+  },
+  "938071f64dbf11fb937d7b62795d97acf7c087e8.png": {
+    "title": "TCPR Link. Shallow TooFast.png",
+    "description": "TCPR Link. Shallow TooFast.png",
+    "tags": []
+  },
+  "613c8a35d06e2f999318d5435311bc19e845e3a2.png": {
+    "title": "TCPR Link. Start CPR.png",
+    "description": "TCPR Link. Start CPR",
+    "tags": []
+  },
+  "785b6fe4a2ef48d93717c72c252a2688dddb7e7b.png": {
+    "title": "TCPR Link Video.png",
+    "description": "TCPR Link Video.png",
+    "tags": []
+  },
+  "317e7fea2b544eb9b799869279ea105c66b4921e.png": {
+    "title": "TCPRLink Good depthTooFast.png",
+    "description": "TCPRLink Good depthTooFast.png",
+    "tags": []
+  },
+  "c4cdc7c65aa79bf6e91e6d1c93b8ed3bb2699419.mp4": {
+    "title": "Paring card and app_output video.mp4",
+    "description": "TCPRLink Pairing card and app",
+    "tags": []
+  },
+  "380eb87b967d955ec5993f5291e92495e8b0810c.png": {
+    "title": "Pairing success.png",
+    "description": "TCPRLink Pairing image",
+    "tags": []
+  },
+  "6b13ca6b08b6415eca1c251860ecba3cb4f089ec.mp4": {
+    "title": "How to use TCPR Link_output video.mp4",
+    "description": "TCPRLink How to use",
+    "tags": []
+  },
+  "2f69c1df8c5f23ebf3de816ee6a1e579be3a345d.png": {
+    "title": "Screenshort Start How to Use TCPR Link.png",
+    "description": "TCPRLink How to",
+    "tags": []
+  },
+  "e7280483d9a0305739afc13dcd8844ca2fd141c1.mp4": {
+    "title": "Teamwork with the dispatcher_output video.mp4",
+    "description": "TCPR Link Teamwork ",
+    "tags": []
+  },
+  "6438f7f2bd3799987624fe94123dd20019d81ba5.png": {
+    "title": "Snapshot Teamwork.png",
+    "description": "TCPRLink Teamwork",
     "tags": []
   }
 }

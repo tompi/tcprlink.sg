@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <title>Laerdal Hyper Bridge Sample</title>
+    <style type="text/css">
+      body {
+        font-family: 'Segoe UI', sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Adapt Hyper Bridge sample</h1>
+    <p>
+      This page allows different ways of launching the Adapt Hyper Bridge
+      Course.
+    </p>
+    <h2>Simple Launch</h2>
+    <p>Use the following to test just a single SCO:</p>
+    <ul>
+      <li><a href="index.html?void=1">index.html?void=1</a></li>
+      <li>
+        <a href="index.html?svoid=1">index.html?svoid=1</a> (For testing with
+        security cookie)
+      </li>
+    </ul>
+    <h2>Hyper Player example</h2>
+    <p>
+      Use the following to test the player and manifest. Displaying the player
+      can be usefull for debugging.
+    </p>
+    <ul>
+      <li>
+        <a
+          href="hyper/player/player.html?void=1&amp;manifest=../../content/adapt-manifest-debug.json"
+          >hyper/player/player.html?void=1&amp;manifest=../../content/adapt-manifest-debug.json</a
+        >
+      </li>
+      <li>
+        <a
+          href="hyper/player/player.html?svoid=1&amp;manifest=../../content/adapt-manifest-debug.json"
+          >hyper/player/player.html?svoid=1&amp;manifest=../../content/adapt-manifest-debug.json</a
+        >
+        (For testing with security cookie)
+      </li>
+    </ul>
+    <h2>Hyper Player hidden menu example</h2>
+    <p>
+      Use the following to test the player and manifest. The menu will start up
+      hidden.
+    </p>
+    <ul>
+      <li>
+        <a
+          href="hyper/player/player.html?void=1&amp;manifest=../../content/adapt-manifest.json"
+          >hyper/player/player.html?void=1&amp;manifest=../../content/adapt-manifest.json</a
+        >
+      </li>
+      <li>
+        <a
+          href="hyper/player/player.html?svoid=1&amp;manifest=../../content/adapt-manifest.json"
+          >hyper/player/player.html?svoid=1&amp;manifest=../../content/adapt-manifest.json</a
+        >
+        (For testing with security cookie)
+      </li>
+    </ul>
+    <h2>Content Server links</h2>
+    <p>Use the following links to read about the debug server components.</p>
+    <ul>
+      <li>
+        <a href="hyper/server/debug/">hyper/server/debug/</a> (Should not work
+        on production servers)
+      </li>
+      <li>
+        <a href="hyper/server/debug/show/">hyper/server/debug/show/</a> (Should
+        not work on production servers)
+      </li>
+      <li>
+        <a href="hyper/server/storage/">hyper/server/storage/</a> (Should not
+        work on production servers)
+      </li>
+      <li><a href="hyper/server/ping.ashx/">hyper/server/ping.ashx</a></li>
+      <li><a href="securityserver/">securityserver/</a></li>
+    </ul>
+  </body>
+</html>
