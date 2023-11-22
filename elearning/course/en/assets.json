@@ -174,26 +174,6 @@
     "description": "TCPRLink step6_TalkToCoordinator",
     "tags": []
   },
-  "4c7cb35d1105f57e6ee6c0c91037413c7a8072ee.png": {
-    "title": "TCPRLink step7_DoCPR.png",
-    "description": "TCPRLink step7_DoCPR",
-    "tags": []
-  },
-  "c9f922cfea98124bfd0ae62838000d8774289957.png": {
-    "title": "CPR feedback GoodCPR.png",
-    "description": "CPR feedback GoodCPR",
-    "tags": []
-  },
-  "2197a1d1351a0b5ed822c3d4a0155588275272b3.png": {
-    "title": "CPR feedback toodeepslow.png",
-    "description": "CPR feedback toodeepslow.png",
-    "tags": []
-  },
-  "81e0cc41c740de7c40386eed8e22ed1c77fdf0e0.png": {
-    "title": "CPR feedback shallowtoofast.png",
-    "description": "CPR feedback shallowtoofast",
-    "tags": []
-  },
   "afe2006c2c33aec12097e13c4680c992225a51f3.png": {
     "title": "TCPR Link overview.png",
     "description": "TCPR Link overview",
@@ -224,26 +204,6 @@
     "description": "TCPR Link.Try CPR CPR Feedback.png",
     "tags": []
   },
-  "938071f64dbf11fb937d7b62795d97acf7c087e8.png": {
-    "title": "TCPR Link. Shallow TooFast.png",
-    "description": "TCPR Link. Shallow TooFast.png",
-    "tags": []
-  },
-  "613c8a35d06e2f999318d5435311bc19e845e3a2.png": {
-    "title": "TCPR Link. Start CPR.png",
-    "description": "TCPR Link. Start CPR",
-    "tags": []
-  },
-  "785b6fe4a2ef48d93717c72c252a2688dddb7e7b.png": {
-    "title": "TCPR Link Video.png",
-    "description": "TCPR Link Video.png",
-    "tags": []
-  },
-  "317e7fea2b544eb9b799869279ea105c66b4921e.png": {
-    "title": "TCPRLink Good depthTooFast.png",
-    "description": "TCPRLink Good depthTooFast.png",
-    "tags": []
-  },
   "c4cdc7c65aa79bf6e91e6d1c93b8ed3bb2699419.mp4": {
     "title": "Paring card and app_output video.mp4",
     "description": "TCPRLink Pairing card and app",
@@ -272,6 +232,46 @@
   "6438f7f2bd3799987624fe94123dd20019d81ba5.png": {
     "title": "Snapshot Teamwork.png",
     "description": "TCPRLink Teamwork",
+    "tags": []
+  },
+  "6a2f692431612ca6bbddc5082fef0db2dad51cd1.png": {
+    "title": "new_CPR feedback GoodCPR.png",
+    "description": "new_CPR feedback GoodCPR.png",
+    "tags": []
+  },
+  "336fb3695b03992810845730e4519f018539382a.png": {
+    "title": "new_TCPRLink step7_DoCPR.png",
+    "description": "TCPRLinknew_TCPRLink step7_DoCPR.png",
+    "tags": []
+  },
+  "039ac24e921051722f203c6d4adc5756a5618d83.png": {
+    "title": "TCPRLink new_CPR feedback shallowtoofast.png",
+    "description": "TCPRLink new_CPR feedback shallowtoofast.png",
+    "tags": []
+  },
+  "e8abef1fe185ad24a72d73dd3407c0881d57cb08.png": {
+    "title": "TCPRLink new_CPR feedback toodeepslow.png",
+    "description": "TCPRLink new_CPR feedback toodeepslow.png",
+    "tags": []
+  },
+  "4f886e6b1a343c375908f0574fe7807b0460f41c.png": {
+    "title": "TCPRLink new_Shallow TooFast.png",
+    "description": "TCPRLink new_Shallow TooFast.png",
+    "tags": []
+  },
+  "7f10de740557a635aa185ce9cace0d8b4a7a7afd.png": {
+    "title": "TCPRLink new_Start CPR.png",
+    "description": "TCPRLink new_Start CPR.png",
+    "tags": []
+  },
+  "09df717fef47ce0dffa294177c22fd1626f24ba5.png": {
+    "title": "TCPRLink new_ toofastgood.png",
+    "description": "TCPRLink new_ toofastgood.png",
+    "tags": []
+  },
+  "1e9ce0db14f520836db008fe46a57a8670d1e848.png": {
+    "title": "TCPRLink new_TCPR Link Video.png",
+    "description": "TCPRLink new_TCPR Link Video.png",
     "tags": []
   }
 }

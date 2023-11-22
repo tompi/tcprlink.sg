@@ -691,17 +691,6 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false,
-      "_text": {
-        "_isAttributionIncluded": false,
-        "_isDescriptionIncluded": false
-      }
-    },
     "_inlineFeedback": {
       "disableSemanticColors": false,
       "_graphic": {
@@ -719,6 +708,17 @@
         }
       }
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
     "_life": {
       "_textAlignment": {
         "_title": "",
@@ -735,8 +735,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/c9f922cfea98124bfd0ae62838000d8774289957.png",
-      "small": "course/en/assets/c9f922cfea98124bfd0ae62838000d8774289957.png",
+      "large": "course/en/assets/6a2f692431612ca6bbddc5082fef0db2dad51cd1.png",
+      "small": "course/en/assets/6a2f692431612ca6bbddc5082fef0db2dad51cd1.png",
       "attribution": "",
       "_url": "",
       "_target": null
@@ -2011,17 +2011,6 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false,
-      "_text": {
-        "_isAttributionIncluded": false,
-        "_isDescriptionIncluded": false
-      }
-    },
     "_inlineFeedback": {
       "disableSemanticColors": false,
       "_graphic": {
@@ -2039,6 +2028,17 @@
         }
       }
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
     "_life": {
       "_textAlignment": {
         "_title": "",
@@ -2055,8 +2055,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/4c7cb35d1105f57e6ee6c0c91037413c7a8072ee.png",
-      "small": "course/en/assets/4c7cb35d1105f57e6ee6c0c91037413c7a8072ee.png",
+      "large": "course/en/assets/336fb3695b03992810845730e4519f018539382a.png",
+      "small": "course/en/assets/336fb3695b03992810845730e4519f018539382a.png",
       "attribution": "",
       "_url": "",
       "_target": null
@@ -2300,17 +2300,6 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false,
-      "_text": {
-        "_isAttributionIncluded": false,
-        "_isDescriptionIncluded": false
-      }
-    },
     "_inlineFeedback": {
       "disableSemanticColors": false,
       "_graphic": {
@@ -2328,6 +2317,17 @@
         }
       }
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
     "_life": {
       "_textAlignment": {
         "_title": "",
@@ -2344,8 +2344,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/4c7cb35d1105f57e6ee6c0c91037413c7a8072ee.png",
-      "small": "course/en/assets/4c7cb35d1105f57e6ee6c0c91037413c7a8072ee.png",
+      "large": "course/en/assets/336fb3695b03992810845730e4519f018539382a.png",
+      "small": "course/en/assets/336fb3695b03992810845730e4519f018539382a.png",
       "attribution": "",
       "_url": "",
       "_target": null
@@ -2780,17 +2780,6 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false,
-      "_text": {
-        "_isAttributionIncluded": false,
-        "_isDescriptionIncluded": false
-      }
-    },
     "_inlineFeedback": {
       "disableSemanticColors": false,
       "_graphic": {
@@ -2808,6 +2797,17 @@
         }
       }
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
     "_life": {
       "_textAlignment": {
         "_title": "",
@@ -2824,8 +2824,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/2197a1d1351a0b5ed822c3d4a0155588275272b3.png",
-      "small": "course/en/assets/2197a1d1351a0b5ed822c3d4a0155588275272b3.png",
+      "large": "course/en/assets/e8abef1fe185ad24a72d73dd3407c0881d57cb08.png",
+      "small": "course/en/assets/e8abef1fe185ad24a72d73dd3407c0881d57cb08.png",
       "attribution": "",
       "_url": "",
       "_target": null
@@ -3438,17 +3438,6 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false,
-      "_text": {
-        "_isAttributionIncluded": false,
-        "_isDescriptionIncluded": false
-      }
-    },
     "_inlineFeedback": {
       "disableSemanticColors": false,
       "_graphic": {
@@ -3466,6 +3455,17 @@
         }
       }
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
     "_life": {
       "_textAlignment": {
         "_title": "",
@@ -3482,8 +3482,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/81e0cc41c740de7c40386eed8e22ed1c77fdf0e0.png",
-      "small": "course/en/assets/81e0cc41c740de7c40386eed8e22ed1c77fdf0e0.png",
+      "large": "course/en/assets/039ac24e921051722f203c6d4adc5756a5618d83.png",
+      "small": "course/en/assets/039ac24e921051722f203c6d4adc5756a5618d83.png",
       "attribution": "",
       "_url": "",
       "_target": null
@@ -3517,17 +3517,6 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false,
-      "_text": {
-        "_isAttributionIncluded": false,
-        "_isDescriptionIncluded": false
-      }
-    },
     "_inlineFeedback": {
       "disableSemanticColors": false,
       "_graphic": {
@@ -3545,6 +3534,17 @@
         }
       }
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
     "_life": {
       "_textAlignment": {
         "_title": "",
@@ -3561,8 +3561,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/c9f922cfea98124bfd0ae62838000d8774289957.png",
-      "small": "course/en/assets/c9f922cfea98124bfd0ae62838000d8774289957.png",
+      "large": "course/en/assets/6a2f692431612ca6bbddc5082fef0db2dad51cd1.png",
+      "small": "course/en/assets/6a2f692431612ca6bbddc5082fef0db2dad51cd1.png",
       "attribution": "",
       "_url": "",
       "_target": null
@@ -6588,17 +6588,6 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false,
-      "_text": {
-        "_isAttributionIncluded": false,
-        "_isDescriptionIncluded": false
-      }
-    },
     "_inlineFeedback": {
       "disableSemanticColors": false,
       "_graphic": {
@@ -6616,6 +6605,17 @@
         }
       }
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
     "_life": {
       "_textAlignment": {
         "_title": "",
@@ -6632,8 +6632,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/938071f64dbf11fb937d7b62795d97acf7c087e8.png",
-      "small": "course/en/assets/938071f64dbf11fb937d7b62795d97acf7c087e8.png",
+      "large": "course/en/assets/4f886e6b1a343c375908f0574fe7807b0460f41c.png",
+      "small": "course/en/assets/4f886e6b1a343c375908f0574fe7807b0460f41c.png",
       "attribution": "",
       "_url": "",
       "_target": null
@@ -6800,17 +6800,6 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false,
-      "_text": {
-        "_isAttributionIncluded": false,
-        "_isDescriptionIncluded": false
-      }
-    },
     "_inlineFeedback": {
       "disableSemanticColors": false,
       "_graphic": {
@@ -6828,6 +6817,17 @@
         }
       }
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
     "_life": {
       "_textAlignment": {
         "_title": "",
@@ -6844,8 +6844,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/613c8a35d06e2f999318d5435311bc19e845e3a2.png",
-      "small": "course/en/assets/613c8a35d06e2f999318d5435311bc19e845e3a2.png",
+      "large": "course/en/assets/7f10de740557a635aa185ce9cace0d8b4a7a7afd.png",
+      "small": "course/en/assets/7f10de740557a635aa185ce9cace0d8b4a7a7afd.png",
       "attribution": "",
       "_url": "",
       "_target": null
@@ -7012,17 +7012,6 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false,
-      "_text": {
-        "_isAttributionIncluded": false,
-        "_isDescriptionIncluded": false
-      }
-    },
     "_inlineFeedback": {
       "disableSemanticColors": false,
       "_graphic": {
@@ -7040,6 +7029,17 @@
         }
       }
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
     "_life": {
       "_textAlignment": {
         "_title": "",
@@ -7056,8 +7056,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/317e7fea2b544eb9b799869279ea105c66b4921e.png",
-      "small": "course/en/assets/317e7fea2b544eb9b799869279ea105c66b4921e.png",
+      "large": "course/en/assets/09df717fef47ce0dffa294177c22fd1626f24ba5.png",
+      "small": "course/en/assets/09df717fef47ce0dffa294177c22fd1626f24ba5.png",
       "attribution": "",
       "_url": "",
       "_target": null
@@ -8041,17 +8041,6 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false,
-      "_text": {
-        "_isAttributionIncluded": false,
-        "_isDescriptionIncluded": false
-      }
-    },
     "_inlineFeedback": {
       "disableSemanticColors": false,
       "_graphic": {
@@ -8069,6 +8058,17 @@
         }
       }
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
     "_life": {
       "_textAlignment": {
         "_title": "",
@@ -8085,8 +8085,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/785b6fe4a2ef48d93717c72c252a2688dddb7e7b.png",
-      "small": "course/en/assets/785b6fe4a2ef48d93717c72c252a2688dddb7e7b.png",
+      "large": "course/en/assets/1e9ce0db14f520836db008fe46a57a8670d1e848.png",
+      "small": "course/en/assets/1e9ce0db14f520836db008fe46a57a8670d1e848.png",
       "attribution": "",
       "_url": "",
       "_target": null
@@ -9183,17 +9183,6 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false,
-      "_text": {
-        "_isAttributionIncluded": false,
-        "_isDescriptionIncluded": false
-      }
-    },
     "_inlineFeedback": {
       "disableSemanticColors": false,
       "_graphic": {
@@ -9211,6 +9200,17 @@
         }
       }
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
     "_life": {
       "_textAlignment": {
         "_title": "",
@@ -9227,8 +9227,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/938071f64dbf11fb937d7b62795d97acf7c087e8.png",
-      "small": "course/en/assets/938071f64dbf11fb937d7b62795d97acf7c087e8.png",
+      "large": "course/en/assets/4f886e6b1a343c375908f0574fe7807b0460f41c.png",
+      "small": "course/en/assets/4f886e6b1a343c375908f0574fe7807b0460f41c.png",
       "attribution": "",
       "_url": "",
       "_target": null
