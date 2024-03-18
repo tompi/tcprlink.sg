@@ -2,7 +2,7 @@
   {
     "title": "New Article Title",
     "displayTitle": "",
-    "body": "<p>TCPR Link uses novel technology to establish optimal teamwork between CPR volunteers and dispatchers at Emergency Medical Communication Centre, in an out-of-hospital cardiac arrest incident.&nbsp;</p>",
+    "body": "<p><span style=\"color:#000000\">TCPR Link uses novel technology to establish optimal teamwork between CPR volunteers and dispatchers at Emergency Medical Communication Centre, in an out-of-hospital cardiac arrest incident.&nbsp;</span></p>",
     "_classes": "",
     "instruction": "",
     "_isOptional": false,
@@ -10,9 +10,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 1,
-    "_id": "654df7d977c9ad1f96c18e9f",
-    "_parentId": "654df7d977c9ad1f96c18e91",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2016",
+    "_parentId": "65f4437e57765a9ba01d2009",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -91,7 +91,7 @@
   {
     "title": "How TCPR Link works",
     "displayTitle": "",
-    "body": "<p>The idea behind TCPR Link is to equip and support community CPR volunteers with real-time feedback and support their collaboration with dispatcher to enable them to perform quality CPR.</p><ol></ol>",
+    "body": "<p><span style=\"color:#000000\">The idea behind TCPR Link is to equip and support community CPR volunteers with real-time feedback and support their collaboration with dispatcher to enable them to perform quality CPR.</span></p><ol></ol>",
     "_classes": "",
     "instruction": "",
     "_isOptional": false,
@@ -99,9 +99,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18ea0",
-    "_parentId": "654df7d977c9ad1f96c18e92",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2017",
+    "_parentId": "65f4437e57765a9ba01d200a",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -188,9 +188,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18ea1",
-    "_parentId": "654df7d977c9ad1f96c18e94",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2018",
+    "_parentId": "65f4437e57765a9ba01d200c",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -254,9 +254,9 @@
     }
   },
   {
-    "title": "Thank you for completing this course!",
+    "title": "Course completeion",
     "displayTitle": "",
-    "body": "<p>You&nbsp;are now prepared to use&nbsp;TCPR Link to perform&nbsp;quality CPR that will save lives!</p>",
+    "body": "",
     "_classes": "",
     "instruction": "",
     "_isOptional": false,
@@ -264,9 +264,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18ea3",
-    "_parentId": "654df7d977c9ad1f96c18e97",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d201a",
+    "_parentId": "65f4437e57765a9ba01d200f",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -279,6 +279,7 @@
       "_scrollDuration": 500,
       "_onChildren": false,
       "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
       "_button": {
         "_isEnabled": false,
         "_styleBeforeCompletion": "hidden",
@@ -302,6 +303,10 @@
         "_isLockedOnRevisit": false
       }
     },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_articleReveal": {
       "_isEnabled": false,
       "_classes": "",
@@ -312,12 +317,14 @@
         "closeArticle": "Close Article"
       }
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_life": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
       "_backgroundImage": {
+        "_xlarge": "",
         "_large": "",
         "_medium": "",
         "_small": ""
@@ -326,13 +333,19 @@
         "_backgroundRepeat": null,
         "_backgroundSize": null,
         "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
       }
     }
   },
   {
     "title": "TCPR Link",
     "displayTitle": "",
-    "body": "<p>As a leading cause of early death, cardiovascular diseases kill&nbsp;nearly 18 million people every year,&nbsp;accounting for 31% of all global deaths. One third of these deaths are caused by sudden cardiac arrest, a condition where the heart stops pumping blood.</p><p>The odds of surviving from out-of-hospital cardiac arrest&nbsp;without help are very slim. However,&nbsp;if bystanders are present and able to perform good CPR until the ambulance arrives, the&nbsp;chance of survival will increase significantly.&nbsp;<br />TCPR Link is a system that helps CPR volunteers give good CPR to victims of cardiac arrest, by working together with the dispatcher.&nbsp;</p>",
+    "body": "<p><span style=\"color:#000000\">As a leading cause of early death, cardiovascular diseases kill&nbsp;nearly 18 million people every year,&nbsp;accounting for 31% of all global deaths. One third of these deaths are caused by sudden cardiac arrest, a condition where the heart stops pumping blood.</span></p><p><span style=\"color:#000000\">The odds of surviving from out-of-hospital cardiac arrest&nbsp;without help are very slim. However,&nbsp;if bystanders are present and able to perform good CPR until the ambulance arrives, the&nbsp;chance of survival will increase significantly.&nbsp;<br />TCPR Link is a system that helps CPR volunteers give good CPR to victims of cardiac arrest, by working together with the dispatcher.&nbsp;</span></p>",
     "_classes": "",
     "instruction": "",
     "_isOptional": false,
@@ -340,9 +353,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18ea4",
-    "_parentId": "654df7d977c9ad1f96c18e90",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d201b",
+    "_parentId": "65f4437e57765a9ba01d2008",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -421,7 +434,7 @@
   {
     "title": "Course summary",
     "displayTitle": "",
-    "body": "<p>Congratulations - training completed!</p><p>During this course you have learned how novel technology can establish great collaboration between myResponder and dispatcher in a cardiac arrest,&nbsp;and help provide quality CPR to the patient.<br />You can help save a life!&nbsp;</p>",
+    "body": "<p><span style=\"color:#000000\">During this course you have learned how novel technology can establish great collaboration between myResponder and dispatcher in a cardiac arrest,&nbsp;and help provide quality CPR to the patient.<br />You can help save a life!&nbsp;</span></p>",
     "_classes": "",
     "instruction": "",
     "_isOptional": false,
@@ -429,9 +442,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18ea5",
-    "_parentId": "654df7d977c9ad1f96c18e96",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d201c",
+    "_parentId": "65f4437e57765a9ba01d200e",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -518,9 +531,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18ea7",
-    "_parentId": "654df7d977c9ad1f96c18e98",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d201e",
+    "_parentId": "65f4437e57765a9ba01d2010",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -594,9 +607,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18ea8",
-    "_parentId": "654df7d977c9ad1f96c18e99",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d201f",
+    "_parentId": "65f4437e57765a9ba01d2011",
     "_type": "article",
     "_pageLevelProgress": {
       "_isEnabled": false,
@@ -604,7 +617,7 @@
     }
   },
   {
-    "title": "Confidence",
+    "title": "New Article Title",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -614,9 +627,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18ea9",
-    "_parentId": "654df7d977c9ad1f96c18e9a",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2021",
+    "_parentId": "65f4437e57765a9ba01d2013",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -690,85 +703,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18eaa",
-    "_parentId": "654df7d977c9ad1f96c18e9b",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_onChildren": false,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": false,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_articleReveal": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_iconClassName": "",
-      "_text": "",
-      "_ariaLabels": {
-        "openArticle": "",
-        "closeArticle": ""
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_life": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      }
-    }
-  },
-  {
-    "title": "New Article Title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18eac",
-    "_parentId": "654df7d977c9ad1f96c18e9c",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2023",
+    "_parentId": "65f4437e57765a9ba01d2014",
     "_type": "article",
     "_pageLevelProgress": {
       "_isEnabled": false,
@@ -786,9 +723,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18ead",
-    "_parentId": "654df7d977c9ad1f96c18e9d",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2024",
+    "_parentId": "65f4437e57765a9ba01d2015",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -875,9 +812,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18eaf",
-    "_parentId": "654df7d977c9ad1f96c18e95",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2026",
+    "_parentId": "65f4437e57765a9ba01d200d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -964,9 +901,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18ea6",
-    "_parentId": "654df7d977c9ad1f96c18e93",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d201d",
+    "_parentId": "65f4437e57765a9ba01d200b",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1030,95 +967,19 @@
     }
   },
   {
-    "title": "Willingness to act",
-    "displayTitle": "Willingness to act",
-    "body": "<p>Finally, please indicate your willingness to act on the following sliders.</p>",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18eab",
-    "_parentId": "654df7d977c9ad1f96c18e9a",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_onChildren": false,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": false,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_articleReveal": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_iconClassName": "",
-      "_text": "",
-      "_ariaLabels": {
-        "openArticle": "",
-        "closeArticle": ""
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_life": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      }
-    }
-  },
-  {
     "title": "New Article Title",
     "displayTitle": "",
     "body": "",
     "_classes": "",
     "instruction": "",
     "_isOptional": false,
-    "_isAvailable": true,
+    "_isAvailable": false,
     "_isHidden": false,
-    "_isVisible": true,
+    "_isVisible": false,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18eae",
-    "_parentId": "654df7d977c9ad1f96c18e95",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2025",
+    "_parentId": "65f4437e57765a9ba01d200d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1205,9 +1066,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18ec0",
-    "_parentId": "654df7d977c9ad1f96c18e95",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2036",
+    "_parentId": "65f4437e57765a9ba01d200d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1294,9 +1155,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18eb0",
-    "_parentId": "654df7d977c9ad1f96c18e95",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2027",
+    "_parentId": "65f4437e57765a9ba01d200d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1370,9 +1231,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18eb1",
-    "_parentId": "654df7d977c9ad1f96c18e95",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2028",
+    "_parentId": "65f4437e57765a9ba01d200d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1446,9 +1307,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18eb2",
-    "_parentId": "654df7d977c9ad1f96c18e95",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2029",
+    "_parentId": "65f4437e57765a9ba01d200d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1522,9 +1383,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18eb3",
-    "_parentId": "654df7d977c9ad1f96c18e95",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d202a",
+    "_parentId": "65f4437e57765a9ba01d200d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1598,9 +1459,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18eb4",
-    "_parentId": "654df7d977c9ad1f96c18e95",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d202b",
+    "_parentId": "65f4437e57765a9ba01d200d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1674,9 +1535,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18eb5",
-    "_parentId": "654df7d977c9ad1f96c18e95",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d202c",
+    "_parentId": "65f4437e57765a9ba01d200d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1750,9 +1611,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18ec2",
-    "_parentId": "654df7d977c9ad1f96c18e95",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2037",
+    "_parentId": "65f4437e57765a9ba01d200d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1826,9 +1687,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18eb6",
-    "_parentId": "654df7d977c9ad1f96c18e95",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d202d",
+    "_parentId": "65f4437e57765a9ba01d200d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1902,9 +1763,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "65538f5877c9ad1f96c19042",
-    "_parentId": "654df7d977c9ad1f96c18e95",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2039",
+    "_parentId": "65f4437e57765a9ba01d200d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1991,9 +1852,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18eb8",
-    "_parentId": "654df7d977c9ad1f96c18e95",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d202f",
+    "_parentId": "65f4437e57765a9ba01d200d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2067,9 +1928,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18eb7",
-    "_parentId": "654df7d977c9ad1f96c18e95",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d202e",
+    "_parentId": "65f4437e57765a9ba01d200d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2143,9 +2004,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18eba",
-    "_parentId": "654df7d977c9ad1f96c18e95",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2031",
+    "_parentId": "65f4437e57765a9ba01d200d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2219,9 +2080,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18eb9",
-    "_parentId": "654df7d977c9ad1f96c18e95",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2030",
+    "_parentId": "65f4437e57765a9ba01d200d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2295,9 +2156,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18ebb",
-    "_parentId": "654df7d977c9ad1f96c18e95",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2032",
+    "_parentId": "65f4437e57765a9ba01d200d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2371,9 +2232,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18ea2",
-    "_parentId": "654df7d977c9ad1f96c18e95",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2019",
+    "_parentId": "65f4437e57765a9ba01d200d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2447,9 +2308,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18ec3",
-    "_parentId": "654df7d977c9ad1f96c18e95",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2038",
+    "_parentId": "65f4437e57765a9ba01d200d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2523,9 +2384,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18ebc",
-    "_parentId": "654df7d977c9ad1f96c18e95",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2033",
+    "_parentId": "65f4437e57765a9ba01d200d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2599,9 +2460,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18ebd",
-    "_parentId": "654df7d977c9ad1f96c18e95",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2034",
+    "_parentId": "65f4437e57765a9ba01d200d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2675,9 +2536,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18ebe",
-    "_parentId": "654df7d977c9ad1f96c18e95",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2035",
+    "_parentId": "65f4437e57765a9ba01d200d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,

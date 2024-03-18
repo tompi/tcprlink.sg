@@ -2,18 +2,17 @@
   {
     "_component": "laerdal-media",
     "_classes": "",
-    "_isOptional": false,
+    "_isOptional": true,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f07",
-    "_parentId": "654df7d977c9ad1f96c18ec4",
+    "_id": "65f4437e57765a9ba01d207d",
+    "_parentId": "65f4437e57765a9ba01d203b",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -24,10 +23,6 @@
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
     },
     "_imageEnlarge": {
       "_isEnabled": false,
@@ -53,6 +48,10 @@
         }
       }
     },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
     "_life": {
       "_textAlignment": {
         "_title": "",
@@ -65,7 +64,7 @@
         "component-header-color": ""
       }
     },
-    "instruction": "Please watch this short presentation of TCPR Link (the app user interface is outdated - this video will be updated)",
+    "instruction": "Please watch this short presentation of TCPR Link concept",
     "_media": {
       "title": "Media title",
       "mp4": "course/en/assets/b3974fe8e72677b507f9f7a617ec7c350fd0f870.mp4",
@@ -77,7 +76,7 @@
       "poster": "course/en/assets/3d6e52833fdc2706a78a84b385428403d2ead3bc.png",
       "cc": []
     },
-    "_setCompletionOn": "ended",
+    "_setCompletionOn": "inview",
     "_debug": false,
     "_loop": false,
     "_resetOnEnd": false,
@@ -93,113 +92,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "654df7da77c9ad1f96c18f08",
-    "_parentId": "654df7d977c9ad1f96c18ec5",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_lifeHelper": {
-      "_headingSettings": {
-        "_headerType": "none"
-      },
-      "_algoPart": {
-        "_learningObjective": "learning-objective-1",
-        "_selector": "",
-        "_showparts": "",
-        "_feedback": {
-          "_firstAttempt": "",
-          "_multipleAttempts": ""
-        }
-      },
-      "_stateGraphic": {
-        "_isEnabled": false,
-        "defaultAlt": "",
-        "default": "",
-        "correctAlt": "",
-        "correct": "",
-        "incorrectAlt": "",
-        "incorrect": ""
-      },
-      "_complexImage": {
-        "_buttonText": "Image description",
-        "_complexDescriptionTitle": "Image description",
-        "_complexDescription": ""
-      },
-      "_questionSettings": {
-        "_overrideQuestionButtonsInFooter": false
-      },
-      "_mediaSettings": {
-        "_mediaTitle": "Component media title",
-        "mp3": "",
-        "_References": {
-          "_buttonText": "References",
-          "_ReferencesDescriptionTitle": "References",
-          "_ReferencesDescription": ""
-        },
-        "_transcript": {
-          "inlineTranscriptBody": ""
-        }
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_button": {
-        "iconOnly": false,
-        "text": "",
-        "ariaLabel": "",
-        "iconClassName": "",
-        "className": ""
-      },
-      "_id": "",
-      "_simpleView": {
-        "title": "",
-        "body": ""
-      },
-      "_items": []
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false
-    },
-    "_life": {
-      "_paddingTop": null,
-      "_paddingBottom": null
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/66777e0031a5f4b8de6352cfee3c10343b7ae3c9.jpg",
-      "small": "course/en/assets/6125772b24259cce6c8e89e875fb1db188472cb7.jpg",
-      "attribution": ""
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "How bystanders can perform high quality CPR, using the TCPR link",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f09",
-    "_parentId": "654df7d977c9ad1f96c18ecb",
+    "_id": "65f4437e57765a9ba01d207f",
+    "_parentId": "65f4437e57765a9ba01d2042",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -265,106 +163,6 @@
     "_defaultScrollPercent": 0
   },
   {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
-    "title": "How high quality CPR can drastically increase the chance of survival from cardiac arrest",
-    "displayTitle": "",
-    "body": "",
-    "_id": "654df7da77c9ad1f96c18f0a",
-    "_parentId": "654df7d977c9ad1f96c18ec6",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_lifeHelper": {
-      "_headingSettings": {
-        "_headerType": "none"
-      },
-      "_algoPart": {
-        "_learningObjective": "learning-objective-1",
-        "_selector": "",
-        "_showparts": "",
-        "_feedback": {
-          "_firstAttempt": "",
-          "_multipleAttempts": ""
-        }
-      },
-      "_stateGraphic": {
-        "_isEnabled": false,
-        "defaultAlt": "",
-        "default": "",
-        "correctAlt": "",
-        "correct": "",
-        "incorrectAlt": "",
-        "incorrect": ""
-      },
-      "_complexImage": {
-        "_buttonText": "Image description",
-        "_complexDescriptionTitle": "Image description",
-        "_complexDescription": ""
-      },
-      "_questionSettings": {
-        "_overrideQuestionButtonsInFooter": false
-      },
-      "_mediaSettings": {
-        "_mediaTitle": "Component media title",
-        "mp3": "",
-        "_References": {
-          "_buttonText": "References",
-          "_ReferencesDescriptionTitle": "References",
-          "_ReferencesDescription": ""
-        },
-        "_transcript": {
-          "inlineTranscriptBody": ""
-        }
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_button": {
-        "iconOnly": false,
-        "text": "",
-        "ariaLabel": "",
-        "iconClassName": "",
-        "className": ""
-      },
-      "_id": "",
-      "_simpleView": {
-        "title": "",
-        "body": ""
-      },
-      "_items": []
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false
-    },
-    "_life": {
-      "_paddingTop": null,
-      "_paddingBottom": null
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/3fc0a570401fdbbfa480fc4d92b9804585d2b998.png",
-      "small": "course/en/assets/3fc0a570401fdbbfa480fc4d92b9804585d2b998.png",
-      "attribution": ""
-    }
-  },
-  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -372,178 +170,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Title",
     "displayTitle": "",
-    "body": "<p style=\"text-align:right\">Created by Laerdal Medical 2021</p>",
-    "_id": "654df7da77c9ad1f96c18f0b",
-    "_parentId": "654df7d977c9ad1f96c18eca",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_inlineFeedback": {
-      "disableSemanticColors": false,
-      "_graphic": {
-        "correct": "",
-        "_incorrect": {
-          "final": "",
-          "notfinal": ""
-        },
-        "_partlyCorrect": {
-          "final": "",
-          "notfinal": ""
-        }
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_button": {
-        "iconOnly": false,
-        "text": "",
-        "ariaLabel": "",
-        "iconClassName": "",
-        "className": ""
-      },
-      "_id": "",
-      "_simpleView": {
-        "title": "",
-        "body": ""
-      },
-      "_items": []
-    },
-    "_complexGraphicBackup": {
-      "_isEnabled": false
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false
-    },
-    "_life": {
-      "_paddingTop": null,
-      "_paddingBottom": null
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
-    "title": "The importance of CPR",
-    "displayTitle": "",
-    "body": "<p>The odds of surviving from sudden out-of-hospital cardiac arrest is only about 10 percent.<br /><br />However, if high quality CPR is delivered immidiately after cardiac arrest the chances of survival increases to 45 percent.<br />&nbsp;</p><p><a href=\"https://cpr.heart.org/en/resources/cpr-facts-and-stats\">https://cpr.heart.org/en/resources/cpr-facts-and-stats</a></p>",
-    "_id": "654df7da77c9ad1f96c18f0c",
-    "_parentId": "654df7d977c9ad1f96c18ec6",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_lifeHelper": {
-      "_headingSettings": {
-        "_headerType": "none"
-      },
-      "_algoPart": {
-        "_learningObjective": "learning-objective-1",
-        "_selector": "",
-        "_showparts": "",
-        "_feedback": {
-          "_firstAttempt": "",
-          "_multipleAttempts": ""
-        }
-      },
-      "_stateGraphic": {
-        "_isEnabled": false,
-        "defaultAlt": "",
-        "default": "",
-        "correctAlt": "",
-        "correct": "",
-        "incorrectAlt": "",
-        "incorrect": ""
-      },
-      "_complexImage": {
-        "_buttonText": "Image description",
-        "_complexDescriptionTitle": "Image description",
-        "_complexDescription": ""
-      },
-      "_questionSettings": {
-        "_overrideQuestionButtonsInFooter": false
-      },
-      "_mediaSettings": {
-        "_mediaTitle": "Component media title",
-        "mp3": "",
-        "_transcript": {
-          "inlineTranscriptBody": ""
-        },
-        "_inPracticeMode": false,
-        "_reference": {
-          "_buttonText": "References",
-          "_ReferenceDescriptionTitle": "Reference description",
-          "referenceBody": ""
-        }
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_button": {
-        "iconOnly": false,
-        "text": "",
-        "ariaLabel": "",
-        "iconClassName": "",
-        "className": ""
-      },
-      "_id": "",
-      "_simpleView": {
-        "title": "",
-        "body": ""
-      },
-      "_items": []
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false
-    },
-    "_life": {
-      "_paddingTop": null,
-      "_paddingBottom": null
-    },
-    "instruction": "",
-    "icon": "none",
-    "isAttention": false
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "<p>TCPR Link connects myResponders with the dispatcher in cardiac arrest incident.<br /><br />By streaming&nbsp;real-time&nbsp;data of the CPR performance from the bystander, the dispatcher is able to provide&nbsp;critical telephone support, to optimize&nbsp;quality of CPR delivered before the ambulance personnel&nbsp;arrives and takes over.</p>",
-    "_id": "654df7da77c9ad1f96c18f0d",
-    "_parentId": "654df7d977c9ad1f96c18ecb",
+    "body": "<p><span style=\"color:#000000\">TCPR Link connects myResponders with the dispatcher in cardiac arrest incident.<br /><br />By streaming&nbsp;real-time&nbsp;data of the CPR performance from the bystander, the dispatcher is able to provide&nbsp;critical telephone support, to optimize&nbsp;quality of CPR delivered before the ambulance personnel&nbsp;arrives and takes over.</span></p>",
+    "_id": "65f4437f57765a9ba01d2083",
+    "_parentId": "65f4437e57765a9ba01d2042",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -554,6 +186,13 @@
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
     },
     "_inlineFeedback": {
       "disableSemanticColors": false,
@@ -570,13 +209,6 @@
           "notfinal": "",
           "alt": ""
         }
-      }
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false,
-      "_text": {
-        "_isAttributionIncluded": false,
-        "_isDescriptionIncluded": false
       }
     },
     "_additionalMaterial": {
@@ -605,13 +237,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "A card and an app",
     "displayTitle": "A card and an app",
-    "body": "<p>TCPR Link is comprised of a CPRcard and TCPR Link app.</p><p><strong>The CPRcard</strong> is a pocket size card which can measure the rate and depth of your compressions and provide continuous visual feedback. The CPRcard&nbsp;is connected to your smartphone. It should be placed on the chest of the patient to measure the rate and depth of your compressions and provide continuous&nbsp;visual feedback.</p><p><strong>TCPR Link app</strong> is an app on your phone which provides visual feedback and streams your performance data in real time to the dispatcher, who is a&nbsp;skilled CPR coach&nbsp;that will guide and encourage you to perform quality CPR until the ambulance arrives and takes over.&nbsp;&nbsp;</p>",
-    "_id": "654df7da77c9ad1f96c18f0e",
-    "_parentId": "654df7d977c9ad1f96c18ec7",
+    "body": "<p><span style=\"color:#000000\">TCPR Link is comprised of a CPRcard and TCPR Link app.</span></p><p><span style=\"color:#000000\"><strong>The CPRcard</strong> is a pocket size card which can measure the rate and depth of your compressions and provide continuous visual feedback. The CPRcard&nbsp;is connected to your smartphone. It should be placed on the chest of the patient to measure the rate and depth of your compressions and provide continuous&nbsp;visual feedback.</span></p><p><span style=\"color:#000000\"><strong>TCPR Link app</strong> is an app on your phone which provides visual feedback and streams your performance data in real time to the dispatcher, who is a&nbsp;skilled CPR coach&nbsp;that will guide and encourage you to perform quality CPR until the ambulance arrives and takes over.&nbsp;&nbsp;</span></p>",
+    "_id": "65f4437f57765a9ba01d2084",
+    "_parentId": "65f4437e57765a9ba01d203e",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -619,49 +250,49 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_inlineFeedback": {
-      "disableSemanticColors": false,
-      "_graphic": {
-        "correct": "",
-        "_incorrect": {
-          "final": "",
-          "notfinal": ""
-        },
-        "_partlyCorrect": {
-          "final": "",
-          "notfinal": ""
-        }
-      }
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "alt": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        }
+      }
+    },
     "_additionalMaterial": {
       "_isEnabled": false,
-      "_button": {
-        "iconOnly": false,
-        "text": "",
-        "ariaLabel": "",
-        "iconClassName": "",
-        "className": ""
-      },
-      "_id": "",
-      "_simpleView": {
-        "title": "",
-        "body": ""
-      },
       "_items": []
     },
-    "_complexGraphicBackup": {
-      "_isEnabled": false
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false
-    },
     "_life": {
-      "_paddingTop": null,
-      "_paddingBottom": null
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_componentColors": {
+        "component-bg-color": "",
+        "component-font-color": "",
+        "component-header-color": ""
+      }
     },
     "instruction": ""
   },
@@ -673,13 +304,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f0f",
-    "_parentId": "654df7d977c9ad1f96c18ec7",
+    "_id": "65f4437f57765a9ba01d2085",
+    "_parentId": "65f4437e57765a9ba01d203e",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -752,13 +382,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f10",
-    "_parentId": "654df7d977c9ad1f96c18ecc",
+    "_id": "65f4437f57765a9ba01d2086",
+    "_parentId": "65f4437e57765a9ba01d2043",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -845,13 +474,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Step 3/8. Turn on CPR Card",
     "displayTitle": "Step 3/8. Turn on CPR Card",
-    "body": "<p>Pinch the power button to turn on the CPRcard.</p><p><em>It will now automatically connect to your phone through Bluetooth.</em></p>",
-    "_id": "654df7da77c9ad1f96c18f11",
-    "_parentId": "654df7d977c9ad1f96c18ecc",
+    "body": "<p><span style=\"color:#000000\">Pinch the power button to turn on the CPRcard.</span></p><p><span style=\"color:#000000\"><em>It will now automatically connect to your phone through Bluetooth.</em></span></p>",
+    "_id": "65f4437f57765a9ba01d2087",
+    "_parentId": "65f4437e57765a9ba01d2043",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -859,49 +487,49 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_inlineFeedback": {
-      "disableSemanticColors": false,
-      "_graphic": {
-        "correct": "",
-        "_incorrect": {
-          "final": "",
-          "notfinal": ""
-        },
-        "_partlyCorrect": {
-          "final": "",
-          "notfinal": ""
-        }
-      }
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "alt": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        }
+      }
+    },
     "_additionalMaterial": {
       "_isEnabled": false,
-      "_button": {
-        "iconOnly": false,
-        "text": "",
-        "ariaLabel": "",
-        "iconClassName": "",
-        "className": ""
-      },
-      "_id": "",
-      "_simpleView": {
-        "title": "",
-        "body": ""
-      },
       "_items": []
     },
-    "_complexGraphicBackup": {
-      "_isEnabled": false
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false
-    },
     "_life": {
-      "_paddingTop": null,
-      "_paddingBottom": null
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_componentColors": {
+        "component-bg-color": "",
+        "component-font-color": "",
+        "component-header-color": ""
+      }
     },
     "instruction": ""
   },
@@ -913,13 +541,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f12",
-    "_parentId": "654df7d977c9ad1f96c18ed0",
+    "_id": "65f4437f57765a9ba01d2088",
+    "_parentId": "65f4437e57765a9ba01d2047",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -1006,13 +633,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Step 5/8. Phone placement",
     "displayTitle": "Step 5/8. Phone placement",
-    "body": "<p>Place your phone face-up beside the patient's head and kneel down by the patient's shoulder opposite your phone and prepare to give CPR.</p>",
-    "_id": "654df7da77c9ad1f96c18f13",
-    "_parentId": "654df7d977c9ad1f96c18ed0",
+    "body": "<p><span style=\"color:#000000\">Place your phone face-up beside the patient's head and kneel down by the patient's shoulder opposite your phone and prepare to give CPR.</span></p>",
+    "_id": "65f4437f57765a9ba01d2089",
+    "_parentId": "65f4437e57765a9ba01d2047",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -1020,49 +646,49 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_inlineFeedback": {
-      "disableSemanticColors": false,
-      "_graphic": {
-        "correct": "",
-        "_incorrect": {
-          "final": "",
-          "notfinal": ""
-        },
-        "_partlyCorrect": {
-          "final": "",
-          "notfinal": ""
-        }
-      }
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "alt": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        }
+      }
+    },
     "_additionalMaterial": {
       "_isEnabled": false,
-      "_button": {
-        "iconOnly": false,
-        "text": "",
-        "ariaLabel": "",
-        "iconClassName": "",
-        "className": ""
-      },
-      "_id": "",
-      "_simpleView": {
-        "title": "",
-        "body": ""
-      },
       "_items": []
     },
-    "_complexGraphicBackup": {
-      "_isEnabled": false
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false
-    },
     "_life": {
-      "_paddingTop": null,
-      "_paddingBottom": null
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_componentColors": {
+        "component-bg-color": "",
+        "component-font-color": "",
+        "component-header-color": ""
+      }
     },
     "instruction": ""
   },
@@ -1074,13 +700,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f14",
-    "_parentId": "654df7d977c9ad1f96c18ed3",
+    "_id": "65f4437f57765a9ba01d208a",
+    "_parentId": "65f4437e57765a9ba01d204a",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -1153,13 +778,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Step 7/8. Begin CPR",
     "displayTitle": "Step 7/8. Begin CPR",
-    "body": "<p>You are now ready to begin giving chest compressions.</p><p>You will receive continuous visual feedback on both your compression depth and rate on the screen of your phone.&nbsp;</p>",
-    "_id": "654df7da77c9ad1f96c18f15",
-    "_parentId": "654df7d977c9ad1f96c18ed4",
+    "body": "<p><span style=\"color:#000000\">You are now ready to begin giving chest compressions.</span></p><p><span style=\"color:#000000\">You will receive continuous visual feedback on both your compression depth and rate on the screen of your phone.&nbsp;</span></p>",
+    "_id": "65f4437f57765a9ba01d208b",
+    "_parentId": "65f4437e57765a9ba01d204b",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -1167,49 +791,49 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_inlineFeedback": {
-      "disableSemanticColors": false,
-      "_graphic": {
-        "correct": "",
-        "_incorrect": {
-          "final": "",
-          "notfinal": ""
-        },
-        "_partlyCorrect": {
-          "final": "",
-          "notfinal": ""
-        }
-      }
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "alt": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        }
+      }
+    },
     "_additionalMaterial": {
       "_isEnabled": false,
-      "_button": {
-        "iconOnly": false,
-        "text": "",
-        "ariaLabel": "",
-        "iconClassName": "",
-        "className": ""
-      },
-      "_id": "",
-      "_simpleView": {
-        "title": "",
-        "body": ""
-      },
       "_items": []
     },
-    "_complexGraphicBackup": {
-      "_isEnabled": false
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false
-    },
     "_life": {
-      "_paddingTop": null,
-      "_paddingBottom": null
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_componentColors": {
+        "component-bg-color": "",
+        "component-font-color": "",
+        "component-header-color": ""
+      }
     },
     "instruction": ""
   },
@@ -1221,13 +845,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f16",
-    "_parentId": "654df7d977c9ad1f96c18ecd",
+    "_id": "65f4437f57765a9ba01d208c",
+    "_parentId": "65f4437e57765a9ba01d2044",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1295,13 +918,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f17",
-    "_parentId": "654df7d977c9ad1f96c18ec8",
+    "_id": "65f4437f57765a9ba01d208d",
+    "_parentId": "65f4437e57765a9ba01d203f",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -1374,13 +996,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Step 1/8. Open TCPR Link app",
     "displayTitle": "Step 1/8. Open TCPR Link app",
-    "body": "<p><span><span><span>In case of a nearby suspected cardiac arrest, you will receive an alert in your myResponder app and accept to run to the scene and confirm arrival.&nbsp; Upon arrival you need to open the TCPR Link app and press \"995\" to establish communication with the dispatcher at 995. </span></span></span></p>",
-    "_id": "654df7da77c9ad1f96c18f18",
-    "_parentId": "654df7d977c9ad1f96c18ec8",
+    "body": "<p><span style=\"color:#000000\">In case of a nearby suspected cardiac arrest, you will receive an alert in your myResponder app and accept to run to the scene and confirm arrival.&nbsp; Upon arrival you need to open the TCPR Link app and press \"995\" to establish communication with the dispatcher at 995. </span></p>",
+    "_id": "65f4437f57765a9ba01d208e",
+    "_parentId": "65f4437e57765a9ba01d203f",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -1391,6 +1012,13 @@
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
     },
     "_inlineFeedback": {
       "disableSemanticColors": false,
@@ -1407,13 +1035,6 @@
           "notfinal": "",
           "alt": ""
         }
-      }
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false,
-      "_text": {
-        "_isAttributionIncluded": false,
-        "_isDescriptionIncluded": false
       }
     },
     "_additionalMaterial": {
@@ -1442,13 +1063,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f19",
-    "_parentId": "654df7d977c9ad1f96c18ed5",
+    "_id": "65f4437f57765a9ba01d208f",
+    "_parentId": "65f4437e57765a9ba01d204c",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1521,13 +1141,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "component",
     "displayTitle": "",
-    "body": "<ul><li>How TCPR Link works and can be used to improve the collaboration&nbsp;between&nbsp;CPR volunteers and dispatcher to increase the odds of surviving from a cardiac arrest.<br />&nbsp;</li><li>How to set up and use TCPR Link together with CPR Card, enabling you to perform good CPR in collaboration with a&nbsp;dispatcher.</li></ul>",
-    "_id": "654df7da77c9ad1f96c18f1a",
-    "_parentId": "654df7d977c9ad1f96c18ec9",
+    "body": "<ul><li><span style=\"color:#000000\">How TCPR Link works and can be used to improve the collaboration&nbsp;between&nbsp;CPR volunteers and dispatcher to increase the odds of surviving from a cardiac arrest.</span><br />&nbsp;</li><li><span style=\"color:#000000\">How to set up and use TCPR Link together with CPR Card, enabling you to perform good CPR in collaboration with a&nbsp;dispatcher.</span></li></ul>",
+    "_id": "65f4437f57765a9ba01d2090",
+    "_parentId": "65f4437e57765a9ba01d2040",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -1535,81 +1154,9 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_inlineFeedback": {
-      "disableSemanticColors": false,
-      "_graphic": {
-        "correct": "",
-        "_incorrect": {
-          "final": "",
-          "notfinal": ""
-        },
-        "_partlyCorrect": {
-          "final": "",
-          "notfinal": ""
-        }
-      }
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_button": {
-        "iconOnly": false,
-        "text": "",
-        "ariaLabel": "",
-        "iconClassName": "",
-        "className": ""
-      },
-      "_id": "",
-      "_simpleView": {
-        "title": "",
-        "body": ""
-      },
-      "_items": []
-    },
-    "_complexGraphicBackup": {
-      "_isEnabled": false
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false
-    },
-    "_life": {
-      "_paddingTop": 0,
-      "_paddingBottom": null
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
-    "title": "Open the TCPR Link app",
-    "displayTitle": "Open the TCPR Link app",
-    "body": "<p>Remember to open TCPR Link app when you arrive at the scene.</p>",
-    "_id": "654df7da77c9ad1f96c18f1b",
-    "_parentId": "654df7d977c9ad1f96c18ece",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
     },
     "_imageEnlarge": {
       "_isEnabled": false,
@@ -1635,6 +1182,77 @@
         }
       }
     },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
+    "_life": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_componentColors": {
+        "component-bg-color": "",
+        "component-font-color": "",
+        "component-header-color": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Open the TCPR Link app",
+    "displayTitle": "Open the TCPR Link app",
+    "body": "<p><span style=\"color:#000000\">Remember to open TCPR Link app when you arrive at the scene.</span></p>",
+    "_id": "65f4437f57765a9ba01d2091",
+    "_parentId": "65f4437e57765a9ba01d2045",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "alt": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
     "_life": {
       "_textAlignment": {
         "_title": "",
@@ -1657,13 +1275,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f1c",
-    "_parentId": "654df7d977c9ad1f96c18ece",
+    "_id": "65f4437f57765a9ba01d2092",
+    "_parentId": "65f4437e57765a9ba01d2045",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -1736,13 +1353,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Turn on CPR card",
     "displayTitle": "Turn on CPR card",
-    "body": "<p>Turn on CPR card by pinching the card for a while when you arrive at the scene</p>",
-    "_id": "654df7da77c9ad1f96c18f1d",
-    "_parentId": "654df7d977c9ad1f96c18ed1",
+    "body": "<p><span style=\"color:#000000\">Turn on CPR card by pinching the card for a while when you arrive at the scene.</span></p>",
+    "_id": "65f4437f57765a9ba01d2093",
+    "_parentId": "65f4437e57765a9ba01d2048",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -1750,77 +1366,49 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_lifeHelper": {
-      "_headingSettings": {
-        "_headerType": "none"
-      },
-      "_algoPart": {
-        "_learningObjective": "learning-objective-1",
-        "_selector": "",
-        "_showparts": "",
-        "_feedback": {
-          "_firstAttempt": "",
-          "_multipleAttempts": ""
-        }
-      },
-      "_stateGraphic": {
-        "_isEnabled": false,
-        "defaultAlt": "",
-        "default": "",
-        "correctAlt": "",
-        "correct": "",
-        "incorrectAlt": "",
-        "incorrect": ""
-      },
-      "_complexImage": {
-        "_buttonText": "Image description",
-        "_complexDescriptionTitle": "Image description",
-        "_complexDescription": ""
-      },
-      "_questionSettings": {
-        "_overrideQuestionButtonsInFooter": false
-      },
-      "_mediaSettings": {
-        "_mediaTitle": "Component media title",
-        "mp3": "",
-        "_transcript": {
-          "inlineTranscriptBody": ""
-        },
-        "_inPracticeMode": false,
-        "_diveDeeperMode": false,
-        "_reference": {
-          "_buttonText": "References",
-          "_ReferenceDescriptionTitle": "References",
-          "referenceBody": ""
-        }
-      }
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "alt": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        }
+      }
+    },
     "_additionalMaterial": {
       "_isEnabled": false,
-      "_button": {
-        "iconOnly": false,
-        "text": "",
-        "ariaLabel": "",
-        "iconClassName": "",
-        "className": ""
-      },
-      "_id": "",
-      "_simpleView": {
-        "title": "",
-        "body": ""
-      },
       "_items": []
     },
-    "_imageEnlarge": {
-      "_isEnabled": false
-    },
     "_life": {
-      "_paddingTop": null,
-      "_paddingBottom": null
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_componentColors": {
+        "component-bg-color": "",
+        "component-font-color": "",
+        "component-header-color": ""
+      }
     },
     "instruction": ""
   },
@@ -1832,13 +1420,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f1e",
-    "_parentId": "654df7d977c9ad1f96c18ed1",
+    "_id": "65f4437f57765a9ba01d2094",
+    "_parentId": "65f4437e57765a9ba01d2048",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -1925,13 +1512,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Do CPR",
     "displayTitle": "Do CPR",
-    "body": "<p>Remember to place the CPRcard on the patient's chest and place the phone beside the patient. Follow the dispatcher's instructions. He or she&nbsp;will help you with this.&nbsp;</p>",
-    "_id": "654df7da77c9ad1f96c18f1f",
-    "_parentId": "654df7d977c9ad1f96c18ed2",
+    "body": "<p><span style=\"color:#000000\">Remember to place the CPRcard on the patient's chest and place the phone beside the patient. Follow the dispatcher's instructions. He or she&nbsp;will help you with this.&nbsp;</span></p>",
+    "_id": "65f4437f57765a9ba01d2095",
+    "_parentId": "65f4437e57765a9ba01d2049",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -1942,6 +1528,13 @@
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
     },
     "_inlineFeedback": {
       "disableSemanticColors": false,
@@ -1958,13 +1551,6 @@
           "notfinal": "",
           "alt": ""
         }
-      }
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false,
-      "_text": {
-        "_isAttributionIncluded": false,
-        "_isDescriptionIncluded": false
       }
     },
     "_additionalMaterial": {
@@ -1993,13 +1579,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f20",
-    "_parentId": "654df7d977c9ad1f96c18ed2",
+    "_id": "65f4437f57765a9ba01d2096",
+    "_parentId": "65f4437e57765a9ba01d2049",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -2072,13 +1657,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f21",
-    "_parentId": "654df7d977c9ad1f96c18ecf",
+    "_id": "65f4437f57765a9ba01d2097",
+    "_parentId": "65f4437e57765a9ba01d2046",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -2146,13 +1730,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Step 4/8. Card placement",
     "displayTitle": "Step 4/8. Card placement",
     "body": "<p>Remove the liner&nbsp;on the backside&nbsp;and place the&nbsp;card in the center of the patient's chest. The glue will make the card stay in place during CPR.</p>",
-    "_id": "654df7da77c9ad1f96c18f22",
-    "_parentId": "654df7d977c9ad1f96c18ecf",
+    "_id": "65f4437f57765a9ba01d2098",
+    "_parentId": "65f4437e57765a9ba01d2046",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -2214,13 +1797,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Step 6/8. Communicate with the 995",
     "displayTitle": "Step 6/8. Communicate with the 995",
-    "body": "<p><span><span><span>The dispatcher will be able see you and talk to you via the TCPR Link app. Follow the instructions and prepare to start CPR.</span></span></span></p>",
-    "_id": "654df7da77c9ad1f96c18f23",
-    "_parentId": "654df7d977c9ad1f96c18ed3",
+    "body": "<p><span style=\"color:#000000\">The dispatcher will be able see you and talk to you via the TCPR Link app. Follow the instructions and prepare to start CPR.</span></p>",
+    "_id": "65f4437f57765a9ba01d2099",
+    "_parentId": "65f4437e57765a9ba01d204a",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -2231,6 +1813,13 @@
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
     },
     "_inlineFeedback": {
       "disableSemanticColors": false,
@@ -2247,13 +1836,6 @@
           "notfinal": "",
           "alt": ""
         }
-      }
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false,
-      "_text": {
-        "_isAttributionIncluded": false,
-        "_isDescriptionIncluded": false
       }
     },
     "_additionalMaterial": {
@@ -2282,13 +1864,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f24",
-    "_parentId": "654df7d977c9ad1f96c18ed4",
+    "_id": "65f4437f57765a9ba01d209a",
+    "_parentId": "65f4437e57765a9ba01d204b",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -2361,13 +1942,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Step 8/8. The dispatcher's role",
     "displayTitle": "Step 8/8. The dispatcher's role",
-    "body": "<p>The app streams CPR data and video to the dispatcher, who uses this to coach you to perform good CPR. Follow the instructions and get help from a bystander to place the phone in a good position to see the patient.</p>",
-    "_id": "654df7da77c9ad1f96c18f25",
-    "_parentId": "654df7d977c9ad1f96c18ed6",
+    "body": "<p><span style=\"color:#000000\">The app streams CPR data and video to the dispatcher, who uses this to coach you to perform good CPR. Follow the instructions and get help from a bystander to place the phone in a good position to see the patient.</span></p>",
+    "_id": "65f4437f57765a9ba01d209b",
+    "_parentId": "65f4437e57765a9ba01d204d",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -2378,6 +1958,13 @@
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
     },
     "_inlineFeedback": {
       "disableSemanticColors": false,
@@ -2394,13 +1981,6 @@
           "notfinal": "",
           "alt": ""
         }
-      }
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false,
-      "_text": {
-        "_isAttributionIncluded": false,
-        "_isDescriptionIncluded": false
       }
     },
     "_additionalMaterial": {
@@ -2429,13 +2009,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f26",
-    "_parentId": "654df7d977c9ad1f96c18ed6",
+    "_id": "65f4437f57765a9ba01d209c",
+    "_parentId": "65f4437e57765a9ba01d204d",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -2522,13 +2101,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f27",
-    "_parentId": "654df7d977c9ad1f96c18ed7",
+    "_id": "65f4437f57765a9ba01d209d",
+    "_parentId": "65f4437e57765a9ba01d204e",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2608,13 +2186,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Video",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f28",
-    "_parentId": "654df7d977c9ad1f96c18ed8",
+    "_id": "65f4437f57765a9ba01d209e",
+    "_parentId": "65f4437e57765a9ba01d204f",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -2694,13 +2271,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Too deep and too slow",
     "displayTitle": "Too deep and too slow",
-    "body": "<p>If the compressions are too deep, the lower rectangle in the depth indicator of the CPRcard (upper left) will turn yellow. On the TCPR Link app, the lower part of the depth indicator bar (left side) will turn orange. Release pressure to achieve your depth target.</p><p>If the compression rate is too slow, the left light on the rate indicator of CPRcard and TCPR Link app turns yellow.</p>",
-    "_id": "654df7da77c9ad1f96c18f29",
-    "_parentId": "654df7d977c9ad1f96c18ed9",
+    "body": "<p><span style=\"color:#000000\">If the compressions are too deep, the lower rectangle in the depth indicator of the CPRcard (upper left) will turn yellow. On the TCPR Link app, the lower part of the depth indicator bar (left side) will turn orange. Release pressure to achieve your depth target.</span></p><p><span style=\"color:#000000\">If the compression rate is too slow, the left light on the rate indicator of CPRcard and TCPR Link app turns yellow.</span></p>",
+    "_id": "65f4437f57765a9ba01d209f",
+    "_parentId": "65f4437e57765a9ba01d2050",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -2711,10 +2287,6 @@
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
     },
     "_imageEnlarge": {
       "_isEnabled": false,
@@ -2740,6 +2312,10 @@
         }
       }
     },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
     "_life": {
       "_textAlignment": {
         "_title": "",
@@ -2762,13 +2338,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f2a",
-    "_parentId": "654df7d977c9ad1f96c18ed9",
+    "_id": "65f4437f57765a9ba01d20a0",
+    "_parentId": "65f4437e57765a9ba01d2050",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -2841,13 +2416,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f2b",
-    "_parentId": "654df7d977c9ad1f96c18f02",
+    "_id": "65f4437f57765a9ba01d20a1",
+    "_parentId": "65f4437e57765a9ba01d2077",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -2915,13 +2489,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f2c",
-    "_parentId": "654df7d977c9ad1f96c18eda",
+    "_id": "65f4437f57765a9ba01d20a2",
+    "_parentId": "65f4437e57765a9ba01d2051",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -3008,13 +2581,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Step 2/8. Remove clothes to bare the chest",
     "displayTitle": "Step 2/8. Remove clothes to bare the chest",
-    "body": "<p>When you reach the patient, remove clothes to bare the chest.&nbsp;</p><p>The CPR card should be placed on the patient's bare skin, to allow the adhesive backing on the CPRcard to stick to the skin</p>",
-    "_id": "654df7da77c9ad1f96c18f2d",
-    "_parentId": "654df7d977c9ad1f96c18eda",
+    "body": "<p><span style=\"color:#000000\">When you reach the patient, remove clothes to bare the chest.&nbsp;</span></p><p><span style=\"color:#000000\">The CPR card should be placed on the patient's bare skin, to allow the adhesive backing on the CPRcard to stick to the skin</span></p>",
+    "_id": "65f4437f57765a9ba01d20a3",
+    "_parentId": "65f4437e57765a9ba01d2051",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -3025,10 +2597,6 @@
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
     },
     "_imageEnlarge": {
       "_isEnabled": false,
@@ -3053,6 +2621,10 @@
           "alt": ""
         }
       }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
     },
     "_life": {
       "_textAlignment": {
@@ -3076,13 +2648,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
-    "title": "1/22 - What are the sequence of events when receiving an alert from MyResponder?",
-    "displayTitle": "1/22 - What are the sequence of events when receiving an alert from MyResponder?",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "What are the sequence of events when receiving an alert from MyResponder?",
+    "displayTitle": "What are the sequence of events when receiving an alert from MyResponder?",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f2e",
-    "_parentId": "654df7d977c9ad1f96c18edc",
+    "_id": "65f4437f57765a9ba01d20a4",
+    "_parentId": "65f4437e57765a9ba01d2053",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -3093,10 +2664,6 @@
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
     },
     "_imageEnlarge": {
       "_isEnabled": false,
@@ -3121,6 +2688,10 @@
           "alt": ""
         }
       }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
     },
     "_life": {
       "_textAlignment": {
@@ -3148,13 +2719,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "2/22 - What can you do to help if you witness an unresponsive person?",
     "displayTitle": "2/22 - What can you do to help if you witness an unresponsive person?",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f2f",
-    "_parentId": "654df7d977c9ad1f96c18edd",
+    "_id": "65f4437f57765a9ba01d20a5",
+    "_parentId": "65f4437e57765a9ba01d2054",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -3286,78 +2856,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Correct depth and rate",
     "displayTitle": "Correct depth and rate",
-    "body": "<p>The green light in the rate indicator lights up when a rate of 100 - 120 compressions per minute is reached.</p><p>&nbsp;A steady green light will light up when you reach the compression depth target of 4-6 cm, on a firm surface.</p>",
-    "_id": "654df7da77c9ad1f96c18f30",
-    "_parentId": "654df7d977c9ad1f96c18ede",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_inlineFeedback": {
-      "disableSemanticColors": false,
-      "_graphic": {
-        "correct": "",
-        "_incorrect": {
-          "final": "",
-          "notfinal": ""
-        },
-        "_partlyCorrect": {
-          "final": "",
-          "notfinal": ""
-        }
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_button": {
-        "iconOnly": false,
-        "text": "",
-        "ariaLabel": "",
-        "iconClassName": "",
-        "className": ""
-      },
-      "_id": "",
-      "_simpleView": {
-        "title": "",
-        "body": ""
-      },
-      "_items": []
-    },
-    "_complexGraphicBackup": {
-      "_isEnabled": false
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "subtitle": ""
-  },
-  {
-    "_component": "laerdal-text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
-    "title": "Too shallow and too fast",
-    "displayTitle": "Too shallow and too fast",
-    "body": "<p>If the compressions are too shallow, the upper rectangle in the depth indicator of the CPRcard (upper left) will turn yellow. On the TCPR Link app, the upper part of the depth indicator bar (left side) will turn orange. Press deeper to achieve your depth target.</p><p>If the compression rate is too fast, the right light on the rate indicator of CPRcard and TCPR Link app turns yellow.</p>",
-    "_id": "654df7da77c9ad1f96c18f31",
-    "_parentId": "654df7d977c9ad1f96c18edf",
+    "body": "<p><span style=\"color:#000000\">The green light in the rate indicator lights up when a rate of 100 - 120 compressions per minute is reached.</span></p><p><span style=\"color:#000000\">&nbsp;A steady green light will light up when you reach the compression depth target of 4-6 cm, on a firm surface.</span></p>",
+    "_id": "65f4437f57765a9ba01d20a6",
+    "_parentId": "65f4437e57765a9ba01d2055",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -3368,10 +2872,6 @@
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
     },
     "_imageEnlarge": {
       "_isEnabled": false,
@@ -3397,6 +2897,78 @@
         }
       }
     },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
+    "_life": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_componentColors": {
+        "component-bg-color": "",
+        "component-font-color": "",
+        "component-header-color": ""
+      }
+    },
+    "instruction": "",
+    "subtitle": ""
+  },
+  {
+    "_component": "laerdal-text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Too shallow and too fast",
+    "displayTitle": "Too shallow and too fast",
+    "body": "<p><span style=\"color:#000000\">If the compressions are too shallow, the upper rectangle in the depth indicator of the CPRcard (upper left) will turn yellow. On the TCPR Link app, the upper part of the depth indicator bar (left side) will turn orange. Press deeper to achieve your depth target.</span></p><p><span style=\"color:#000000\">If the compression rate is too fast, the right light on the rate indicator of CPRcard and TCPR Link app turns yellow.</span></p>",
+    "_id": "65f4437f57765a9ba01d20a7",
+    "_parentId": "65f4437e57765a9ba01d2056",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "alt": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
     "_life": {
       "_textAlignment": {
         "_title": "",
@@ -3420,13 +2992,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f32",
-    "_parentId": "654df7d977c9ad1f96c18edf",
+    "_id": "65f4437f57765a9ba01d20a8",
+    "_parentId": "65f4437e57765a9ba01d2056",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -3499,13 +3070,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f33",
-    "_parentId": "654df7d977c9ad1f96c18ede",
+    "_id": "65f4437f57765a9ba01d20a9",
+    "_parentId": "65f4437e57765a9ba01d2055",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -3578,13 +3148,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f34",
-    "_parentId": "654df7d977c9ad1f96c18ee0",
+    "_id": "65f4437f57765a9ba01d20aa",
+    "_parentId": "65f4437e57765a9ba01d2057",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -3592,83 +3161,9 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_inlineFeedback": {
-      "disableSemanticColors": false,
-      "_graphic": {
-        "correct": "",
-        "_incorrect": {
-          "final": "",
-          "notfinal": ""
-        },
-        "_partlyCorrect": {
-          "final": "",
-          "notfinal": ""
-        }
-      }
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_button": {
-        "iconOnly": false,
-        "text": "",
-        "ariaLabel": "",
-        "iconClassName": "",
-        "className": ""
-      },
-      "_id": "",
-      "_simpleView": {
-        "title": "",
-        "body": ""
-      },
-      "_items": []
-    },
-    "_complexGraphicBackup": {
-      "_isEnabled": false
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/10549512e17b5ce94a42be9864af447752ee3064.png",
-      "small": "course/en/assets/3bbd82f5aaf591ed9c49bdad5b16a9e81169276e.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_component": "laerdal-text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "<p>To begin using TCPR Link you need to download the app to your smartphone and pair it with the CPRcard.</p><p>Use your phone to scan the QR to the right or click the link below to download the TCPR Link app to your device.</p><p><span><span><span><span><span><span>The app is only available in beta version (prototype), you therefore have to use the QR code or link below to access the app.</span></span></span></span></span></span></p><p><span><span><span><span><span><span>If you doing this e-learning on your mobile phone, please click the link below to download the app</span></span></span></span></span></span></p><p style=\"text-align:center\"><strong><a href=\"https://www.tcpr.link/\">TCPR Link app</a></strong></p>",
-    "_id": "654df7da77c9ad1f96c18f35",
-    "_parentId": "654df7d977c9ad1f96c18ee0",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
     },
     "_imageEnlarge": {
       "_isEnabled": false,
@@ -3693,6 +3188,88 @@
           "alt": ""
         }
       }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
+    "_life": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_componentColors": {
+        "component-bg-color": "",
+        "component-font-color": "",
+        "component-header-color": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/34a87664746cf4bd04c3ec6714fecb30968e648f.png",
+      "small": "course/en/assets/34a87664746cf4bd04c3ec6714fecb30968e648f.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "laerdal-text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#000000\">To begin using TCPR Link you need to download the app to your smartphone and pair it with the CPRcard.</span></p><p><span style=\"color:#000000\">Use your phone to scan the QR to the right or click the link below to download the TCPR Link app to your device.</span></p><p><span style=\"color:#000000\">The app is only available in beta version (prototype), you therefore have to use the QR code or link below to access the app.</span></p><p><span style=\"color:#000000\">If you doing this e-learning on your mobile phone, please click the link below to download the app</span><br />&nbsp;</p><p style=\"text-align:center\"><strong><a href=\"https://tcprlink-test.laerdal.com.sg/app\">Download TCPR Link app</a></strong></p>",
+    "_id": "65f4437f57765a9ba01d20ab",
+    "_parentId": "65f4437e57765a9ba01d2057",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "alt": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
     },
     "_life": {
       "_textAlignment": {
@@ -3710,740 +3287,6 @@
     "subtitle": ""
   },
   {
-    "_component": "slider",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
-    "title": "How confident are you in your ability to perform CPR?",
-    "displayTitle": "How confident are you in your ability to perform CPR?",
-    "body": "",
-    "_id": "654df7da77c9ad1f96c18f37",
-    "_parentId": "654df7d977c9ad1f96c18ee1",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_inlineFeedback": {
-      "disableSemanticColors": false,
-      "_graphic": {
-        "correct": "",
-        "_incorrect": {
-          "final": "",
-          "notfinal": ""
-        },
-        "_partlyCorrect": {
-          "final": "",
-          "notfinal": ""
-        }
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_button": {
-        "iconOnly": false,
-        "text": "",
-        "ariaLabel": "",
-        "iconClassName": "",
-        "className": ""
-      },
-      "_id": "",
-      "_simpleView": {
-        "title": "",
-        "body": ""
-      },
-      "_items": []
-    },
-    "_complexGraphicBackup": {
-      "_isEnabled": false
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false
-    },
-    "instruction": "Move the slider to indicate your confidence level",
-    "_attempts": 1,
-    "_canShowModelAnswer": false,
-    "_canShowFeedback": false,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_questionWeight": 1,
-    "_recordInteraction": true,
-    "labelStart": "Low",
-    "labelEnd": "High",
-    "_scaleStart": 1,
-    "_scaleEnd": 5,
-    "_scaleStep": 1,
-    "_correctAnswer": "",
-    "_correctRange": {
-      "_bottom": 0,
-      "_top": 5
-    },
-    "_showScaleIndicator": true,
-    "_showNumber": true,
-    "_showScale": true,
-    "_showScaleNumbers": true,
-    "_feedback": {
-      "title": "",
-      "correct": "",
-      "_incorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_component": "slider",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
-    "title": "How confident are you in your ability to use the TCPR Link system?",
-    "displayTitle": "How confident are you in your ability to use the TCPR Link system?",
-    "body": "",
-    "_id": "654df7da77c9ad1f96c18f38",
-    "_parentId": "654df7d977c9ad1f96c18ee2",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false,
-      "_text": {
-        "_isAttributionIncluded": false,
-        "_isDescriptionIncluded": false
-      }
-    },
-    "_inlineFeedback": {
-      "disableSemanticColors": false,
-      "_graphic": {
-        "correct": "",
-        "alt": "",
-        "_incorrect": {
-          "final": "",
-          "notfinal": "",
-          "alt": ""
-        },
-        "_partlyCorrect": {
-          "final": "",
-          "notfinal": "",
-          "alt": ""
-        }
-      }
-    },
-    "_life": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_componentColors": {
-        "component-bg-color": "",
-        "component-font-color": "",
-        "component-header-color": ""
-      }
-    },
-    "instruction": "Move the slider to indicate your confidence level",
-    "ariaQuestion": "",
-    "ariaScaleName": "",
-    "_attempts": 1,
-    "_canShowModelAnswer": false,
-    "_canShowFeedback": false,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_questionWeight": 1,
-    "_recordInteraction": true,
-    "labelStart": "Low",
-    "labelEnd": "High",
-    "_scaleStart": 1,
-    "_scaleEnd": 5,
-    "_scaleStep": 1,
-    "scaleStepPrefix": "",
-    "scaleStepSuffix": "",
-    "_correctAnswer": "",
-    "_correctRange": {
-      "_bottom": 0,
-      "_top": 5
-    },
-    "_showScaleIndicator": true,
-    "_showNumber": true,
-    "_showScale": true,
-    "_showScaleNumbers": true,
-    "_feedback": {
-      "title": "",
-      "correct": "",
-      "_incorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_component": "slider",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
-    "title": "Express your confidence in the CPR feedback from the TCPR Link system",
-    "displayTitle": "Express your confidence in the CPR feedback from the TCPR Link system",
-    "body": "",
-    "_id": "654df7da77c9ad1f96c18f39",
-    "_parentId": "654df7d977c9ad1f96c18ee3",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false,
-      "_text": {
-        "_isAttributionIncluded": false,
-        "_isDescriptionIncluded": false
-      }
-    },
-    "_inlineFeedback": {
-      "disableSemanticColors": false,
-      "_graphic": {
-        "correct": "",
-        "alt": "",
-        "_incorrect": {
-          "final": "",
-          "notfinal": "",
-          "alt": ""
-        },
-        "_partlyCorrect": {
-          "final": "",
-          "notfinal": "",
-          "alt": ""
-        }
-      }
-    },
-    "_life": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_componentColors": {
-        "component-bg-color": "",
-        "component-font-color": "",
-        "component-header-color": ""
-      }
-    },
-    "instruction": "Move the slider to indicate your confidence level",
-    "ariaQuestion": "",
-    "ariaScaleName": "",
-    "_attempts": 1,
-    "_canShowModelAnswer": false,
-    "_canShowFeedback": false,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_questionWeight": 1,
-    "_recordInteraction": true,
-    "labelStart": "Low",
-    "labelEnd": "High",
-    "_scaleStart": 1,
-    "_scaleEnd": 5,
-    "_scaleStep": 1,
-    "scaleStepPrefix": "",
-    "scaleStepSuffix": "",
-    "_correctAnswer": "",
-    "_correctRange": {
-      "_bottom": 0,
-      "_top": 5
-    },
-    "_showScaleIndicator": true,
-    "_showNumber": true,
-    "_showScale": true,
-    "_showScaleNumbers": true,
-    "_feedback": {
-      "title": "",
-      "correct": "",
-      "_incorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_component": "slider",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
-    "title": "Express your willingness to engage in teamwork with the dispatcher and follow instructions",
-    "displayTitle": "Express your willingness to engage in teamwork with the dispatcher and follow instructions",
-    "body": "",
-    "_id": "654df7da77c9ad1f96c18f3a",
-    "_parentId": "654df7d977c9ad1f96c18ee4",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_inlineFeedback": {
-      "disableSemanticColors": false,
-      "_graphic": {
-        "correct": "",
-        "alt": "",
-        "_incorrect": {
-          "final": "",
-          "notfinal": "",
-          "alt": ""
-        },
-        "_partlyCorrect": {
-          "final": "",
-          "notfinal": "",
-          "alt": ""
-        }
-      }
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false,
-      "_text": {
-        "_isAttributionIncluded": false,
-        "_isDescriptionIncluded": false
-      }
-    },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
-    },
-    "_life": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_componentColors": {
-        "component-bg-color": "",
-        "component-font-color": "",
-        "component-header-color": ""
-      }
-    },
-    "instruction": "Move the slider to indicate your willingness to act",
-    "ariaQuestion": "",
-    "ariaScaleName": "",
-    "_attempts": 1,
-    "_canShowModelAnswer": false,
-    "_canShowFeedback": false,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_questionWeight": 1,
-    "_recordInteraction": true,
-    "labelStart": "Low",
-    "labelEnd": "High",
-    "_scaleStart": 1,
-    "_scaleEnd": 5,
-    "_scaleStep": 1,
-    "scaleStepPrefix": "",
-    "scaleStepSuffix": "",
-    "_correctAnswer": "",
-    "_correctRange": {
-      "_bottom": 0,
-      "_top": 5
-    },
-    "_showScaleIndicator": true,
-    "_showNumber": true,
-    "_showScale": true,
-    "_showScaleNumbers": true,
-    "_feedback": {
-      "title": "",
-      "correct": "",
-      "_incorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_component": "slider",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
-    "title": "Express your willingness to perform CPR in the case of cardiac arrest",
-    "displayTitle": "Express your willingness to perform CPR in the case of cardiac arrest",
-    "body": "",
-    "_id": "654df7da77c9ad1f96c18f3b",
-    "_parentId": "654df7d977c9ad1f96c18ee5",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_inlineFeedback": {
-      "disableSemanticColors": false,
-      "_graphic": {
-        "correct": "",
-        "_incorrect": {
-          "final": "",
-          "notfinal": ""
-        },
-        "_partlyCorrect": {
-          "final": "",
-          "notfinal": ""
-        }
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_button": {
-        "iconOnly": false,
-        "text": "",
-        "ariaLabel": "",
-        "iconClassName": "",
-        "className": ""
-      },
-      "_id": "",
-      "_simpleView": {
-        "title": "",
-        "body": ""
-      },
-      "_items": []
-    },
-    "_complexGraphicBackup": {
-      "_isEnabled": false
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false
-    },
-    "instruction": "Move the slider to indicate your willingness to act",
-    "_attempts": 1,
-    "_canShowModelAnswer": false,
-    "_canShowFeedback": false,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_questionWeight": 1,
-    "_recordInteraction": true,
-    "labelStart": "Low",
-    "labelEnd": "High",
-    "_scaleStart": 1,
-    "_scaleEnd": 5,
-    "_scaleStep": 1,
-    "_correctAnswer": "",
-    "_correctRange": {
-      "_bottom": 0,
-      "_top": 5
-    },
-    "_showScaleIndicator": true,
-    "_showNumber": true,
-    "_showScale": true,
-    "_showScaleNumbers": true,
-    "_feedback": {
-      "title": "",
-      "correct": "",
-      "_incorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_component": "slider",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
-    "title": "Express your willingness to use TCPR Link system when responding to cardiac arrest",
-    "displayTitle": "Express your willingness to use TCPR Link system when responding to cardiac arrest",
-    "body": "",
-    "_id": "654df7da77c9ad1f96c18f3c",
-    "_parentId": "654df7d977c9ad1f96c18ee6",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false,
-      "_text": {
-        "_isAttributionIncluded": false,
-        "_isDescriptionIncluded": false
-      }
-    },
-    "_inlineFeedback": {
-      "disableSemanticColors": false,
-      "_graphic": {
-        "correct": "",
-        "alt": "",
-        "_incorrect": {
-          "final": "",
-          "notfinal": "",
-          "alt": ""
-        },
-        "_partlyCorrect": {
-          "final": "",
-          "notfinal": "",
-          "alt": ""
-        }
-      }
-    },
-    "_life": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_componentColors": {
-        "component-bg-color": "",
-        "component-font-color": "",
-        "component-header-color": ""
-      }
-    },
-    "instruction": "Move the slider to indicate your willingness to act",
-    "ariaQuestion": "",
-    "ariaScaleName": "",
-    "_attempts": 1,
-    "_canShowModelAnswer": false,
-    "_canShowFeedback": false,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_questionWeight": 1,
-    "_recordInteraction": true,
-    "labelStart": "Low",
-    "labelEnd": "High",
-    "_scaleStart": 1,
-    "_scaleEnd": 5,
-    "_scaleStep": 1,
-    "scaleStepPrefix": "",
-    "scaleStepSuffix": "",
-    "_correctAnswer": "",
-    "_correctRange": {
-      "_bottom": 0,
-      "_top": 5
-    },
-    "_showScaleIndicator": true,
-    "_showNumber": true,
-    "_showScale": true,
-    "_showScaleNumbers": true,
-    "_feedback": {
-      "title": "",
-      "correct": "",
-      "_incorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
     "_component": "laerdal-h5p",
     "_classes": "",
     "_isOptional": false,
@@ -4451,13 +3294,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
-    "title": "3/22 - Where should the CPRcard be placed on the patient? ",
-    "displayTitle": "3/22 - Where should the CPRcard be placed on the patient? ",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Where should the CPRcard be placed on the patient? ",
+    "displayTitle": "Where should the CPRcard be placed on the patient? ",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f3d",
-    "_parentId": "654df7d977c9ad1f96c18ee7",
+    "_id": "65f4437f57765a9ba01d20b2",
+    "_parentId": "65f4437e57765a9ba01d205e",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -4465,46 +3307,52 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_inlineFeedback": {
-      "disableSemanticColors": false,
-      "_graphic": {
-        "correct": "",
-        "_incorrect": {
-          "final": "",
-          "notfinal": ""
-        },
-        "_partlyCorrect": {
-          "final": "",
-          "notfinal": ""
-        }
-      }
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "alt": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        }
+      }
+    },
     "_additionalMaterial": {
       "_isEnabled": false,
-      "_button": {
-        "iconOnly": false,
-        "text": "",
-        "ariaLabel": "",
-        "iconClassName": "",
-        "className": ""
-      },
-      "_id": "",
-      "_simpleView": {
-        "title": "",
-        "body": ""
-      },
       "_items": []
     },
-    "_complexGraphicBackup": {
-      "_isEnabled": false
+    "_life": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_componentColors": {
+        "component-bg-color": "",
+        "component-font-color": "",
+        "component-header-color": ""
+      }
     },
-    "_imageEnlarge": {
-      "_isEnabled": false
-    },
+    "instruction": "",
+    "_h5pExternalAsset": "",
     "h5pAsset": "course/en/assets/f107c8a9fc1c6d4a51f4be130c1c29bb7f4c8408.h5p",
     "_isQuestionType": true,
     "_debug": false
@@ -4517,13 +3365,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f3e",
-    "_parentId": "654df7d977c9ad1f96c18ee8",
+    "_id": "65f4437f57765a9ba01d20b3",
+    "_parentId": "65f4437e57765a9ba01d205f",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -4587,13 +3434,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f3f",
-    "_parentId": "654df7d977c9ad1f96c18ee9",
+    "_id": "65f4437f57765a9ba01d20b4",
+    "_parentId": "65f4437e57765a9ba01d2060",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -4673,13 +3519,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Download TCPR link app before proceeding to the next page",
     "displayTitle": "",
-    "body": "<p>Please confirm that you have downloaded&nbsp;TCPR Link app before continuing.</p>",
-    "_id": "654df7da77c9ad1f96c18f40",
-    "_parentId": "654df7d977c9ad1f96c18eea",
+    "body": "<p><span style=\"color:#000000\">Please confirm that you have downloaded&nbsp;TCPR Link app before continuing.</span></p>",
+    "_id": "65f4437f57765a9ba01d20b5",
+    "_parentId": "65f4437e57765a9ba01d2061",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -4687,47 +3532,52 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_inlineFeedback": {
-      "disableSemanticColors": false,
-      "_graphic": {
-        "correct": "",
-        "_incorrect": {
-          "final": "",
-          "notfinal": ""
-        },
-        "_partlyCorrect": {
-          "final": "",
-          "notfinal": ""
-        }
-      }
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "alt": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        }
+      }
+    },
     "_additionalMaterial": {
       "_isEnabled": false,
-      "_button": {
-        "iconOnly": false,
-        "text": "",
-        "ariaLabel": "",
-        "iconClassName": "",
-        "className": ""
-      },
-      "_id": "",
-      "_simpleView": {
-        "title": "",
-        "body": ""
-      },
       "_items": []
     },
-    "_complexGraphicBackup": {
-      "_isEnabled": false
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false
+    "_life": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_componentColors": {
+        "component-bg-color": "",
+        "component-font-color": "",
+        "component-header-color": ""
+      }
     },
     "instruction": "",
+    "ariaQuestion": "",
     "_items": [
       {
         "text": "I have downloaded the TCPR Link app",
@@ -4792,13 +3642,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Download TCPR link app before proceeding to the next page",
     "displayTitle": "",
-    "body": "<p>Please confirm that you have&nbsp;paired CPRcard with TCPR Link on your smartphone through a Bluetooth connection.</p>",
-    "_id": "654df7da77c9ad1f96c18f41",
-    "_parentId": "654df7d977c9ad1f96c18eeb",
+    "body": "<p><span style=\"color:#000000\">Please confirm that you have&nbsp;paired CPRcard with TCPR Link on your smartphone through a Bluetooth connection.</span></p>",
+    "_id": "65f4437f57765a9ba01d20b6",
+    "_parentId": "65f4437e57765a9ba01d2062",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -4806,47 +3655,52 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_inlineFeedback": {
-      "disableSemanticColors": false,
-      "_graphic": {
-        "correct": "",
-        "_incorrect": {
-          "final": "",
-          "notfinal": ""
-        },
-        "_partlyCorrect": {
-          "final": "",
-          "notfinal": ""
-        }
-      }
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "alt": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        }
+      }
+    },
     "_additionalMaterial": {
       "_isEnabled": false,
-      "_button": {
-        "iconOnly": false,
-        "text": "",
-        "ariaLabel": "",
-        "iconClassName": "",
-        "className": ""
-      },
-      "_id": "",
-      "_simpleView": {
-        "title": "",
-        "body": ""
-      },
       "_items": []
     },
-    "_complexGraphicBackup": {
-      "_isEnabled": false
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false
+    "_life": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_componentColors": {
+        "component-bg-color": "",
+        "component-font-color": "",
+        "component-header-color": ""
+      }
     },
     "instruction": "",
+    "ariaQuestion": "",
     "_items": [
       {
         "text": "I have paired the CPRcard with my smartphone",
@@ -4911,13 +3765,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "How to use CPRcard",
     "displayTitle": "How to use CPRcard",
-    "body": "<p><span><span><span><span style=\"color:#1f1f1f\">Study the user manual you received together with CPRcard before using the device.</span></span></span></span></p><p>Turn the CPRcard on by pinching and holding the&nbsp;On/Off button.&nbsp;Two yellow lights will start flashing indicating that the device is on and ready for use.&nbsp;</p><p>Take off the protective liner&nbsp;on the back of the card <strong>only</strong>&nbsp;when using the CPRcard on a patient. Place the card in the center of the chest as illustrated on the card (red &nbsp;placement line) . The feedback panel shall face towards the head&nbsp;of the patient.&nbsp;If needed, wipe fluids off the chest.<strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></p><p>Do&nbsp;<strong>not</strong>&nbsp;remove&nbsp;the liner if you only practice CPR with CPRcard on a manikin.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>Use standard CPR hand placement technique.&nbsp;When the hands are placed correctly on the&nbsp;CPRcard, the feedback panel should be visible.</p>",
-    "_id": "654df7da77c9ad1f96c18f42",
-    "_parentId": "654df7d977c9ad1f96c18eec",
+    "body": "<p><span style=\"color:#000000\">Study the user manual you received together with CPRcard before using the device.</span></p><p><span style=\"color:#000000\">Turn the CPRcard on by pinching and holding the&nbsp;On/Off button.&nbsp;Two yellow lights will start flashing indicating that the device is on and ready for use.&nbsp;</span></p><p><span style=\"color:#000000\">Take off the protective liner&nbsp;on the back of the card <strong>only</strong>&nbsp;when using the CPRcard on a patient. Place the card in the center of the chest as illustrated on the card (red &nbsp;placement line) . The feedback panel shall face towards the head&nbsp;of the patient.&nbsp;If needed, wipe fluids off the chest.<strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></span></p><p><span style=\"color:#000000\">Do&nbsp;<strong>not</strong>&nbsp;remove&nbsp;the liner if you only practice CPR with CPRcard on a manikin.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p><p><span style=\"color:#000000\">Use standard CPR hand placement technique.&nbsp;When the hands are placed correctly on the&nbsp;CPRcard, the feedback panel should be visible.</span></p>",
+    "_id": "65f4437f57765a9ba01d20b7",
+    "_parentId": "65f4437e57765a9ba01d2063",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -4928,10 +3781,6 @@
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
     },
     "_imageEnlarge": {
       "_isEnabled": false,
@@ -4957,6 +3806,10 @@
         }
       }
     },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
     "_life": {
       "_textAlignment": {
         "_title": "",
@@ -4979,13 +3832,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f43",
-    "_parentId": "654df7d977c9ad1f96c18eec",
+    "_id": "65f4437f57765a9ba01d20b8",
+    "_parentId": "65f4437e57765a9ba01d2063",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -5053,13 +3905,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Laerdal text",
     "displayTitle": "",
-    "body": "<p><span><span><span><span>The TCPR Link app has a functionality called “Test CPR feedback”, available under settings (cogwheel in upper right corner). This functionality can be used to become familiar with the realtime feedback you will receive in the app and no data will be streamed during use of this functionality.&nbsp;<br /><br />Open TCPR and open settings and press “Try CPR feedback”. The following screens should appear in your app:&nbsp;</span></span></span></span></p>",
-    "_id": "654df7da77c9ad1f96c18f44",
-    "_parentId": "654df7d977c9ad1f96c18eed",
+    "body": "<p><span style=\"color:#000000\">The TCPR Link app has a functionality called “Test CPR feedback”, available under settings (cogwheel in upper right corner). This functionality can be used to become familiar with the realtime feedback you will receive in the app and no data will be streamed during use of this functionality.&nbsp;<br /><br />Open TCPR and open settings and press “Try CPR feedback”. The following screens should appear in your app:&nbsp;</span></p>",
+    "_id": "65f4437f57765a9ba01d20b9",
+    "_parentId": "65f4437e57765a9ba01d2064",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -5070,6 +3921,13 @@
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
     },
     "_inlineFeedback": {
       "disableSemanticColors": false,
@@ -5086,13 +3944,6 @@
           "notfinal": "",
           "alt": ""
         }
-      }
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false,
-      "_text": {
-        "_isAttributionIncluded": false,
-        "_isDescriptionIncluded": false
       }
     },
     "_additionalMaterial": {
@@ -5122,13 +3973,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Test CPR Feedback",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f45",
-    "_parentId": "654df7d977c9ad1f96c18eee",
+    "_id": "65f4437f57765a9ba01d20ba",
+    "_parentId": "65f4437e57765a9ba01d2065",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -5139,10 +3989,6 @@
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_additionalMaterial": {
-      "_isEnabled": false,
-      "_items": []
     },
     "_imageEnlarge": {
       "_isEnabled": false,
@@ -5168,6 +4014,10 @@
         }
       }
     },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
     "_life": {
       "_textAlignment": {
         "_title": "",
@@ -5190,8 +4040,7 @@
     "_items": [
       {
         "title": "Start CPR test",
-        "_ariaLevel": 0,
-        "body": "<p>Tap on&nbsp;«Test CPR feedback» under Settings, to start</p>",
+        "body": "<p><span style=\"color:#000000\">Tap on&nbsp;«Test CPR feedback» under Settings, to start</span></p>",
         "_graphic": {
           "src": "course/en/assets/ce1d5c6b99ee8a3d9743c1f78be9bfb005e6d91c.png",
           "alt": "",
@@ -5201,8 +4050,7 @@
       },
       {
         "title": "No streaming message",
-        "_ariaLevel": 0,
-        "body": "<p>No data will be streamed 995 during CPR feedback test.&nbsp; Click \"ok\" to continue.</p>",
+        "body": "<p><span style=\"color:#000000\">No data will be streamed 995 during CPR feedback test.&nbsp; Click \"ok\" to continue.</span></p>",
         "_graphic": {
           "src": "course/en/assets/2c0141438c9ab8831acc4e49178ca7ea8233e0ce.png",
           "alt": "",
@@ -5212,8 +4060,7 @@
       },
       {
         "title": "Turn on CPRcard",
-        "_ariaLevel": 0,
-        "body": "<p>Turn on you card and start CPR</p>",
+        "body": "<p><span style=\"color:#000000\">Turn on you card and start CPR</span></p>",
         "_graphic": {
           "src": "course/en/assets/02999dffad6e9fbf3825362466b4ccb54759181a.png",
           "alt": "",
@@ -5223,14 +4070,23 @@
       },
       {
         "title": "Try CPR",
-        "_ariaLevel": 0,
-        "body": "<p>Try CPR on a pillow and use the feedback</p>",
+        "body": "<p><span style=\"color:#000000\">Try CPR on a pillow and use the feedback</span></p>",
         "_graphic": {
           "src": "course/en/assets/774fcde77da80f3ef6cc83b0667b947829ac0d3e.png",
           "alt": "",
           "attribution": ""
         },
         "strapline": "Try CPR"
+      },
+      {
+        "title": "No streaming message",
+        "body": "<p><span style=\"color:#000000\">No data will be streamed 995 during CPR feedback test.&nbsp; Click \"ok\" to continue.</span></p>",
+        "_graphic": {
+          "src": "course/en/assets/2c0141438c9ab8831acc4e49178ca7ea8233e0ce.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "No streaming message"
       }
     ]
   },
@@ -5242,13 +4098,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Download TCPR link app before proceeding to the next page",
     "displayTitle": "",
-    "body": "<p>Please confirm that you did a practice session in TCPR Link app before proceeding.</p>",
-    "_id": "654df7da77c9ad1f96c18f46",
-    "_parentId": "654df7d977c9ad1f96c18eef",
+    "body": "<p><span style=\"color:#000000\">Please confirm that you did a practice session in TCPR Link app before proceeding.</span></p>",
+    "_id": "65f4437f57765a9ba01d20bb",
+    "_parentId": "65f4437e57765a9ba01d2066",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -5256,47 +4111,52 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_inlineFeedback": {
-      "disableSemanticColors": false,
-      "_graphic": {
-        "correct": "",
-        "_incorrect": {
-          "final": "",
-          "notfinal": ""
-        },
-        "_partlyCorrect": {
-          "final": "",
-          "notfinal": ""
-        }
-      }
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "alt": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        }
+      }
+    },
     "_additionalMaterial": {
       "_isEnabled": false,
-      "_button": {
-        "iconOnly": false,
-        "text": "",
-        "ariaLabel": "",
-        "iconClassName": "",
-        "className": ""
-      },
-      "_id": "",
-      "_simpleView": {
-        "title": "",
-        "body": ""
-      },
       "_items": []
     },
-    "_complexGraphicBackup": {
-      "_isEnabled": false
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false
+    "_life": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_componentColors": {
+        "component-bg-color": "",
+        "component-font-color": "",
+        "component-header-color": ""
+      }
     },
     "instruction": "",
+    "ariaQuestion": "",
     "_items": [
       {
         "text": "I completed a practice session in TCPR Link app",
@@ -5361,13 +4221,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "4/22 - Why is it important to provide quality CPR to a patient in cardiac arrest?",
     "displayTitle": "4/22 - Why is it important to provide quality CPR to a patient in cardiac arrest?",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f47",
-    "_parentId": "654df7d977c9ad1f96c18ef6",
+    "_id": "65f4437f57765a9ba01d20bc",
+    "_parentId": "65f4437e57765a9ba01d206d",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -5494,13 +4353,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "6/22 - What are the components of quality compressions?",
     "displayTitle": "6/22 - What are the components of quality compressions?",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f48",
-    "_parentId": "654df7d977c9ad1f96c18ef7",
+    "_id": "65f4437f57765a9ba01d20bd",
+    "_parentId": "65f4437e57765a9ba01d206e",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -5627,13 +4485,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "9/22 - Where should the patient in cardiac arrest be placed during CPR? ",
     "displayTitle": "9/22 - Where should the patient in cardiac arrest be placed during CPR? ",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f49",
-    "_parentId": "654df7d977c9ad1f96c18ef8",
+    "_id": "65f4437f57765a9ba01d20be",
+    "_parentId": "65f4437e57765a9ba01d206f",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -5760,13 +4617,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "13/22 - What are the main functionalities to TCPR Link app?",
     "displayTitle": "13/22 - What are the main functionalities to TCPR Link app?",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f4a",
-    "_parentId": "654df7d977c9ad1f96c18ef0",
+    "_id": "65f4437f57765a9ba01d20bf",
+    "_parentId": "65f4437e57765a9ba01d2067",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -5893,13 +4749,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "14/22 - What does this feedback on CPRcard mean? ",
     "displayTitle": "14/22 - What does this feedback on CPRcard mean? ",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f4b",
-    "_parentId": "654df7d977c9ad1f96c18ef1",
+    "_id": "65f4437f57765a9ba01d20c0",
+    "_parentId": "65f4437e57765a9ba01d2068",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -6026,13 +4881,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "CPRcard with slow rate and too deep",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f4c",
-    "_parentId": "654df7d977c9ad1f96c18ef1",
+    "_id": "65f4437f57765a9ba01d20c1",
+    "_parentId": "65f4437e57765a9ba01d2068",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -6096,13 +4950,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "15/22 - What does this feedback on CPRcard mean? ",
     "displayTitle": "15/22 - What does this feedback on CPRcard mean? ",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f4d",
-    "_parentId": "654df7d977c9ad1f96c18ef2",
+    "_id": "65f4437f57765a9ba01d20c2",
+    "_parentId": "65f4437e57765a9ba01d2069",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -6229,13 +5082,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "CPR card Fast & Shallow",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f4e",
-    "_parentId": "654df7d977c9ad1f96c18ef2",
+    "_id": "65f4437f57765a9ba01d20c3",
+    "_parentId": "65f4437e57765a9ba01d2069",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -6299,13 +5151,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Teamwork with the dispatcher",
     "displayTitle": "Teamwork with the dispatcher",
-    "body": "<p>The dispatcher can see your CPR quality and video, and will use this to coach you to do good CPR.&nbsp;Work together with dispatcher.</p>",
-    "_id": "654df7da77c9ad1f96c18f4f",
-    "_parentId": "654df7d977c9ad1f96c18edb",
+    "body": "<p><span style=\"color:#000000\">The dispatcher can see your CPR quality and video, and will use this to coach you to do good CPR.&nbsp;Work together with dispatcher.</span></p>",
+    "_id": "65f4437f57765a9ba01d20c4",
+    "_parentId": "65f4437e57765a9ba01d2052",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -6316,6 +5167,13 @@
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
     },
     "_inlineFeedback": {
       "disableSemanticColors": false,
@@ -6332,13 +5190,6 @@
           "notfinal": "",
           "alt": ""
         }
-      }
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false,
-      "_text": {
-        "_isAttributionIncluded": false,
-        "_isDescriptionIncluded": false
       }
     },
     "_additionalMaterial": {
@@ -6367,13 +5218,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f50",
-    "_parentId": "654df7d977c9ad1f96c18edb",
+    "_id": "65f4437f57765a9ba01d20c5",
+    "_parentId": "65f4437e57765a9ba01d2052",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -6437,13 +5287,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "16/22 - What does this feedback on TCPR Link mean?  ",
     "displayTitle": "16/22 - What does this feedback on TCPR Link mean?  ",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f51",
-    "_parentId": "654df7d977c9ad1f96c18ef3",
+    "_id": "65f4437f57765a9ba01d20c6",
+    "_parentId": "65f4437e57765a9ba01d206a",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -6570,13 +5419,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "(Illustration fast rate & shallow depth)",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f52",
-    "_parentId": "654df7d977c9ad1f96c18ef3",
+    "_id": "65f4437f57765a9ba01d20c7",
+    "_parentId": "65f4437e57765a9ba01d206a",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -6649,13 +5497,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "17/22 - What does this feedback on TCPR Link mean? ",
     "displayTitle": "17/22 - What does this feedback on TCPR Link mean? ",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f53",
-    "_parentId": "654df7d977c9ad1f96c18ef4",
+    "_id": "65f4437f57765a9ba01d20c8",
+    "_parentId": "65f4437e57765a9ba01d206b",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -6782,13 +5629,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Illustration hands-off",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f54",
-    "_parentId": "654df7d977c9ad1f96c18ef4",
+    "_id": "65f4437f57765a9ba01d20c9",
+    "_parentId": "65f4437e57765a9ba01d206b",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -6861,13 +5707,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "18/22 - What does this feedback on TCPR Link mean? ",
     "displayTitle": "18/22 - What does this feedback on TCPR Link mean? ",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f55",
-    "_parentId": "654df7d977c9ad1f96c18ef5",
+    "_id": "65f4437f57765a9ba01d20ca",
+    "_parentId": "65f4437e57765a9ba01d206c",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -6994,13 +5839,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "TCPR Link w/illustration on  too fast & good depth",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f56",
-    "_parentId": "654df7d977c9ad1f96c18ef5",
+    "_id": "65f4437f57765a9ba01d20cb",
+    "_parentId": "65f4437e57765a9ba01d206c",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -7073,13 +5917,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "5/22 - Where should the hands be placed to do good chest compressions?",
     "displayTitle": "5/22 - Where should the hands be placed to do good chest compressions?",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f57",
-    "_parentId": "654df7d977c9ad1f96c18ef9",
+    "_id": "65f4437f57765a9ba01d20cc",
+    "_parentId": "65f4437e57765a9ba01d2070",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -7206,13 +6049,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Graphic of hand placement",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f58",
-    "_parentId": "654df7d977c9ad1f96c18ef9",
+    "_id": "65f4437f57765a9ba01d20cd",
+    "_parentId": "65f4437e57765a9ba01d2070",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -7276,13 +6118,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "7/22 - How deep is a good chest compression (Singapore)?",
     "displayTitle": "7/22 - How deep is a good chest compression (Singapore)?",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f59",
-    "_parentId": "654df7d977c9ad1f96c18efa",
+    "_id": "65f4437f57765a9ba01d20ce",
+    "_parentId": "65f4437e57765a9ba01d2071",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -7409,13 +6250,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Illustration of depth stack with green light from card and TCPR Link",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f5a",
-    "_parentId": "654df7d977c9ad1f96c18efa",
+    "_id": "65f4437f57765a9ba01d20cf",
+    "_parentId": "65f4437e57765a9ba01d2071",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -7479,13 +6319,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "8/22 - What is is a good chest compression rate?",
     "displayTitle": "8/22 - What is is a good chest compression rate?",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f5b",
-    "_parentId": "654df7d977c9ad1f96c18efb",
+    "_id": "65f4437f57765a9ba01d20d0",
+    "_parentId": "65f4437e57765a9ba01d2072",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -7612,13 +6451,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Illustration of green rate feedback from card and app",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f5c",
-    "_parentId": "654df7d977c9ad1f96c18efb",
+    "_id": "65f4437f57765a9ba01d20d1",
+    "_parentId": "65f4437e57765a9ba01d2072",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -7682,13 +6520,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "11/22 - What are the functionalities of CPRcard?",
     "displayTitle": "11/22 - What are the functionalities of CPRcard?",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f5d",
-    "_parentId": "654df7d977c9ad1f96c18efc",
+    "_id": "65f4437f57765a9ba01d20d2",
+    "_parentId": "65f4437e57765a9ba01d2073",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -7815,13 +6652,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Illustration of CPRcard (only front page)",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f5e",
-    "_parentId": "654df7d977c9ad1f96c18efc",
+    "_id": "65f4437f57765a9ba01d20d3",
+    "_parentId": "65f4437e57765a9ba01d2073",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -7885,13 +6721,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "20/22 - In the left side there is a video.  Who can see this video? ",
     "displayTitle": "20/22 - In the left side there is a video.  Who can see this video? ",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f5f",
-    "_parentId": "654df7d977c9ad1f96c18efd",
+    "_id": "65f4437f57765a9ba01d20d4",
+    "_parentId": "65f4437e57765a9ba01d2074",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -8023,13 +6858,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "TCPR Link with focus on the camera",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f60",
-    "_parentId": "654df7d977c9ad1f96c18efd",
+    "_id": "65f4437f57765a9ba01d20d5",
+    "_parentId": "65f4437e57765a9ba01d2074",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -8102,13 +6936,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "21/22 - What data (from TCPR Link), does the dispatcher use to coach you in CPR?",
     "displayTitle": "21/22 - What data (from TCPR Link), does the dispatcher use to coach you in CPR?",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f61",
-    "_parentId": "654df7d977c9ad1f96c18efe",
+    "_id": "65f4437f57765a9ba01d20d6",
+    "_parentId": "65f4437e57765a9ba01d2075",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -8240,13 +7073,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Picture of dispatcher coaching",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f62",
-    "_parentId": "654df7d977c9ad1f96c18efe",
+    "_id": "65f4437f57765a9ba01d20d7",
+    "_parentId": "65f4437e57765a9ba01d2075",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -8319,13 +7151,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "22/22 - What is the dispatcher using the video for?",
     "displayTitle": "22/22 - What is the dispatcher using the video for?",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f63",
-    "_parentId": "654df7d977c9ad1f96c18eff",
+    "_id": "65f4437f57765a9ba01d20d8",
+    "_parentId": "65f4437e57765a9ba01d2076",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -8450,13 +7281,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "No leaning",
-    "body": "<p>This&nbsp;animation demonstrates chest compressions with complete release, which means that rescuer is not leaning on the chest. This is a good way of doing chest compressions.</p>",
-    "_id": "654df7da77c9ad1f96c18f66",
-    "_parentId": "654df7d977c9ad1f96c18ee8",
+    "body": "<p><span style=\"color:#000000\">This&nbsp;animation demonstrates chest compressions with complete release, which means that rescuer is not leaning on the chest. This is a good way of doing chest compressions.</span></p>",
+    "_id": "65f4437f57765a9ba01d20d9",
+    "_parentId": "65f4437e57765a9ba01d205f",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -8464,45 +7294,49 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_inlineFeedback": {
-      "disableSemanticColors": false,
-      "_graphic": {
-        "correct": "",
-        "_incorrect": {
-          "final": "",
-          "notfinal": ""
-        },
-        "_partlyCorrect": {
-          "final": "",
-          "notfinal": ""
-        }
-      }
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "alt": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        }
+      }
+    },
     "_additionalMaterial": {
       "_isEnabled": false,
-      "_button": {
-        "iconOnly": false,
-        "text": "",
-        "ariaLabel": "",
-        "iconClassName": "",
-        "className": ""
-      },
-      "_id": "",
-      "_simpleView": {
-        "title": "",
-        "body": ""
-      },
       "_items": []
     },
-    "_complexGraphicBackup": {
-      "_isEnabled": false
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false
+    "_life": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_componentColors": {
+        "component-bg-color": "",
+        "component-font-color": "",
+        "component-header-color": ""
+      }
     },
     "instruction": "",
     "subtitle": ""
@@ -8515,13 +7349,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "Leaning",
-    "body": "<p>This&nbsp;animation demonstrates compressions with incomplete release which means that the rescuer is leaning on the chest between compressions. This should be avoided.</p>",
-    "_id": "654df7da77c9ad1f96c18f67",
-    "_parentId": "654df7d977c9ad1f96c18f02",
+    "body": "<p><span style=\"color:#000000\">This&nbsp;animation demonstrates compressions with incomplete release which means that the rescuer is leaning on the chest between compressions. This should be avoided.</span></p>",
+    "_id": "65f4437f57765a9ba01d20da",
+    "_parentId": "65f4437e57765a9ba01d2077",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -8529,45 +7362,49 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_inlineFeedback": {
-      "disableSemanticColors": false,
-      "_graphic": {
-        "correct": "",
-        "_incorrect": {
-          "final": "",
-          "notfinal": ""
-        },
-        "_partlyCorrect": {
-          "final": "",
-          "notfinal": ""
-        }
-      }
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "alt": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        }
+      }
+    },
     "_additionalMaterial": {
       "_isEnabled": false,
-      "_button": {
-        "iconOnly": false,
-        "text": "",
-        "ariaLabel": "",
-        "iconClassName": "",
-        "className": ""
-      },
-      "_id": "",
-      "_simpleView": {
-        "title": "",
-        "body": ""
-      },
       "_items": []
     },
-    "_complexGraphicBackup": {
-      "_isEnabled": false
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false
+    "_life": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_componentColors": {
+        "component-bg-color": "",
+        "component-font-color": "",
+        "component-header-color": ""
+      }
     },
     "instruction": "",
     "subtitle": ""
@@ -8580,13 +7417,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
-    "title": "10/22 - Look at this CPR performance and select the correct statements",
-    "displayTitle": "10/22 - Look at this CPR performance and select the correct statements",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Look at this CPR performance and select the correct statements",
+    "displayTitle": "Look at this CPR performance and select the correct statements",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f68",
-    "_parentId": "654df7d977c9ad1f96c18f04",
+    "_id": "65f4437f57765a9ba01d20db",
+    "_parentId": "65f4437e57765a9ba01d2078",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -8594,47 +7430,52 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_inlineFeedback": {
-      "disableSemanticColors": false,
-      "_graphic": {
-        "correct": "",
-        "_incorrect": {
-          "final": "",
-          "notfinal": ""
-        },
-        "_partlyCorrect": {
-          "final": "",
-          "notfinal": ""
-        }
-      }
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "alt": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        }
+      }
+    },
     "_additionalMaterial": {
       "_isEnabled": false,
-      "_button": {
-        "iconOnly": false,
-        "text": "",
-        "ariaLabel": "",
-        "iconClassName": "",
-        "className": ""
-      },
-      "_id": "",
-      "_simpleView": {
-        "title": "",
-        "body": ""
-      },
       "_items": []
     },
-    "_complexGraphicBackup": {
-      "_isEnabled": false
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false
+    "_life": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_componentColors": {
+        "component-bg-color": "",
+        "component-font-color": "",
+        "component-header-color": ""
+      }
     },
     "instruction": "Select multiple answers",
+    "ariaQuestion": "",
     "_items": [
       {
         "text": "Correct rate",
@@ -8713,13 +7554,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f69",
-    "_parentId": "654df7d977c9ad1f96c18f04",
+    "_id": "65f4437f57765a9ba01d20dc",
+    "_parentId": "65f4437e57765a9ba01d2078",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -8783,13 +7623,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
-    "title": "19/22 - Look at this CPR performance and select the correct statements",
-    "displayTitle": "19/22 - Look at this CPR performance and select the correct statements",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Look at this CPR performance and select the correct statements",
+    "displayTitle": "Look at this CPR performance and select the correct statements",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f6a",
-    "_parentId": "654df7d977c9ad1f96c18f05",
+    "_id": "65f4437f57765a9ba01d20dd",
+    "_parentId": "65f4437e57765a9ba01d2079",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -8797,47 +7636,52 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_inlineFeedback": {
-      "disableSemanticColors": false,
-      "_graphic": {
-        "correct": "",
-        "_incorrect": {
-          "final": "",
-          "notfinal": ""
-        },
-        "_partlyCorrect": {
-          "final": "",
-          "notfinal": ""
-        }
-      }
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "alt": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        }
+      }
+    },
     "_additionalMaterial": {
       "_isEnabled": false,
-      "_button": {
-        "iconOnly": false,
-        "text": "",
-        "ariaLabel": "",
-        "iconClassName": "",
-        "className": ""
-      },
-      "_id": "",
-      "_simpleView": {
-        "title": "",
-        "body": ""
-      },
       "_items": []
     },
-    "_complexGraphicBackup": {
-      "_isEnabled": false
-    },
-    "_imageEnlarge": {
-      "_isEnabled": false
+    "_life": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_componentColors": {
+        "component-bg-color": "",
+        "component-font-color": "",
+        "component-header-color": ""
+      }
     },
     "instruction": "Select multiple answers",
+    "ariaQuestion": "",
     "_items": [
       {
         "text": "Correct rate",
@@ -8916,13 +7760,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f6b",
-    "_parentId": "654df7d977c9ad1f96c18f05",
+    "_id": "65f4437f57765a9ba01d20de",
+    "_parentId": "65f4437e57765a9ba01d2079",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -8986,13 +7829,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "New Component Title",
     "body": "",
-    "_id": "654df7da77c9ad1f96c18f6c",
-    "_parentId": "654df7da77c9ad1f96c18f06",
+    "_id": "65f4437f57765a9ba01d20df",
+    "_parentId": "65f4437e57765a9ba01d207a",
     "_type": "component",
     "_layout": "full",
     "_pageLevelProgress": {
@@ -9027,13 +7869,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "12/22 - Where should the phone be placed during CPR?",
     "displayTitle": "12/22 - Where should the phone be placed during CPR?",
     "body": "",
-    "_id": "65538f5977c9ad1f96c19044",
-    "_parentId": "65538f5977c9ad1f96c19043",
+    "_id": "65f4437f57765a9ba01d20e0",
+    "_parentId": "65f4437e57765a9ba01d207b",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -9165,13 +8006,12 @@
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
-    "_ariaLevel": null,
-    "_disableAccessibilityState": false,
+    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Illustration of TCPR Link app feedback ",
     "displayTitle": "",
     "body": "",
-    "_id": "65538f5977c9ad1f96c19045",
-    "_parentId": "65538f5977c9ad1f96c19043",
+    "_id": "65f4437f57765a9ba01d20e1",
+    "_parentId": "65f4437e57765a9ba01d207b",
     "_type": "component",
     "_layout": "right",
     "_onScreen": {
@@ -9229,6 +8069,229 @@
       "longdescription": "",
       "large": "course/en/assets/4f886e6b1a343c375908f0574fe7807b0460f41c.png",
       "small": "course/en/assets/4f886e6b1a343c375908f0574fe7807b0460f41c.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Congratulations!",
+    "displayTitle": "Congratulations!",
+    "body": "<p><span style=\"color:#000000\">You have now completed the e-learning for TCPR Link and are only a few steps away from being ready.&nbsp;<br /><u>Next, you need to complete a&nbsp;quiz to use the system.&nbsp;&nbsp;</u></span></p><p><span style=\"color:#000000\">Please continue on and take the quiz by clicking the following&nbsp;link:</span></p><p><a href=\"https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fimsva91-ctp.trendmicro.com%2Fwis%2Fclicktime%2Fv1%2Fquery%3Furl%3Dhttps%253a%252f%252ffor.sg%252fb65nha%26umid%3DB3A89C5D-1299-9306-BF3E-CEAD11603BD7%26auth%3D6e3fe59570831a389716849e93b5d483c90c3fe4-3a4a1ad6d155ab6bdfdd4f3fd1a12a2aa8b223c2&amp;data=05%7C02%7CTonje.Soraas.Birkenes%40laerdal.com%7C27efaa62e647446bb20008dc3be859dd%7Cb223ef84eb3744e08ef96b666a35bdce%7C0%7C0%7C638451116348249477%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=XX9LDeHCrl3itJ32pQFgcVVkfdtAPIxJ7fUGk5hkKVk%3D&amp;reserved=0\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\"><span style=\"color:#000000\">https://for.sg/b65nha</span></a><span style=\"color:#000000\">.</span></p>",
+    "_id": "65f4476e57765a9ba01d2297",
+    "_parentId": "65f4437e57765a9ba01d2041",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "alt": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
+    "_life": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_componentColors": {
+        "component-bg-color": "",
+        "component-font-color": "",
+        "component-header-color": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Link to quiz",
+    "displayTitle": "",
+    "body": "",
+    "_id": "65f447e357765a9ba01d229c",
+    "_parentId": "65f4437e57765a9ba01d2041",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "alt": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
+    "_life": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_componentColors": {
+        "component-bg-color": "",
+        "component-font-color": "",
+        "component-header-color": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/4b290b05600f8d94f2b751dac2b022e0586359d2.png",
+      "small": "course/en/assets/4b290b05600f8d94f2b751dac2b022e0586359d2.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Logo",
+    "displayTitle": "",
+    "body": "",
+    "_id": "65f449f657765a9ba01d22a0",
+    "_parentId": "65f449de57765a9ba01d229f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_imageEnlarge": {
+      "_isEnabled": false,
+      "_text": {
+        "_isAttributionIncluded": false,
+        "_isDescriptionIncluded": false
+      }
+    },
+    "_inlineFeedback": {
+      "disableSemanticColors": false,
+      "_graphic": {
+        "correct": "",
+        "alt": "",
+        "_incorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        },
+        "_partlyCorrect": {
+          "final": "",
+          "notfinal": "",
+          "alt": ""
+        }
+      }
+    },
+    "_additionalMaterial": {
+      "_isEnabled": false,
+      "_items": []
+    },
+    "_life": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_componentColors": {
+        "component-bg-color": "",
+        "component-font-color": "",
+        "component-header-color": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/a8835fdd1f4cb498cd3dc1533c312cc4129fa6e7.png",
+      "small": "course/en/assets/a8835fdd1f4cb498cd3dc1533c312cc4129fa6e7.png",
       "attribution": "",
       "_url": "",
       "_target": null

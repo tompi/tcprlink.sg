@@ -1,0 +1,26 @@
+For the testing: have a cpr card ready, and preferably the same mobile as you used the 16th.
+
+First:
+Check wifi ssid for mobile and laptop, and verify laptop is not on cable.
+Since there is a new release, make sure to reload the web: ctrl+R
+
+Foreach test:
+Initiate a call from mobile, connect from web.
+
+During:
+Anything unexpected:   
+  Note time, and short description.
+  Mobile: 
+    Take a screenshot or picture.(screenshot of mobile, want to know the color of the small status-circles).
+    Then check you have internet connectivity(try a common web page).
+  Web: 
+    Take a screenshot or picture.
+    Then check you have internet connectivity(try a common web page).
+    Then try refresh button.
+Send mobile log file after each unexpected incident.
+
+Try with 6.1.1 if this is installed on mobile.
+If we can recreate, upgrade to 6.3.0, see if this helps.
+If not, try to disable wifi, see if this helps.
+Try to disable 4G/mobile data, and ONLY use wifi, see if problem occurs more frequently.
+

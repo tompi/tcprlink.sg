@@ -17,8 +17,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18e8d",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2004",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -71,6 +71,7 @@
     "_overviewMenu": {
       "_renderAsGroup": false,
       "_backgroundImage": {
+        "_xlarge": "",
         "_large": "",
         "_medium": "",
         "_small": ""
@@ -83,6 +84,7 @@
       "_menuHeader": {
         "_displayAboveHeader": false,
         "_backgroundImage": {
+          "_xlarge": "",
           "_large": "",
           "_medium": "",
           "_small": ""
@@ -93,6 +95,7 @@
           "_backgroundPosition": null
         },
         "_minimumHeights": {
+          "_xlarge": null,
           "_large": null,
           "_medium": null,
           "_small": null
@@ -101,6 +104,7 @@
     },
     "_life": {
       "_backgroundImage": {
+        "_xlarge": "",
         "_large": "",
         "_medium": "",
         "_small": ""
@@ -110,8 +114,20 @@
         "_backgroundSize": null,
         "_backgroundPosition": null
       },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
       "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
         "_backgroundImage": {
+          "_xlarge": "",
           "_large": "",
           "_medium": "",
           "_small": ""
@@ -122,6 +138,7 @@
           "_backgroundPosition": null
         },
         "_minimumHeights": {
+          "_xlarge": null,
           "_large": null,
           "_medium": null,
           "_small": null
@@ -147,9 +164,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18e90",
-    "_parentId": "654df7d977c9ad1f96c18e8d",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2008",
+    "_parentId": "65f4437e57765a9ba01d2004",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -159,6 +176,12 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_navigationFooter": {
       "_enableOverride": "",
@@ -192,15 +215,10 @@
         }
       }
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_lifeMenu": {
+    "_overviewMenu": {
       "_renderAsGroup": false,
       "_backgroundImage": {
+        "_xlarge": "",
         "_large": "",
         "_medium": "",
         "_small": ""
@@ -213,6 +231,7 @@
       "_menuHeader": {
         "_displayAboveHeader": false,
         "_backgroundImage": {
+          "_xlarge": "",
           "_large": "",
           "_medium": "",
           "_small": ""
@@ -223,6 +242,7 @@
           "_backgroundPosition": null
         },
         "_minimumHeights": {
+          "_xlarge": null,
           "_large": null,
           "_medium": null,
           "_small": null
@@ -231,6 +251,7 @@
     },
     "_life": {
       "_backgroundImage": {
+        "_xlarge": "",
         "_large": "",
         "_medium": "",
         "_small": ""
@@ -240,8 +261,20 @@
         "_backgroundSize": null,
         "_backgroundPosition": null
       },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
       "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
         "_backgroundImage": {
+          "_xlarge": "",
           "_large": "",
           "_medium": "",
           "_small": ""
@@ -252,6 +285,7 @@
           "_backgroundPosition": null
         },
         "_minimumHeights": {
+          "_xlarge": null,
           "_large": null,
           "_medium": null,
           "_small": null
@@ -277,9 +311,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18e95",
-    "_parentId": "654df7d977c9ad1f96c18e8c",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d200d",
+    "_parentId": "65f4437e57765a9ba01d2003",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -407,9 +441,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18e98",
-    "_parentId": "654df7d977c9ad1f96c18e8f",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2010",
+    "_parentId": "65f4437e57765a9ba01d2006",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -537,9 +571,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18e9b",
-    "_parentId": "654df7d977c9ad1f96c18e8e",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2013",
+    "_parentId": "65f4437e57765a9ba01d2005",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -667,8 +701,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18e8e",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2005",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -679,6 +713,12 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_navigationFooter": {
       "_enableOverride": "",
@@ -712,15 +752,10 @@
         }
       }
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
     "_overviewMenu": {
       "_renderAsGroup": false,
       "_backgroundImage": {
+        "_xlarge": "",
         "_large": "",
         "_medium": "",
         "_small": ""
@@ -733,6 +768,7 @@
       "_menuHeader": {
         "_displayAboveHeader": false,
         "_backgroundImage": {
+          "_xlarge": "",
           "_large": "",
           "_medium": "",
           "_small": ""
@@ -743,6 +779,7 @@
           "_backgroundPosition": null
         },
         "_minimumHeights": {
+          "_xlarge": null,
           "_large": null,
           "_medium": null,
           "_small": null
@@ -751,6 +788,7 @@
     },
     "_life": {
       "_backgroundImage": {
+        "_xlarge": "",
         "_large": "",
         "_medium": "",
         "_small": ""
@@ -760,8 +798,20 @@
         "_backgroundSize": null,
         "_backgroundPosition": null
       },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
       "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
         "_backgroundImage": {
+          "_xlarge": "",
           "_large": "",
           "_medium": "",
           "_small": ""
@@ -772,6 +822,7 @@
           "_backgroundPosition": null
         },
         "_minimumHeights": {
+          "_xlarge": null,
           "_large": null,
           "_medium": null,
           "_small": null
@@ -797,9 +848,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 1,
-    "_id": "654df7d977c9ad1f96c18e91",
-    "_parentId": "654df7d977c9ad1f96c18e8d",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2009",
+    "_parentId": "65f4437e57765a9ba01d2004",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -944,9 +995,139 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18e93",
-    "_parentId": "654df7d977c9ad1f96c18e8e",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d200b",
+    "_parentId": "65f4437e57765a9ba01d2005",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_navigationFooter": {
+      "_enableOverride": "",
+      "_footerText": {
+        "text": ""
+      },
+      "_buttons": {
+        "_home": {
+          "_enableOverride": ""
+        },
+        "_up": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_previous": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_next": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_close": {
+          "_enableOverride": "",
+          "btnText": ""
+        },
+        "_custom": {
+          "_enableOverride": "",
+          "btnText": "",
+          "_id": ""
+        }
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_lifeMenu": {
+      "_renderAsGroup": false,
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_menuHeader": {
+        "_displayAboveHeader": false,
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    },
+    "_life": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Course summary",
+    "displayTitle": "Course summary",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d200e",
+    "_parentId": "65f4437e57765a9ba01d2003",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1074,9 +1255,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18e99",
-    "_parentId": "654df7d977c9ad1f96c18e8f",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2011",
+    "_parentId": "65f4437e57765a9ba01d2006",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1221,8 +1402,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18e8f",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2006",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -1233,6 +1414,12 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_navigationFooter": {
       "_enableOverride": "",
@@ -1266,15 +1453,10 @@
         }
       }
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
     "_overviewMenu": {
       "_renderAsGroup": false,
       "_backgroundImage": {
+        "_xlarge": "",
         "_large": "",
         "_medium": "",
         "_small": ""
@@ -1287,6 +1469,7 @@
       "_menuHeader": {
         "_displayAboveHeader": false,
         "_backgroundImage": {
+          "_xlarge": "",
           "_large": "",
           "_medium": "",
           "_small": ""
@@ -1297,6 +1480,7 @@
           "_backgroundPosition": null
         },
         "_minimumHeights": {
+          "_xlarge": null,
           "_large": null,
           "_medium": null,
           "_small": null
@@ -1305,6 +1489,7 @@
     },
     "_life": {
       "_backgroundImage": {
+        "_xlarge": "",
         "_large": "",
         "_medium": "",
         "_small": ""
@@ -1314,8 +1499,20 @@
         "_backgroundSize": null,
         "_backgroundPosition": null
       },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
       "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
         "_backgroundImage": {
+          "_xlarge": "",
           "_large": "",
           "_medium": "",
           "_small": ""
@@ -1326,6 +1523,7 @@
           "_backgroundPosition": null
         },
         "_minimumHeights": {
+          "_xlarge": null,
           "_large": null,
           "_medium": null,
           "_small": null
@@ -1351,9 +1549,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18e92",
-    "_parentId": "654df7d977c9ad1f96c18e8d",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d200a",
+    "_parentId": "65f4437e57765a9ba01d2004",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1481,9 +1679,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18e94",
-    "_parentId": "654df7d977c9ad1f96c18e8e",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d200c",
+    "_parentId": "65f4437e57765a9ba01d2005",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1594,8 +1792,8 @@
     }
   },
   {
-    "title": "Course summary",
-    "displayTitle": "Course summary",
+    "title": "Course completed",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
     "subtitle": "",
@@ -1611,9 +1809,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18e96",
-    "_parentId": "654df7d977c9ad1f96c18e8c",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d200f",
+    "_parentId": "65f4437e57765a9ba01d2003",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1624,6 +1822,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_navigationFooter": {
       "_enableOverride": "",
       "_footerText": {
@@ -1631,18 +1835,18 @@
       },
       "_buttons": {
         "_home": {
-          "_enableOverride": ""
+          "_enableOverride": "enable"
         },
         "_up": {
           "_enableOverride": "",
           "btnText": ""
         },
         "_previous": {
-          "_enableOverride": "",
+          "_enableOverride": "disable",
           "btnText": ""
         },
         "_next": {
-          "_enableOverride": "",
+          "_enableOverride": "disable",
           "btnText": ""
         },
         "_close": {
@@ -1656,15 +1860,10 @@
         }
       }
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_lifeMenu": {
+    "_overviewMenu": {
       "_renderAsGroup": false,
       "_backgroundImage": {
+        "_xlarge": "",
         "_large": "",
         "_medium": "",
         "_small": ""
@@ -1677,6 +1876,7 @@
       "_menuHeader": {
         "_displayAboveHeader": false,
         "_backgroundImage": {
+          "_xlarge": "",
           "_large": "",
           "_medium": "",
           "_small": ""
@@ -1687,6 +1887,7 @@
           "_backgroundPosition": null
         },
         "_minimumHeights": {
+          "_xlarge": null,
           "_large": null,
           "_medium": null,
           "_small": null
@@ -1695,6 +1896,7 @@
     },
     "_life": {
       "_backgroundImage": {
+        "_xlarge": "",
         "_large": "",
         "_medium": "",
         "_small": ""
@@ -1704,8 +1906,20 @@
         "_backgroundSize": null,
         "_backgroundPosition": null
       },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
       "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
         "_backgroundImage": {
+          "_xlarge": "",
           "_large": "",
           "_medium": "",
           "_small": ""
@@ -1716,6 +1930,7 @@
           "_backgroundPosition": null
         },
         "_minimumHeights": {
+          "_xlarge": null,
           "_large": null,
           "_medium": null,
           "_small": null
@@ -1741,9 +1956,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18e9d",
-    "_parentId": "654df7d977c9ad1f96c18e8f",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2015",
+    "_parentId": "65f4437e57765a9ba01d2006",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1871,8 +2086,8 @@
     }
   },
   {
-    "title": "Chapter 4: Knowledge check",
-    "displayTitle": "Chapter 4: Knowledge check",
+    "title": "Chapter 4: Course summary",
+    "displayTitle": "Chapter 4: Course summary",
     "body": "",
     "_classes": "",
     "subtitle": "",
@@ -1888,8 +2103,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18e8c",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2003",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -2018,136 +2233,6 @@
     }
   },
   {
-    "title": "Confidence",
-    "displayTitle": "Confidence",
-    "body": "",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>During this course you have acquired new competencies that will enable you to use the TCPR link system to increase the CPR quality and thereby improve the chance of survival for people suffering a cardiac arrest.</p><p>As a conclusion for this e-learning course, please complete the following survey to indicate your own perceived confidence levels.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18e9a",
-    "_parentId": "654df7d977c9ad1f96c18e8c",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": ""
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_navigationFooter": {
-      "_enableOverride": "",
-      "_footerText": {
-        "text": ""
-      },
-      "_buttons": {
-        "_home": {
-          "_enableOverride": ""
-        },
-        "_up": {
-          "_enableOverride": "",
-          "btnText": ""
-        },
-        "_previous": {
-          "_enableOverride": "",
-          "btnText": ""
-        },
-        "_next": {
-          "_enableOverride": "",
-          "btnText": ""
-        },
-        "_close": {
-          "_enableOverride": "",
-          "btnText": ""
-        },
-        "_custom": {
-          "_enableOverride": "",
-          "btnText": "",
-          "_id": ""
-        }
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_lifeMenu": {
-      "_renderAsGroup": false,
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_menuHeader": {
-        "_displayAboveHeader": false,
-        "_backgroundImage": {
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    },
-    "_life": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_pageHeader": {
-        "_backgroundImage": {
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "CPRcard user guide",
     "displayTitle": "CPRcard user guide",
     "body": "",
@@ -2165,9 +2250,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18e9c",
-    "_parentId": "654df7d977c9ad1f96c18e8e",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65f4437e57765a9ba01d2014",
+    "_parentId": "65f4437e57765a9ba01d2005",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2270,153 +2355,6 @@
           "_backgroundPosition": null
         },
         "_minimumHeights": {
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Course completed",
-    "displayTitle": "Course completed",
-    "body": "",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": null,
-    "_id": "654df7d977c9ad1f96c18e97",
-    "_parentId": "654df7d977c9ad1f96c18e8c",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": ""
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_navigationFooter": {
-      "_enableOverride": "",
-      "_footerText": {
-        "text": ""
-      },
-      "_buttons": {
-        "_home": {
-          "_enableOverride": "enable"
-        },
-        "_up": {
-          "_enableOverride": "",
-          "btnText": ""
-        },
-        "_previous": {
-          "_enableOverride": "disable",
-          "btnText": ""
-        },
-        "_next": {
-          "_enableOverride": "disable",
-          "btnText": ""
-        },
-        "_close": {
-          "_enableOverride": "",
-          "btnText": ""
-        },
-        "_custom": {
-          "_enableOverride": "",
-          "btnText": "",
-          "_id": ""
-        }
-      }
-    },
-    "_overviewMenu": {
-      "_renderAsGroup": false,
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_menuHeader": {
-        "_displayAboveHeader": false,
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    },
-    "_life": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
           "_large": null,
           "_medium": null,
           "_small": null

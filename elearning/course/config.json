@@ -8,8 +8,8 @@
   "_generateSourcemap": false,
   "_forceRouteLocking": true,
   "_disableAnimationFor": [],
-  "_id": "654df7da77c9ad1f96c18f6d",
-  "_courseId": "654df7d977c9ad1f96c18e8b",
+  "_id": "65f4437f57765a9ba01d20e4",
+  "_courseId": "65f4437e57765a9ba01d2002",
   "_drawer": {
     "_showEasing": "easeOutQuart",
     "_hideEasing": "easeInQuart",
@@ -30,7 +30,7 @@
       "_notify": "1"
     }
   },
-  "__v": 1,
+  "__v": 0,
   "_completionCriteria": {
     "_requireContentCompleted": true,
     "_requireAssessmentCompleted": false
@@ -102,7 +102,7 @@
       "cdnid": "cdn-esim",
       "groupid": "default-project",
       "courseid": "SIMON TEST",
-      "version": "1.0.0"
+      "version": "0.0.1"
     },
     "_manifestDeployment": {
       "cdnid": "cdn-esim",
